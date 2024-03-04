@@ -1,0 +1,11 @@
+{
+  "version": "v0.0.2",
+  "notes": "First Udpate Test",
+  "pub_date": "2024-03-01T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlpHUFpkQjhxRFhYNWFhN3ZTanRVdWNIbEhtd2RLOXQwZFNRZjQ3ZzZPdUJzN2V3SmI4TUJreWpkakhNVkExVjF6VDNLWllqaG5pb1doblc5MENRR0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NTg1MjI4CWZpbGU6QXJpYU9TM19UU19FbnRyYVNQQV8wLjAuMl94NjRfZW4tVVMubXNpLnppcApoN1NjOUhDbzZ3Zmd6RFdlMlh3c2FUelRlZFZYTEFVT3krb3pZYjc4cVVwUXRpT2xmS29CVUpGVFFJMVV3M2FodXBpSzFRSVk5b1M3SGU1blVxRjdCQT09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AriaOS3_TS_EntraSPA_0.0.2_x64_en-US.msi.zip"
+    }
+  }
+}
