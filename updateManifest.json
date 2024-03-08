@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.2",
+  "version": "v0.0.3",
   "notes": "First Udpate Test",
-  "pub_date": "2024-03-01T12:00:00Z",
+  "pub_date": "2024-03-07T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlYzOHNFRlJGNENnTFhTdEYxcTVNRmpKOUFRTGlZZldjSUdlRnNiNkh1SVIrRnRpTHRSWEhnMkM1b3N1V1NLK1BxU2dUd29HMGdvV05abVhIQjVOUGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NTk5MTgzCWZpbGU6QXJpYU9TM19UU19FbnRyYVNQQV8wLjAuMl94NjRfZW4tVVMubXNpLnppcApLaXIyeitXQUc5OU9NU3NHd2lBVHRXdVY4bHREYVhRczhReHNQS0JNdHppQ2JPR1dURDRmQUY2Q3FJcFdOMFg0N2dhSDBEQTJaRGt3dFhxSnhWOHFBZz09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AriaOS3_TS_EntraSPA_0.0.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlYveFYwRis0ZFd6cTZveW1Jc21ReHJYK2ZBcDVSV2RkbGxUQmx3QmhOa3g5OTJNQjZreDhqMUFYaFRjWkFHcDRONGpBdllRKzVYLzhHS0ZuTVE1MUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5ODU2ODYwCWZpbGU6QXJpYU9TM19UU19FbnRyYVNQQV8wLjAuM194NjRfZW4tVVMubXNpLnppcAo2ZkxxRXlBSDV1TnlZa3lkeE9NT083WXpQa291NEwrVUhOTXRHTmJGemhkY2NWT2czUFk0VEZMa2ZmSE16TG4xVVIwUTNpaFlnZXFzOVdSbFVTU1FDdz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AriaOS3_TS_EntraSPA_0.0.3_x64_en-US.msi.zip"
     }
   }
 }
