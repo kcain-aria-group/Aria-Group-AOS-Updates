@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.4",
-  "notes": "First Udpate Test",
-  "pub_date": "2024-03-07T12:00:00Z",
+  "version": "v0.0.5",
+  "notes": "Initial Bom tooling fully complete. Releasing current tool set for debugging purposes",
+  "pub_date": "2024-03-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlJLMHhYRTJLV1lFd2ZNR1MyeHdQVlNlUzZ0V1UwL1gxdjZJZG9JTGtqZmFHZXUwVHpXUk5HVklOR0ZtU3lBcTV5T25CbkcvZVAxNy8vNjVZTm5PL0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzY2MjU4CWZpbGU6QXJpYU9TM19UU19FbnRyYVNQQV8wLjAuNF94NjRfZW4tVVMubXNpLnppcApWMlZKNDBQL1IxdVFjTmQxT2ZSWGo2bE9VQTFoNUJUYUUrZlFrMFRUQjdHR05FQ3BHbnM3UWpHeDNUVWJ5S21ObUVQeVk0ZE1YODFCVHdMM1JNclhDUT09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AriaOS3_TS_EntraSPA_0.0.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlF3ZnJTQkdwbXNkeHV4eVBUT2wvczJBOW9sbHJoeFh2SzdNWXpHTUpyVkpHcFR6Uk1zVHM3RGtNaUY1WjNlamZWNm9MNVRVMlBNZStFb0E3QVljUWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwODAxNDQ0CWZpbGU6QXJpYU9TM19UU19FbnRyYVNQQV8wLjAuNV94NjRfZW4tVVMubXNpLnppcApaZlVoMGZSNnovMWtPMXM1T29UQ3E0RlFpZ0V4QmYwODhXYXFHanlwa1YxWE9iTnZRRFRlckxEUmxkQ0RZZGN5RHFZWDNwUXNiQVJadGRiMGJvdGpEZz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AriaOS3_TS_EntraSPA_0.0.5_x64_en-US.msi.zip"
     }
   }
 }
