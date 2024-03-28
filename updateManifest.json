@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.7",
-  "notes": "Nearly finished BOM page tooling, UI and API",
-  "pub_date": "2024-03-26T12:00:00Z",
+  "version": "v0.0.8",
+  "notes": "BOM Loggic is complete. Queue Logic under development",
+  "pub_date": "2024-03-28T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWmE5KzRpcHFPbGltLzcxNlhidmppRUt1bTYyc1NrK2YwaG1OSWRrNUt5OWh5VHNhUVlQK054enNzNFd0TE5iNU40NzFVY1FjbGJyMGYwL1FzNzB0TFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExNTA0NzM3CWZpbGU6QXJpYU9TM19UU19FbnRyYVNQQV8wLjAuN194NjRfZW4tVVMubXNpLnppcApNbXVJbmVHQjhKdkJ2d29nd0ZJVGhlMEpqRHNPV1M4R2hQMGdWQTZmcVdETUVPcFNhRVVwS0o4T0EvWG55aGltVWxiSGZMbU5mTnZhQW1WUFpQWXVBQT09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AriaOS3_TS_EntraSPA_0.0.7_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlRDbGg1Z1o5TEZyMm5jdTYzOXZoamx3WGt2RExUekxQa2RWU3A0VThNTWNLc2F2UG5uWFhHajhGeWc0ak1zaHQ4cEY2MkI1MWJqZFJva29SNVNuYVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExNjUzNTkxCWZpbGU6QXJpYV9PU18zXzAuMC44X3g2NF9lbi1VUy5tc2kuemlwCkxFTUVxWStoaU44Q2ZHNXJlT2tPc2VRTFFzaDltZE5rd2dZdkFPQnZsSWM5eVVtTDQ4Rk1TaFRZbVIyT2ZTbmU1ZDNhZnhBVlFTbjFVVHgyYThiSUN3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/Aria_OS_3_0.0.8_x64_en-US.msi.zip"
     }
   }
 }
