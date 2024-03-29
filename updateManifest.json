@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.8",
+  "version": "v0.0.9",
   "notes": "BOM Loggic is complete. Queue Logic under development",
   "pub_date": "2024-03-28T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlRDbGg1Z1o5TEZyMm5jdTYzOXZoamx3WGt2RExUekxQa2RWU3A0VThNTWNLc2F2UG5uWFhHajhGeWc0ak1zaHQ4cEY2MkI1MWJqZFJva29SNVNuYVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExNjUzNTkxCWZpbGU6QXJpYV9PU18zXzAuMC44X3g2NF9lbi1VUy5tc2kuemlwCkxFTUVxWStoaU44Q2ZHNXJlT2tPc2VRTFFzaDltZE5rd2dZdkFPQnZsSWM5eVVtTDQ4Rk1TaFRZbVIyT2ZTbmU1ZDNhZnhBVlFTbjFVVHgyYThiSUN3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/Aria_OS_3_0.0.8_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlZOaXBXNmUzOFByWGxqbWFXWlp4THZCZ2ZKVHN3Unc4eUhEK2toU00vMXg4MkVtaDMvTVg1a3FHR3d5QkpYUFlIdDRmMHpsb05EeGMyZml3RHgvY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExNzQ4NjAzCWZpbGU6QXJpYV9PU18zXzAuMC45X3g2NF9lbi1VUy5tc2kuemlwCmhGVDZjdDZocUF1ZytoWU10YmwxSjY4dU8yajdRcWN2dEJsRzVPSXZ0UmZUOGNlUTFDSDlqMkF5RmZSZ1c2dGJXV3F1VGdsNjI5ZFprc0Fha1k1SkF3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/Aria_OS_3_0.0.9_x64_en-US.msi.zip"
     }
   }
 }
