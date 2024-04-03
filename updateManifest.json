@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.10",
-  "notes": "BOM Loggic is complete. Queue Logic under development",
-  "pub_date": "2024-04-02T12:00:00Z",
+  "version": "v0.0.11",
+  "notes": "Added Hierarchical Tooling",
+  "pub_date": "2024-04-03T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlZKK3psL1cyemVhSmtRVTBFSDkwaEdNa0dpL0FQSW1RUi85MTVWS3hsMGhGckRpK2trWTNuOUVZWVFrVnRqTlhoOFpGVTJBYk15QlJHbnI1QWtleGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyMTAzNjIwCWZpbGU6QXJpYV9PU18zXzAuMC4xMF94NjRfZW4tVVMubXNpLnppcApCV1hmV2F4NXg2ZndMUnlaQmg4d24rSkJpU0k5VGlMV1JBWTEzZVBFd1kvR0Z5WnZjOHpsY09QNmN4QjlaY252M0xsMWE1Zjc0N3VtblNkK1dXVFVBdz09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/Aria_OS_3_0.0.10_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWlpNTDU5eXBBYjJqZHVFMEppSlc0eFBKNElDWWNVRlg1dnQ1eWVucFZvWi9GblVWRFNad0s0VVNDQTZ6M1dqVnBSYW1JVEVFMXJoY3J3a3ZyWSsrUkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyMTYzMjc5CWZpbGU6QXJpYV9PU18zXzAuMC4xMV94NjRfZW4tVVMubXNpLnppcApOWUNkUmhWNzlnTGhhaHRKTk9vdWQweG91T1QwM1BWZUZUOWFEdDYydE8rZll6SW9OR2h0YTVtVnQvVTJ5dk5VbjdpOVdYOXpRWDRUYUk3aUkxZTZBUT09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/Aria_OS_3_0.0.11_x64_en-US.msi.zip"
     }
   }
 }
