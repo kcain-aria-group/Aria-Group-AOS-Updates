@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.11",
-  "notes": "Added Hierarchical Tooling",
-  "pub_date": "2024-04-03T12:00:00Z",
+  "version": "v1.0.1",
+  "notes": "First major release and update.",
+  "pub_date": "2024-06-25T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3lFU2QzaXRiWmRJdjU4ZVRlSnlSSnE4L1VtL3pPQ0NBQ3pjWnVqNHZYNUw3QVpnMFg4cEF0UG9VVVA4aEJSNjMxZWNOL0hYaTBQSmtMd3diT2hOV3lYWjduR1ZFYVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyMTc4ODQwCWZpbGU6QXJpYV9PU18zXzAuMC4xMV94NjRfZW4tVVMubXNpLnppcAorZU85MERvcW5zNEZBQU4vVGQrMzc0ZFNvUWVMS1kxSmc4OG9kSkJCNVVoWitzNGhHV1ZKVjRFRjBDeW51enNRWXNPWmUwYjhkdXg0djRMYlIxQlFDdz09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/Aria_OS_3_0.0.11_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNidnd5a3BnTnI2Z1BNYTNmcGl0RituVE9TSHdxbGtUY2luUTlMenVicThNcEkvRDZRMDY1RjFhYU4xa09NWkF2S3RJTVM5NXlxOXlKQTdOMml4ZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MDc2NTc5CWZpbGU6QU9TXzNfMS4wLjFfeDY0X2VuLVVTLm1zaS56aXAKcUdPcjEvYWN0c1FuZldRR2h6SERFUmxONmZYTkVPN1hmQ0VmTU1RNUNqUll5c2FWR1lWNTlSWnM0ZG9aaHJBT3Roa1JiamxiZEVGbTN2eVhEYXNhQUE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.1_x64_en-US.msi.zip"
     }
   }
 }
