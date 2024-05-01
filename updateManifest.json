@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.2",
-  "notes": "Introducing Bug Logging/Tracking along with several UI updates.",
-  "pub_date": "2024-04-29T12:00:00Z",
+  "version": "v1.0.3",
+  "notes": "Pushing many small updates based upon user feedback.",
+  "pub_date": "2024-05-01T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azA5SFo4bnhjRFRqejFUYkdXYTNwc2hmYlZMVGgvbVVna0VQbG9vVitReW1Fb3VqYjdaSXA2dm41aTkzR3ArMlROTTJabHZxb040bUI2N3hxYmU4aHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDM2NzU0CWZpbGU6QU9TXzNfMS4wLjJfeDY0X2VuLVVTLm1zaS56aXAKdjJ3cGRDbEptSDBNL3VDWUt1bExhcHUxYUE1TEI3bjJNWGJIWGR1cjY3RnRCeFYvZld2d21obzg2M1JMdGtiYTRwWkVIdWpVNlk3VHJYaTZ5N1JFQ3c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhWQXE3ZXVSYTRPRmZOTHJLa1JFMVpwQldtSW5lZXFId3lseEhqdE00YytoSGE0WmFmVndKTnlxVU5GMnN5YkU2a0phTkYzZEk4MnFHRmpGdlN6WXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NjAxOTYxCWZpbGU6QU9TXzNfMS4wLjNfeDY0X2VuLVVTLm1zaS56aXAKQkJxRE93ZFJvdmtaTjBKR1RJeHJoV1QxWkxJajJJQjN3c3BIQUFKNFJGSnQ2TXVCL3ZlTTQxVnpZdXcwR2IwNlJuTzh5Wk9BMW1qK21TUDNaSXRuQmc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.3_x64_en-US.msi.zip"
     }
   }
 }
