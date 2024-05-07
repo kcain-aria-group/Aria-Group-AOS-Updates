@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.4",
-  "notes": "Added 2 new columns; Completed, and CMF. Added Project status selection. Corrected several reported bugs.",
-  "pub_date": "2024-05-03T12:00:00Z",
+  "version": "v1.0.5",
+  "notes": "Introduced kit sheet exports, Feature requests, along with QR codes(Not yet operational).",
+  "pub_date": "2024-05-07T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azltUE4xQ3F5YnI0VTVRMEJZdWZKVTBLYzJXVGliTG9JbEtmbGVlSXJYejZham9BRW5XRU1jWkVNeHhsc2pmZHg3aE1OQjdRcHUzK0hEZnVQbUd6MWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NzU2NjY1CWZpbGU6QU9TXzNfMS4wLjRfeDY0X2VuLVVTLm1zaS56aXAKbDlTMFlja2RMTkpYeDFtSVZtOVBpMi9yNEgxVjJGM1FYRGE5bXFpZ3ZrdUQ3Zjk3eHRNN3I5ejY1N0ZEdWJieC80NHhZT0ljckxTUENBcEdEMmptQUE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azkyWjBUMGRwOVBUbXNXek9nSkxhNHFOSEJBaVpTMjE5bGdDanVVUmdDZ2pFbFdDYlZ1cVgyNDZvdVdKUmlKQ0NBUngwV2RSUlZ4bE0rcU1kTy96TmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1MTE0MjMzCWZpbGU6QU9TXzNfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKcDQwNlZIR1J0cnpzRjJGdHNrOFV3VWcrODQzb1VUazZkc0s0QjkzdmdEOFNqVkFERXk2ZjkvTGRXM3NiNGpETnI1TytOOGdJR1hzMmlVMUlReWpMRHc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.5_x64_en-US.msi.zip"
     }
   }
 }
