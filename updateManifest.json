@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.5",
-  "notes": "Introduced kit sheet exports, Feature requests, along with QR codes(Not yet operational).",
-  "pub_date": "2024-05-07T12:00:00Z",
+  "version": "v1.0.6",
+  "notes": "Introduced RTQ button. Implemented auto-signin, loading screen, and optimized UI bahaviors.",
+  "pub_date": "2024-05-08T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azkyWjBUMGRwOVBUbXNXek9nSkxhNHFOSEJBaVpTMjE5bGdDanVVUmdDZ2pFbFdDYlZ1cVgyNDZvdVdKUmlKQ0NBUngwV2RSUlZ4bE0rcU1kTy96TmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1MTE0MjMzCWZpbGU6QU9TXzNfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKcDQwNlZIR1J0cnpzRjJGdHNrOFV3VWcrODQzb1VUazZkc0s0QjkzdmdEOFNqVkFERXk2ZjkvTGRXM3NiNGpETnI1TytOOGdJR1hzMmlVMUlReWpMRHc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.5_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dpaFhnWUJnK2dheVM2REMwbVJVRXZzWHd1WGJ6S3VSV1NNaldTUWs5K3hGRUsrOUhBMnViUWtjeEpRV2VwQ3dTUVhVcUtQRjZpdnduaEZCZzQ4K2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1MjA5NjkzCWZpbGU6QU9TXzNfMS4wLjZfeDY0X2VuLVVTLm1zaS56aXAKYnh2UU8xcWh5cDFCc0hFaDFES1orMGhVUjh5eUZjWkgxYm5sdFZKcnpMeEM3S2tUMGFZN0hnVS9pUk5raGFodTZxZ1hPRDdOdzNhTzhQV3B5ck1oQ3c9PQo",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.6_x64_en-US.msi.zip"
     }
   }
 }
