@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.9",
-  "notes": "CNC search/filter tooling COmpleted. UI tweaks. Implemented version update status notification.",
-  "pub_date": "2024-05-15T12:00:00Z",
+  "version": "v1.0.10",
+  "notes": "Corrected server bugs, Improved CNC network/API logic, Corrected CNC popup behaviors, Refactored many unserlying infrastructural components",
+  "pub_date": "2024-05-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azczZlZQdW5UL25lVmhmd3JvSG5SZXdabkI5ZWtEL25rVGo0UmhpalpXTUVzSGxHUG5lWHR0SVU3bzMzbmZvZVc5MjBBV1psUCtTVmlLeFVMSEtiOEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1ODE1ODc4CWZpbGU6QU9TXzNfMS4wLjlfeDY0X2VuLVVTLm1zaS56aXAKRmNRNXA1U2dkQnlhTURVU2NQQVlKa1ozaThFdGlIRlhyNXlNS0ovcm1oN0FmTW9TRG80MHBoVTlpSE9CV1h1YVkrVFd3a2UwNTZaNUNDaEtyRjRlQ1E9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.9_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVwUXF0d09kYm5IYUlqY2JaYmFYN1dzdkM4ckpDU0xMa1hqUEdESDF6bWRQOGNhdUFvRkRrcmdwV2RWdi9vamtRU0txSmlUVStpVmNHL0QxaUR4MEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1OTAyNTMwCWZpbGU6QU9TXzNfMS4wLjEwX3g2NF9lbi1VUy5tc2kuemlwCmNFS2pnMmUzTEJRZVRWc0lhRUhCdUVNZHRwaXk5VS9zTDRpaVlPTzVVOHY2dGV5Vkx3WEhZRWp2K3pXZUdMSnhKL3R6RzY1bG1IU051OCt5bFRkaUJ3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.10_x64_en-US.msi.zip"
     }
   }
 }
