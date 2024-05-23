@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.10",
-  "notes": "Corrected server bugs, Improved CNC network/API logic, Corrected CNC popup behaviors, Refactored many unserlying infrastructural components",
-  "pub_date": "2024-05-16T12:00:00Z",
+  "version": "v1.0.11",
+  "notes": "Completed initial development of RP Queue.",
+  "pub_date": "2024-05-23T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azd4cTZvRVMvMUZFZjgyNnlYMEJyTzdWRFR1MnR5Q09HbEhaeGhUaXFhTE5JV3JFM1JydHNvS1ZscGxNVU5CZDhvWTdkY1hZSy9LOE80ZngvZDhNZGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1OTAzNDc0CWZpbGU6QU9TXzNfMS4wLjEwX3g2NF9lbi1VUy5tc2kuemlwCnhLdkd1MisrT0lhTm9HVzNtd1FZcERzQUg1cnlaaGRQMDIzTGZGaGUxZmR6bmYxWUNHTU1ZdXdTTFlYYjR4ajVGd1VxMm5JbVJ2Z0RPdVJaVmgzRUNBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.10_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytNS1J0NmpKTGZCd1dvOVBZRmpzM1N0SEI1bWxDdGhVTHBhQjA3TVBJQ0pMZlkwNGR5NzlmeEE3dllWaEFueFhvWDZTajh6SitxK013TkozeHRKUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2NTAxNjc0CWZpbGU6QU9TXzNfMS4wLjExX3g2NF9lbi1VUy5tc2kuemlwCkt1aDJ3NG91L1JKMXo5ZXF2THF0NDNtM2xEVDNWMEZQQ005RlNmOVphUmE3RlFJRjNLYWlBQ29vVHFVVVpyemcwV3Noemo2ZFk5eGxZbUF4Y2RpS0NBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.11_x64_en-US.msi.zip"
     }
   }
 }
