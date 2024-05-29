@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.12",
-  "notes": "Completed development of RP Queue Car, table and completed views.",
-  "pub_date": "2024-05-28T12:00:00Z",
+  "version": "v1.0.13",
+  "notes": "Pushing update for RP Queue.",
+  "pub_date": "2024-05-29T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhCRElhcG5wOEJNaWk4VHkwK0hFcUU3SVR3T0NRc3FodWt1ZjlZL0dsVklKZkxZRWZMWkNCOWlTY1VtUzdpd3paVzhhVTZhN1NLREtrMnlpSkdIZFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2OTMzMTk2CWZpbGU6QU9TXzNfMS4wLjEyX3g2NF9lbi1VUy5tc2kuemlwCldoSmN2Wkg5VFdhMTRJT0dVSHMxaU1jWEJkV3JpdDlQaUlQYWFPZzhPWHJUN09QSGw3bkl4R0RmNDY2cVAxbDhVRVlDckdsK3Y4aUhVR3lSN09acEJBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.12_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azEycEZVL0NQb0I2MkVuU00xR04zKy9KbTBXZDZvV29Bc21WS2tmN3NvS0Z6NTBtckVKWWd5TG5Dd3BsdEgyRW0vUFg0ajJlUVlIWVEwakhPeGdqV2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3MDE4NDEyCWZpbGU6QU9TXzNfMS4wLjEzX3g2NF9lbi1VUy5tc2kuemlwCkgwTGlWL3VJVC8rYTdHQkhPSWYvZk53L1kzVHRWR0pBb0h0OGxzL0xvWVRXQ2JSTityZjdZSTg1bWtvbTI2UmRaL1Y4OVBTdS9WeW8yWkorRjJWUkRBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.13_x64_en-US.msi.zip"
     }
   }
 }
