@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.13",
-  "notes": "Pushing update for RP Queue.",
-  "pub_date": "2024-05-29T12:00:00Z",
+  "version": "v1.0.14",
+  "notes": "Introducing Financial Insights Tooling",
+  "pub_date": "2024-06-19T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azEycEZVL0NQb0I2MkVuU00xR04zKy9KbTBXZDZvV29Bc21WS2tmN3NvS0Z6NTBtckVKWWd5TG5Dd3BsdEgyRW0vUFg0ajJlUVlIWVEwakhPeGdqV2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3MDE4NDEyCWZpbGU6QU9TXzNfMS4wLjEzX3g2NF9lbi1VUy5tc2kuemlwCkgwTGlWL3VJVC8rYTdHQkhPSWYvZk53L1kzVHRWR0pBb0h0OGxzL0xvWVRXQ2JSTityZjdZSTg1bWtvbTI2UmRaL1Y4OVBTdS9WeW8yWkorRjJWUkRBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.13_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hiQzYxYlVId2U0cFFaRkt0Z211Qmhmd3dUZDk0cTlVT3h2VG8rSFhhd3lReFNJV2UzbFJSak4wK05QKzJ5QUNkQUFKRyt4RzNFclBma0dzK2prVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4ODI1MDA1CWZpbGU6QU9TXzNfMS4wLjE0X3g2NF9lbi1VUy5tc2kuemlwCkpHQzI3NXkrTkNVczg1a0FLcHNsOXEvOGkrNkd1cEFnVy9MSUpuZmhXNERBRHdoYWFLazUwQUV2dS9GUFVhbXkrNkZFeVFkWmVZbVVDRjd2UExiSUF3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.14_x64_en-US.msi.zip"
     }
   }
 }
