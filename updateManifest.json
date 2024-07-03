@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.14",
-  "notes": "Introducing Financial Insights Tooling",
-  "pub_date": "2024-06-19T12:00:00Z",
+  "version": "v1.1.0",
+  "notes": "Introducing Hourly Insights Tooling",
+  "pub_date": "2024-07-03T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hiQzYxYlVId2U0cFFaRkt0Z211Qmhmd3dUZDk0cTlVT3h2VG8rSFhhd3lReFNJV2UzbFJSak4wK05QKzJ5QUNkQUFKRyt4RzNFclBma0dzK2prVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4ODI1MDA1CWZpbGU6QU9TXzNfMS4wLjE0X3g2NF9lbi1VUy5tc2kuemlwCkpHQzI3NXkrTkNVczg1a0FLcHNsOXEvOGkrNkd1cEFnVy9MSUpuZmhXNERBRHdoYWFLazUwQUV2dS9GUFVhbXkrNkZFeVFkWmVZbVVDRjd2UExiSUF3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.0.14_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azl6dGM0aUpwcEVNeTlTL0F0V3FpaFg0V05JV2RmZDRqN3hScWxMYVFVcUt0M2l3WE4xOGxnZm9wZDFmN0J1L3YwV1BpSHQzcUpTZ05iMHJjLzNaWEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwMDQwODk3CWZpbGU6QU9TXzNfMS4xLjBfeDY0X2VuLVVTLm1zaS56aXAKTlBKZGVCa05RenJVYndyMURQQ0ljeTdMdmxJRnNIZ2E5bkVXT2NZM0tneFhZaENqcWFUNjMxM0d1dzFQOXRYRG9McmpUeFRnM2FiNG1DTHRWU2pEQVE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.0_x64_en-US.msi.zip"
     }
   }
 }
