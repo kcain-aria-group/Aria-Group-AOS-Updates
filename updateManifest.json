@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.2",
-  "notes": "Releasing Initial Hourly Report Health Monitor",
+  "version": "v1.1.3",
+  "notes": "Pushing User Tested Corrections to Hourly Reporting Logic",
   "pub_date": "2024-07-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azl0dktjOHZPMnR2VS84anhxTU0yR3Q4MGJzVmpBbzJYTWdibXV0dFljYXJwakJwdzRsYjhJU1c4YlY4WTE1aWR4S3JoS0NMcWJtRUdFY29IdG1QYUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwODA5NTAyCWZpbGU6QU9TXzNfMS4xLjJfeDY0X2VuLVVTLm1zaS56aXAKYi96NElQZXJQZm1jSDNXOHR6QTE0NEpXV0NDNzljSmRBOUZIU2JzdWFFKzlqR3kwanhESVZsQ01wQ2ZlUmRwLy8xZmZUa0dLdVgvVldUY3p0cSthRHc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVvcDBXTVhSWjRUcjJFT1p5UHJmd2R3clA4SC8wZTFPbGVseXdqeC9rM0lFSUNkMFVGRmVEc3NPaVh5MEQ0QVIvWW9MbnBoTXUrbUw1RldzakRXU3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwODE2MzA2CWZpbGU6QU9TXzNfMS4xLjNfeDY0X2VuLVVTLm1zaS56aXAKUUZsMWlWMUdiRFk4WkN5UmNTUXR6SkY3cDVmNlhIYzBTdmxrVXorbUozNUlOc20vVVloSlVhejdKVTVmcEtOOVhUa0R0am5HMzdyV2lFeHM4V0daQ2c9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.3_x64_en-US.msi.zip"
     }
   }
 }
