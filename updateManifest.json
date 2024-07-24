@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.3",
-  "notes": "Pushing User Tested Corrections to Hourly Reporting Logic",
-  "pub_date": "2024-07-12T12:00:00Z",
+  "version": "v1.1.4",
+  "notes": "Pushing huge overhaul to hourly reports along with many bug fixes.",
+  "pub_date": "2024-07-23T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVvcDBXTVhSWjRUcjJFT1p5UHJmd2R3clA4SC8wZTFPbGVseXdqeC9rM0lFSUNkMFVGRmVEc3NPaVh5MEQ0QVIvWW9MbnBoTXUrbUw1RldzakRXU3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwODE2MzA2CWZpbGU6QU9TXzNfMS4xLjNfeDY0X2VuLVVTLm1zaS56aXAKUUZsMWlWMUdiRFk4WkN5UmNTUXR6SkY3cDVmNlhIYzBTdmxrVXorbUozNUlOc20vVVloSlVhejdKVTVmcEtOOVhUa0R0am5HMzdyV2lFeHM4V0daQ2c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdWQ004MGJKaTFiTWcwNlkyN0REUUtEdmVCTWRzRVpkWkdZZnNoOWFWMnFFWlZYVkprem5OaFZTNnByY0ZJZ1Uxd0EyRHlJdzJxR1Jhd1RqdWoxeGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxNzc5NDQxCWZpbGU6QU9TXzNfMS4xLjRfeDY0X2VuLVVTLm1zaS56aXAKZVdha0J0OUNDS2c3RDNtbVh1N3hGdDFUVWlDd3J0U09UeWcwOVQ4d2pkaTRHS0JXQ1F4dUZER2F3dlJJSEg3THJ3WDlYUE5ZVDRSeG1YRFl2aXFYQmc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.4_x64_en-US.msi.zip"
     }
   }
 }
