@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.5",
-  "notes": "Implemented Project Mangager Editing, and Project Completion tooling.",
-  "pub_date": "2024-07-24T12:00:00Z",
+  "version": "v1.1.6",
+  "notes": "Deployeeing Many Overhauls and Changes to Hourly Reports/Tracking.",
+  "pub_date": "2024-08-05T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZ0MldIZ290bkRVbWxUUWRPb1lPbksrTzhoWlcvMTJxc0lUVUNWODByMGpRQ1MzaDROVnoxQ3JEWTVHc1hSRjVXWU1TT2oyM01wTzh2VktJWGE4SXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxODU4NDE2CWZpbGU6QU9TXzNfMS4xLjVfeDY0X2VuLVVTLm1zaS56aXAKTWZkdnU0NC9DbmJMdFVRMERxMk10WWlXSnlVRTJyT0NySXhQYy9iQkErUGZlRFduZk1OM01SdjcrWm5RWjMyaExBYTk2L21Xc1ZCbTZwUzI0QVBFRFE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.5_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNUMUlJT0I3bldZeFVQWFNnQnJFOWhYbHlrMzJsZWNlY0E5bDlsYmNRaENRTlhyYWtWbFNkVVNjOGIxbzVHb0xkRmhDVjgzRkhWcmdVNUhXQXBJSFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIyODkwMTg2CWZpbGU6QU9TXzNfMS4xLjZfeDY0X2VuLVVTLm1zaS56aXAKWWpMa2NJZFRRVG9RZVR3WUg4bzRNMXRERVRLQ0w3MHo4R0w1bWVZczl1R3ZUd1ZzRXRxdFd2WlVpeWhBR3l6Y1NxYWZLcEdLaFM5dGdQanJTRHYrQ1E9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.6_x64_en-US.msi.zip"
     }
   }
 }
