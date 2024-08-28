@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.6",
-  "notes": "Deployeeing Many Overhauls and Changes to Hourly Reports/Tracking.",
-  "pub_date": "2024-08-05T12:00:00Z",
+  "version": "v1.1.7",
+  "notes": "Deployeeing minor compatability fixes.",
+  "pub_date": "2024-08-28T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNUMUlJT0I3bldZeFVQWFNnQnJFOWhYbHlrMzJsZWNlY0E5bDlsYmNRaENRTlhyYWtWbFNkVVNjOGIxbzVHb0xkRmhDVjgzRkhWcmdVNUhXQXBJSFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIyODkwMTg2CWZpbGU6QU9TXzNfMS4xLjZfeDY0X2VuLVVTLm1zaS56aXAKWWpMa2NJZFRRVG9RZVR3WUg4bzRNMXRERVRLQ0w3MHo4R0w1bWVZczl1R3ZUd1ZzRXRxdFd2WlVpeWhBR3l6Y1NxYWZLcEdLaFM5dGdQanJTRHYrQ1E9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytmd0x6bkZ3bWtneklGd3kwNUhpU0ZsSEpKOVZZUE5GTEw1NWsxeXZweGpmdlZzbFc4NVZ6bnBqeURUU2lDakprSTVDQkRuYm8vZ1Zsa3BmOTRaSUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0ODczNzIxCWZpbGU6QU9TXzNfMS4xLjdfeDY0X2VuLVVTLm1zaS56aXAKU011RjZ5MDhLa0dvVFFLUDRycGFQcm5VdGtkbHErSExnOHl2TzlSVldFMWlQMlNIc3JIdHFQL0V5NjBMbzJseXRld0RSL3JUTXU3ZE5OcStDVi9QQ0E9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.7_x64_en-US.msi.zip"
     }
   }
 }
