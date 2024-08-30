@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.7",
-  "notes": "Deployeeing minor compatability fixes.",
-  "pub_date": "2024-08-28T12:00:00Z",
+  "version": "v1.1.8",
+  "notes": "Correcting issue with CNC Eng Notes.",
+  "pub_date": "2024-08-30T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytmd0x6bkZ3bWtneklGd3kwNUhpU0ZsSEpKOVZZUE5GTEw1NWsxeXZweGpmdlZzbFc4NVZ6bnBqeURUU2lDakprSTVDQkRuYm8vZ1Zsa3BmOTRaSUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0ODczNzIxCWZpbGU6QU9TXzNfMS4xLjdfeDY0X2VuLVVTLm1zaS56aXAKU011RjZ5MDhLa0dvVFFLUDRycGFQcm5VdGtkbHErSExnOHl2TzlSVldFMWlQMlNIc3JIdHFQL0V5NjBMbzJseXRld0RSL3JUTXU3ZE5OcStDVi9QQ0E9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.7_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hZYmY0YUtYNDRYL2YvUlE1K3JTUnNrYlJlbWxKN0wyNTlwYVVqOTFYbXlrN0JxdVQ1bS9RWnI2SURGMDZUM1ZYRDFDVnZ0WGQ3aEorMldnNGdZK3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MDQ3MDAzCWZpbGU6QU9TXzNfMS4xLjhfeDY0X2VuLVVTLm1zaS56aXAKeFFML1p2SmdiRXFJN3VKSTZmbVRZakFoejZFQ2xDVGJLakNxTTJiSFBHQkhLNXkrUmdmT1lqclZLWlR5R3duOEZUbFRzNDQvSGtVczd1Zk9KYWFhQ2c9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.8_x64_en-US.msi.zip"
     }
   }
 }
