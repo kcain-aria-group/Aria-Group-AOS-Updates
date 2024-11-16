@@ -1,7 +1,7 @@
 {
   "version": "v1.1.9",
   "notes": "Introducing Initial mBOM logical update.",
-  "pub_date": "2024-1-16T12:00:00Z",
+  "pub_date": "2024-01-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdaaERVeTZIMnBvQjYydTR0LzZlSlBrTnltNlJNWjMyejF2OTVPUENBdjhHK1ptWGI0L09tTUgrZmZ6Rzd5SEt2TlV6bTFQOUxmK0IvRjErRWkyZkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxNzg3NDE5CWZpbGU6QU9TXzNfMS4xLjlfeDY0X2VuLVVTLm1zaS56aXAKRXRBTVYyWGtTQTE3a2N5L2NEc2hHQlUzSHZBdUVnZDJ2eTZJY25iQld6MjRpS1FRcG1mam9mbkMyMVB1eHZLNlpqdjUrK1B3MmtsQWRaV2h0ZXFvQWc9PQo=",
