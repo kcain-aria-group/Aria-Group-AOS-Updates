@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.11",
-  "notes": "CNC Queue DnD patch.",
-  "pub_date": "2024-11-18T12:00:00Z",
+  "version": "v1.1.12",
+  "notes": "CNC Search Bar re-enabled",
+  "pub_date": "2024-11-19T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhhV3hPR2hod1lIMVBCQzNlVW01SE5NbTBCTkZlSmkyYmQvc3c0SEZJR1czRVlSVGtXQUx1b0VSVjNwai9EYkpQK01LME1rY2lLL3NuUXdjZXNaY0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxOTYzMzUxCWZpbGU6QU9TXzNfMS4xLjExX3g2NF9lbi1VUy5tc2kuemlwCjV3cFpjRlFQOWdWdFRDQloxUDdNUzNMQThaNjh3eStDejNPTnE5SDN1OTB0eXcyRGsreXdMcjdFWEdQcnhkcUhuaGlibWNoMVJ3ZjFkZUJlTXh4WERnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.11_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZIdzN6QXBwQVBUVU1HQmcrclBIazkyaHliVk0wZ0grUVJuTk5VcmR1WGpkQ0Z1cmhZbEx6akVycnJ5YzAvNXVqbzhHaXF4THVPdmlBcU82U3hSd3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMDUzMzEwCWZpbGU6QU9TXzNfMS4xLjEyX3g2NF9lbi1VUy5tc2kuemlwCmJwTlRWTmJWeTRLN2tQS3Q2R1RkcUlROHgwYysyM1d6cDg3K2ZHaXhWeVh1V3k1Tzd2UDI4Q2RoL2hERGVub2RBcWI0QWlBK0UrMlBFUnd0R1kvakNnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.12_x64_en-US.msi.zip"
     }
   }
 }
