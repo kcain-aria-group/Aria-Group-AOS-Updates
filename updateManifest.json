@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.13",
-  "notes": "Patching CNC Qty Input",
-  "pub_date": "2024-11-20T12:00:00Z",
+  "version": "v1.2.1",
+  "notes": "Huge CNC QOL, and Serialization guarding patch.",
+  "pub_date": "2024-11-21T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hYdS84Rjk1RDBXTldnSmFhOGFCQzZzUHFVVGtBekt6OFNYaktpbUF1Zi9ZUEVsQldpWitvM3VnSy9NQVI3amdtVDR1UzF6RWpmcktsR0Z4QkFmY1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMTI0OTU0CWZpbGU6QU9TXzNfMS4xLjEzX3g2NF9lbi1VUy5tc2kuemlwClBXWTdLZ01GdU5RaWJvTy9XakZKVEFldWZxS01WUjg3Uk9UWXdiWlVLYUd1RFFSTnpoRndUTURla1orNnVJcnUyM05qNWx0WVordGNWWjkrWjVMeEFnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.1.13_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azFJMmlWbWxxZDVWQzZZOU4vNVF0WWd3eTRLVVdiWkFQdHJKMU5hVkIwcXMxaHNsZ0lOTS9YcEg3M2ZwYnBXcWJOU2FqYWh4TmZXQk1HeUFRY1BiSmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMjI3NzQyCWZpbGU6QU9TXzNfMS4yLjFfeDY0X2VuLVVTLm1zaS56aXAKbU8vMkRjU0FUWG1lcDJVTkVGc0x2cysxU2l3SHFyVS85UklOQUdIakQ1bVZzVjk5bmZNWlpLZGZhZUkxRlhKTFNaNCtGSHFZUTdFbUNQTkdDTWFOQXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.2.1_x64_en-US.msi.zip"
     }
   }
 }
