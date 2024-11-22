@@ -1,11 +1,11 @@
 {
-  "version": "v1.2.1",
-  "notes": "Huge CNC QOL, and Serialization guarding patch.",
+  "version": "v1.2.2",
+  "notes": "Minor Changes To Auto Serialize Logic.",
   "pub_date": "2024-11-21T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azFJMmlWbWxxZDVWQzZZOU4vNVF0WWd3eTRLVVdiWkFQdHJKMU5hVkIwcXMxaHNsZ0lOTS9YcEg3M2ZwYnBXcWJOU2FqYWh4TmZXQk1HeUFRY1BiSmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMjI3NzQyCWZpbGU6QU9TXzNfMS4yLjFfeDY0X2VuLVVTLm1zaS56aXAKbU8vMkRjU0FUWG1lcDJVTkVGc0x2cysxU2l3SHFyVS85UklOQUdIakQ1bVZzVjk5bmZNWlpLZGZhZUkxRlhKTFNaNCtGSHFZUTdFbUNQTkdDTWFOQXc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.2.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRWQzhLRWhodkp0dk5TN1ErN1VhVkhvODVHQXRoY2s1RTdIamw5NDdzRE44MXdIQTEwTDhvZ2tKWUN1bmo0Z3NpekV0SDhaZFNqK2xwaUp5S1FXVUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMjM4MzkyCWZpbGU6QU9TXzNfMS4yLjJfeDY0X2VuLVVTLm1zaS56aXAKZG9ZYXFJNXRrRms0U2hNUG9raG96MVM5YW5ZTzlLUTRXOUxJNFQzbUd3YmVkVURTTVNQcnAvSmhEcnJqNnNRcHErY1RBbk9aVGZyTGdzc1pCN2dmRGc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.2.2_x64_en-US.msi.zip"
     }
   }
 }
