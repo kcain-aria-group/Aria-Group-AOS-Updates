@@ -1,11 +1,11 @@
 {
-  "version": "v1.2.2",
-  "notes": "Minor Changes To Auto Serialize Logic.",
-  "pub_date": "2024-11-21T12:00:00Z",
+  "version": "v1.2.3",
+  "notes": "Implemented Engineering qty and mirror code unification logic.",
+  "pub_date": "2024-12-01T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRWQzhLRWhodkp0dk5TN1ErN1VhVkhvODVHQXRoY2s1RTdIamw5NDdzRE44MXdIQTEwTDhvZ2tKWUN1bmo0Z3NpekV0SDhaZFNqK2xwaUp5S1FXVUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMjM4MzkyCWZpbGU6QU9TXzNfMS4yLjJfeDY0X2VuLVVTLm1zaS56aXAKZG9ZYXFJNXRrRms0U2hNUG9raG96MVM5YW5ZTzlLUTRXOUxJNFQzbUd3YmVkVURTTVNQcnAvSmhEcnJqNnNRcHErY1RBbk9aVGZyTGdzc1pCN2dmRGc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.2.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNGVzFMMnVmdHlzZ3hNUnRaeVZqQkVnZzd6ak1JU1IwVGtleHR4dVRFTXpMaFcyQkFaWlFoYVFqY0JYc1FHVXZqU05SbmNDMjl6NklGTGNjbElVcHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzMTEzMTg4CWZpbGU6QU9TXzNfMS4yLjNfeDY0X2VuLVVTLm1zaS56aXAKLzVuSWp2eGt1bnFNcjk2T2wyMThTMlMvZENQbjFSalNGL1NRQUUzVVBsaVlwdUtOZ3AyaVVlT3lxcjZUcVBZWTZQcmhRYmNJUnV3MTFTOUhZaHdVQkE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.2.3_x64_en-US.msi.zip"
     }
   }
 }
