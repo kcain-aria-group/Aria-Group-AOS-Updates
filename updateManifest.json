@@ -1,11 +1,11 @@
 {
-  "version": "v1.2.3",
-  "notes": "Implemented Engineering qty and mirror code unification logic.",
-  "pub_date": "2024-12-01T12:00:00Z",
+  "version": "v1.2.4",
+  "notes": "Implemented alphanumeric sorting within BOM tables, and overhauled inventory qty logic.",
+  "pub_date": "2024-12-03T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNGVzFMMnVmdHlzZ3hNUnRaeVZqQkVnZzd6ak1JU1IwVGtleHR4dVRFTXpMaFcyQkFaWlFoYVFqY0JYc1FHVXZqU05SbmNDMjl6NklGTGNjbElVcHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzMTEzMTg4CWZpbGU6QU9TXzNfMS4yLjNfeDY0X2VuLVVTLm1zaS56aXAKLzVuSWp2eGt1bnFNcjk2T2wyMThTMlMvZENQbjFSalNGL1NRQUUzVVBsaVlwdUtOZ3AyaVVlT3lxcjZUcVBZWTZQcmhRYmNJUnV3MTFTOUhZaHdVQkE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.2.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay90TmQyTk83a2RtNDNhT0pQOEgwTncwMzBJZjVyV1BSNE4zdHdYWnpuNCtCb2g0Q2hlWE5iQkRiNTB5cDJuejk1Mmw5cUZ4S1JXcXRuNWpjZmFvekFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzMjQ4NzQ3CWZpbGU6QU9TXzNfMS4yLjRfeDY0X2VuLVVTLm1zaS56aXAKTC9sejEzN3VFd1g3dnRldmF4NHpQRVM5QmFlMkRFS2d2ZCtvc2dwNytLNWVROHRKVEpjTjlhb0d5TGV2d2k1eFZmUTRMSVJ1U00vSWQ2YTMwL0JsQVE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.2.4_x64_en-US.msi.zip"
     }
   }
 }
