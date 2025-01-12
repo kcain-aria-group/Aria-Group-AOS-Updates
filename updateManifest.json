@@ -1,11 +1,11 @@
 {
-  "version": "v1.2.4",
-  "notes": "Implemented alphanumeric sorting within BOM tables, and overhauled inventory qty logic.",
-  "pub_date": "2024-12-03T12:00:00Z",
+  "version": "v1.3.0",
+  "notes": "Releasing Fully Implemented Inventory Overhaul, Part Scanning, And Location Tracking.",
+  "pub_date": "2025-01-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay90TmQyTk83a2RtNDNhT0pQOEgwTncwMzBJZjVyV1BSNE4zdHdYWnpuNCtCb2g0Q2hlWE5iQkRiNTB5cDJuejk1Mmw5cUZ4S1JXcXRuNWpjZmFvekFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzMjQ4NzQ3CWZpbGU6QU9TXzNfMS4yLjRfeDY0X2VuLVVTLm1zaS56aXAKTC9sejEzN3VFd1g3dnRldmF4NHpQRVM5QmFlMkRFS2d2ZCtvc2dwNytLNWVROHRKVEpjTjlhb0d5TGV2d2k1eFZmUTRMSVJ1U00vSWQ2YTMwL0JsQVE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.2.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azBNcGl1S2xnWVJhOWRpMkdoajh5ZWlocDlQOGhqWWFBSlp4Z2xpMGZmSzVTUFZsaVFnVnI0cktlK0M4M1NlUThXVUFEYVplc2g1MXpuZUREYWJra1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2NzI0MzE2CWZpbGU6QU9TXzNfMS4zLjBfeDY0X2VuLVVTLm1zaS56aXAKQlg5V0hzT256U1U3NU55WXZXTEdxY3RlbDF3MkVESDN4eTUrZWFkSTFOZW4yaVkrOW5reFErczV0NzQ5ODBJUjEvdjBJaWVCMXg0a1FtS29XcWROQXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.0_x64_en-US.msi.zip"
     }
   }
 }
