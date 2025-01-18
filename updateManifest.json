@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.3",
-  "notes": "Pushing Bug Fixes, And Additioanl Inventory Overhauls.",
-  "pub_date": "2025-01-15T12:00:00Z",
+  "version": "v1.3.4",
+  "notes": "Implemented Event Logging for use with the QR SCANNER.",
+  "pub_date": "2025-01-17T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3pUNWRkVUo1MFhkMVh6djNYeHhaeGtHL3RiMW1HSkVUK3Z1UHhPRWxyeDM1dFo2cGR5dXp1dG1kd1huQjEvK2x3cEdQZnZIYkpXbkxhb2IwR29OaGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2OTg5MjY0CWZpbGU6QU9TXzNfMS4zLjNfeDY0X2VuLVVTLm1zaS56aXAKSGNrNjUrSkF3VldxdkdkeHZzdjZ2YmVQemVpcEwvbU1KWlhGbHJPdFkra1pWK0VQM21ibzh4TTRMdDY4aWg3bVllVXoyR1Jxdk9zTmxUYjFzdU5VQWc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJQZE9uTERsc0Fmci83QmdQNFJYVEhiQmM5ZGdzd0hRZERCZzRXUjFpVk9WWFZnYU9nRVVXK2tjUGNLSDdzNWY5a2paNXpJN1dhcEk0ellGZSs4cXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MTYwMDQyCWZpbGU6QU9TXzNfMS4zLjRfeDY0X2VuLVVTLm1zaS56aXAKYlNQQUlETG9Qa1pKNEhJOW56U3RWLzhmcVNwVFFBbDFHYjlvTjF6VCtiY2JjNTQrSXUvejdHb2dKMC83cjRNd3QvTVdQOXBvTEp0M3NWanJ1QU1JREE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.4_x64_en-US.msi.zip"
     }
   }
 }
