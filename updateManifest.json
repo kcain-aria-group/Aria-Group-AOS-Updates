@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.6",
-  "notes": "Added Projects Without Valid Employe Punch Segments To Insights Page.",
-  "pub_date": "2025-01-21T12:00:00Z",
+  "version": "v1.3.7",
+  "notes": "Introducing CNC Grouping Overhauls.",
+  "pub_date": "2025-01-27T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVsNGp2N1AzZzJJWm02cTlKbHJuaFpnbGRhdkdPSFhKaHYreERjem9jM2xZSDR4Wk43NUFyd2cxTjhjNVRaVktqSEdOTlVsK05Sd1AvMHRPNFQxZ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTAwNjUwCWZpbGU6QU9TXzNfMS4zLjZfeDY0X2VuLVVTLm1zaS56aXAKWlY4ZlpYY085VWMzTXdmZ09uRmlGRTNlZVM3SDNUNGgzRFBhUmtGRnNQTmpsaVc4VFdFQlo5L2JIcjZucHQvNUo5WnpleTNsOFVXTzFsMzZ0Y25zRHc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azlERWE3YTRLSWpIemYxQmd2bHkyMTNOQnc3dmhGblVKRlRRaU8rbnNkWHRIVi9IcWpvY1pmZTc0SEpkMHZHRGd1WHZVdjBYeXJsSmNNK3dudExQS0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3OTk5MTcwCWZpbGU6QU9TXzNfMS4zLjdfeDY0X2VuLVVTLm1zaS56aXAKTUtHTW9zWVBHN3VDMUJJcy9BQ0VYcGFkd29zQTA3bUJtNGdLQXB5aXZjbEo4SGszMkgxZUh0TTc0c1R3b0djaEsxejcwL3Fzek44eVhXOWRXaXBGQkE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.7_x64_en-US.msi.zip"
     }
   }
 }
