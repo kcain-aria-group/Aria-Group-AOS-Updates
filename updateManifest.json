@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.7",
-  "notes": "Introducing CNC Grouping Overhauls.",
+  "version": "v1.3.8",
+  "notes": "Introducing CNC Grouping Overhauls. *Fixed New Items Bug.",
   "pub_date": "2025-01-27T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azlERWE3YTRLSWpIemYxQmd2bHkyMTNOQnc3dmhGblVKRlRRaU8rbnNkWHRIVi9IcWpvY1pmZTc0SEpkMHZHRGd1WHZVdjBYeXJsSmNNK3dudExQS0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3OTk5MTcwCWZpbGU6QU9TXzNfMS4zLjdfeDY0X2VuLVVTLm1zaS56aXAKTUtHTW9zWVBHN3VDMUJJcy9BQ0VYcGFkd29zQTA3bUJtNGdLQXB5aXZjbEo4SGszMkgxZUh0TTc0c1R3b0djaEsxejcwL3Fzek44eVhXOWRXaXBGQkE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.7_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9xaWdwclFOMWc1MjYwbmhCOVdhb3M4dlJEZzdHVFpWTnk0aVZ6VjBsc0dDeTZlMVRWbU9IT2hhRVZFbGxWdVRyNjNBTzMvblo2VWJMdkIvdi9XTUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4MDE2MTc3CWZpbGU6QU9TXzNfMS4zLjhfeDY0X2VuLVVTLm1zaS56aXAKSzUwaCtGNGpka29KeFJSZFhaUTJhamZ5MVlWU1A4LzZjN2h2RVN6K0lCTVFIMG96VHdQYmptRjZNcnFwTGNpT0hVS2QxWVRodS9lYkJuejdFb1RuQXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.8_x64_en-US.msi.zip"
     }
   }
 }
