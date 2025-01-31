@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.8",
-  "notes": "Introducing CNC Grouping Overhauls, And Changes To Employee Departments.",
-  "pub_date": "2025-01-27T12:00:00Z",
+  "version": "v1.3.9",
+  "notes": "Itroducing Employee QR codes, REQ overhauls, Managed Employee Mappings and Event system overhauls.",
+  "pub_date": "2025-01-31T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay81MkNPVEtMUXdWWGxQdTk1bG56S0w3ZWxjRGdJWFRtK09HYUQ5Z216NGdFSlYxcFhxcTZDYzVnYnFaSjAvTGlxRThmUnNSWHo3ZXZjUGhoazFoNHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4MDE3NjIyCWZpbGU6QU9TXzNfMS4zLjhfeDY0X2VuLVVTLm1zaS56aXAKQzVMeCtQZWh5YnBXdnVmOTd3SVJFUGdEckN5emFjUTJRWHNXblNkaXJtSTd5MTJKaGxLYlRVeFNodXl2K0NnTnRyMldkYVkxRkx2MnBmdDNGbFZCQ0E9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.8_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdidnEyQ3dwaE5uV2Q2NUhZYXVDL3ViOU1SYUtBNDZXdGc5THlKdXMvU25EN0RhUjlUc2ZueUs1QjVUUEpZTW1sUG5qWnFjTS9GVG9kREo5SVhYa2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4MzY2MzQzCWZpbGU6QU9TXzNfMS4zLjlfeDY0X2VuLVVTLm1zaS56aXAKcWFzb1NleWVxTGdTTGt3VnR5eFRsaDFyVXpHQ2l5cDJZU1BDZXdSNjc5Ly9HT0haQVk4d3VFR05tVUpsWTN3RDdVQlpCcjJwdXRjeTlZanR1SE9tQ1E9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.9_x64_en-US.msi.zip"
     }
   }
 }
