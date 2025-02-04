@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.9",
-  "notes": "Itroducing Employee QR codes, REQ overhauls, Managed Employee Mappings and Event system overhauls.",
-  "pub_date": "2025-01-31T12:00:00Z",
+  "version": "v1.3.10",
+  "notes": "Reimplemented several fixes associated Insights and Overhauled CNC Queue DND systems.",
+  "pub_date": "2025-02-04T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdidnEyQ3dwaE5uV2Q2NUhZYXVDL3ViOU1SYUtBNDZXdGc5THlKdXMvU25EN0RhUjlUc2ZueUs1QjVUUEpZTW1sUG5qWnFjTS9GVG9kREo5SVhYa2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4MzY2MzQzCWZpbGU6QU9TXzNfMS4zLjlfeDY0X2VuLVVTLm1zaS56aXAKcWFzb1NleWVxTGdTTGt3VnR5eFRsaDFyVXpHQ2l5cDJZU1BDZXdSNjc5Ly9HT0haQVk4d3VFR05tVUpsWTN3RDdVQlpCcjJwdXRjeTlZanR1SE9tQ1E9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.9_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay8rQkF0TzAzcXRGMDZQZnU4eGpicG5YdW1tMTUwZ2FVMkV0QVVKYUptaHlTYk1KTC9vbkJVcVhZZWpLMFhRK0RTazRNYUtuQU5Gd3daclhVL0J0TGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4NjkxMzkwCWZpbGU6QU9TXzNfMS4zLjEwX3g2NF9lbi1VUy5tc2kuemlwCmRhSlFJWWZmaUhCQjhiVWNXRy9acUViMzRGRHMvUDlyaWFzVWQxT2NNYWtHQ0dtVHZ3TXRmUnkwTGtEc0hhRytpTndRSXZ6dHBOdFNFYUF3S01IR0RBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.10_x64_en-US.msi.zip"
     }
   }
 }
