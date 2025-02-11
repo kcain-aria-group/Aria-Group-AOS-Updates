@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.12",
-  "notes": "Pushing additional Bug fixes, and overhauled insights milestone UI for addtional reporting.",
-  "pub_date": "2025-02-06T12:00:00Z",
+  "version": "v1.4.0",
+  "notes": "Introducing Project Tracker, and Home Page Calendar views.",
+  "pub_date": "2025-02-11T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dML1JZQUt2eldTMlRuRC9yMWR2RkIraUQzSkM5Z0VnbHJEWnY1MzVQUnQvenZ1YUdlb3NzTmNkOE9La3hYc3p0UHVuQU8xUEdSaWFSbUhiS1ptVmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4ODY4NzQwCWZpbGU6QU9TXzNfMS4zLjEyX3g2NF9lbi1VUy5tc2kuemlwCncvampBUUJibXArak9QTnovL3JMUUg3S2FMK0dKY2JFRExacEJia1BEQXY1bml1cTNVbE1rZVN4SjlNNStzem80QXFySG4yOVRzam1NOTlLRExjVEJnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.3.12_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytVM0JUcW1kMGZkMXk4ZVJNdFdsZEJyZDlQSkJJeTFyaHdDT3Y3MFFycE9pY0xITFdjSDZpYWVxRmZMNno3MlY2U1YyNDZyZkcraXhSRm5rV0dMa1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzA5NTk0CWZpbGU6QU9TXzNfMS40LjBfeDY0X2VuLVVTLm1zaS56aXAKdGJQem91UTcyNmorcitHZmRMek9FaUFBeXlVamNFZ0ZXWTJ0WW9VYXcxN0tweHB2Vml6YlozNzVremVvR3FWcE4rODlYcyt5STI3REdJMDBGSGxHQkE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.4.0_x64_en-US.msi.zip"
     }
   }
 }
