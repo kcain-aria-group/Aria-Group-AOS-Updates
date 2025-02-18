@@ -1,11 +1,11 @@
 {
-  "version": "v1.4.1",
-  "notes": "Implemented minotr overhauls associated with Insihgts, CNC, and the Calendar.",
-  "pub_date": "2025-02-17T12:00:00Z",
+  "version": "v1.4.2",
+  "notes": "Overhauled Bug Report System To Handle IT Ticketing.",
+  "pub_date": "2025-02-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azU1UVZ4Y3d6Ynd0ejZlNktOeUs4T3VUMXpHN3hrSHhxRGJhOXV4QlNwODZ3OHlLdlN1VHBDMlphRmNpWXBJa0hMWUxKMDZVTjZsaWlCeDkxbTFjTlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5ODM3MDQzCWZpbGU6QU9TXzNfMS40LjFfeDY0X2VuLVVTLm1zaS56aXAKUGFOaFRDUVIzRGl3czZWSS85bjVWMkEvZEhOMWtjRXRoMVJJbUVyUkpzMkJ4MGx0NWVra0dLSHpFOStvQ3dkdU9VM2tIS25HVkZyU0ljNnREN0xJQkE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.4.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhISnY3VU9CWXJnQVhxQ3J4Z0kwb1ZNb2M2QWdIb1JHd2VZZlRSZEZZUkg2VDMwWHl5Y05Oam12V2tMamU4M3dUcC9OTXluMmJ2U1VxT1I3V2paVndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5OTIwOTA1CWZpbGU6QU9TXzNfMS40LjJfeDY0X2VuLVVTLm1zaS56aXAKUkxSclJXSDM5OGNJQlpEbFJtOURjU1g2S1F1SVdQOFIrK2NSWFZsalRBQ2ZwZVZlM0NLcEpPM2Q3Q0JtQ0lGNXFvSEhpRVhIVmdtdllmOTFWT01LQ0E9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.4.2_x64_en-US.msi.zip"
     }
   }
 }
