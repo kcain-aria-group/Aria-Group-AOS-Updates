@@ -1,11 +1,11 @@
 {
-  "version": "v1.4.2",
-  "notes": "Overhauled Bug Report System To Handle IT Ticketing.",
-  "pub_date": "2025-02-18T12:00:00Z",
+  "version": "v1.5.1",
+  "notes": "Introducing New Engineering/CATIA Integration.",
+  "pub_date": "2025-04-03T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhISnY3VU9CWXJnQVhxQ3J4Z0kwb1ZNb2M2QWdIb1JHd2VZZlRSZEZZUkg2VDMwWHl5Y05Oam12V2tMamU4M3dUcC9OTXluMmJ2U1VxT1I3V2paVndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5OTIwOTA1CWZpbGU6QU9TXzNfMS40LjJfeDY0X2VuLVVTLm1zaS56aXAKUkxSclJXSDM5OGNJQlpEbFJtOURjU1g2S1F1SVdQOFIrK2NSWFZsalRBQ2ZwZVZlM0NLcEpPM2Q3Q0JtQ0lGNXFvSEhpRVhIVmdtdllmOTFWT01LQ0E9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.4.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay96ek81UDR5dXhCbk81RHByekp5Q3psMDdvYWtQcXRZOUZDd0RsYW9LdG5EMkRXSDFPdmdYYkxZajR4MHVwR3ZhdXJFWWJSL3Fid1ppalRTSFg5ZFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzNzE3NzU2CWZpbGU6QU9TXzNfMS41LjFfeDY0X2VuLVVTLm1zaS56aXAKZWd1eWg3S3ZKS2VuUlpaRWFsWUZueWpMQ29KMS95NUhPTHZhc0IxT1FLVWxNRVJVT1FLKzdiTXlBZGgrcWdoMVZmSWVrMEN2dlpoUzhOWXFlUkJDQ2c9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.1_x64_en-US.msi.zip"
     }
   }
 }
