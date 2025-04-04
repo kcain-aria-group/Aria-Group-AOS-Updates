@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.1",
-  "notes": "Introducing New Engineering/CATIA Integration.",
-  "pub_date": "2025-04-03T12:00:00Z",
+  "version": "v1.5.2",
+  "notes": "Implementing additional BOM Lock Overhauls.",
+  "pub_date": "2025-04-04T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay96ek81UDR5dXhCbk81RHByekp5Q3psMDdvYWtQcXRZOUZDd0RsYW9LdG5EMkRXSDFPdmdYYkxZajR4MHVwR3ZhdXJFWWJSL3Fid1ppalRTSFg5ZFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzNzE3NzU2CWZpbGU6QU9TXzNfMS41LjFfeDY0X2VuLVVTLm1zaS56aXAKZWd1eWg3S3ZKS2VuUlpaRWFsWUZueWpMQ29KMS95NUhPTHZhc0IxT1FLVWxNRVJVT1FLKzdiTXlBZGgrcWdoMVZmSWVrMEN2dlpoUzhOWXFlUkJDQ2c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3ozZW1KY2hPN2FLRm5rakNsa2ZDaVFKbjluVzBGbytRL0JKbjFlSk1UYUtqNGdlNlVEcmhLVUtzVlAwM0tob0RoWmY1M25RK3JPbXJYWnk1c0xRQVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzODA2MTMyCWZpbGU6QU9TXzNfMS41LjJfeDY0X2VuLVVTLm1zaS56aXAKU24ybW5td0hkaldLQ20wTmtqeEl1VWVNYmNwNGxFR0lJck5vNUtFS0hGK0o3TThpVTBia3Z3REE1QjJwdzhyWUhIYzRWOGNUTUpwdm9pUEw4WEVURFE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.2_x64_en-US.msi.zip"
     }
   }
 }
