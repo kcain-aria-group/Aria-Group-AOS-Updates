@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.3",
-  "notes": "Fixed Network Race Condition Bugs.",
-  "pub_date": "2025-04-09T12:00:00Z",
+  "version": "v1.5.4",
+  "notes": "Introducing Assigned Engineer column to eBOM.",
+  "pub_date": "2025-04-10T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9YTWJFUkFhQk5rR1Y4NlprRTRnbU5IYzQzcW5MTWRTZW9aa2wxNGUrbCsxMGVtcnNPb2hCYVN3T1FwQXFWaEozbGN2OEk5bWtIVC8xaE1Mc1dxbFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MjIwNjc0CWZpbGU6QU9TXzNfMS41LjNfeDY0X2VuLVVTLm1zaS56aXAKMmdodWdxZWZWNDJ4VURGT0F2ekFQUWVXb0FhWU5KbXJNaUpuZmh4YkpxVWJqS0Y1endOamFQclpKMjAvYmNpc3B1NjRlQmNMT09mU2RYbFhsSXZWQ1E9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdIZFl0bDNsZ2RTNCt2aWlXMzl3QVlKc0NHcHVJdXdJTVdHbmR1VDdET3dOVHlPaVNHNFBCOTJWcEJNL05EUjRCb0VRT3YzdUVYT1VDVzF4ekdMVHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MzExNjM2CWZpbGU6QU9TXzNfMS41LjRfeDY0X2VuLVVTLm1zaS56aXAKV0tBKzZaUE5CaGM1MUN2eFdzNkZhUmlrUjlONWd4R28xQ1J1elBJeHhJM0ovTXBFU1lheStrTmp3MXVJVWpQQzgzVkMxaENMeThBQmdENkZVaGtLRFE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.4_x64_en-US.msi.zip"
     }
   }
 }
