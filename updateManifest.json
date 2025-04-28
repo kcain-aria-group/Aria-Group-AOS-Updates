@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.6",
-  "notes": "Handling Server Migration and rReleasing Initial Router UI.",
-  "pub_date": "2025-04-24T12:00:00Z",
+  "version": "v1.5.7",
+  "notes": "Pushing Minor Bug Fixes Associated with Recent Server Migration.",
+  "pub_date": "2025-04-28T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azFFZUFXV1FVOGEwSGwxMDNXTlZHdjR6b0VOejlXVEFGbFN5bE4zeVh1ZGp2U0RyZ3I5OVhROGVDQlJzTXJONURQODVkc0NBaEhZM0d3QytFVWZIOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NTM1MzY4CWZpbGU6QU9TXzNfMS41LjZfeDY0X2VuLVVTLm1zaS56aXAKd2hyRUJIWlNGUnRCN3F0UXVPN0tlZEhMcE4wdTNIRlRlNUtueWJyTjJFWmptYnFuS1NCYkVybWVPVitCS0ZzUmh1Y0hXZ1dMTkhSaThYeWd6UHlWQUE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdnRmxDaGlYbzhrbG5RRmtwZG9CN2ZvTDI4bE1pNllLanFsR2twcm5jMllUc1cvYzFIR09vcHRBMjRBemJ2NE84bjFRVjdwQitUN3RxK3ZML1hoZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODY2ODg4CWZpbGU6QU9TXzNfMS41LjdfeDY0X2VuLVVTLm1zaS56aXAKODhjTU42N2lnMlVuWWIvUUxWejlsZTMzK1hlanpuVzEvN2dQclNoRjk4V3VHSEQ1N2lwSXAwK2I4Unc1eFpYb1YvOVlyRm1uNCt2OEl3OEtMZk5ZQVE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.7_x64_en-US.msi.zip"
     }
   }
 }
