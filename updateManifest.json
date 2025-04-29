@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.7",
-  "notes": "Pushing Minor Bug Fixes Associated with Recent Server Migration.",
-  "pub_date": "2025-04-28T12:00:00Z",
+  "version": "v1.5.8",
+  "notes": "Introducing QOL UI Overhauls.",
+  "pub_date": "2025-04-29T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdnRmxDaGlYbzhrbG5RRmtwZG9CN2ZvTDI4bE1pNllLanFsR2twcm5jMllUc1cvYzFIR09vcHRBMjRBemJ2NE84bjFRVjdwQitUN3RxK3ZML1hoZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODY2ODg4CWZpbGU6QU9TXzNfMS41LjdfeDY0X2VuLVVTLm1zaS56aXAKODhjTU42N2lnMlVuWWIvUUxWejlsZTMzK1hlanpuVzEvN2dQclNoRjk4V3VHSEQ1N2lwSXAwK2I4Unc1eFpYb1YvOVlyRm1uNCt2OEl3OEtMZk5ZQVE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.7_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytPZkN3bUtoTUdvZ1Zabm8yeWNENHI4MHRKY2RKbDhraWtEYTdzUUtjQzRHS2ZlMVdLR295cEpBVXRPa1NoSktxS3djdWhFdExRaVoxUmVFeHNDN1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1OTU4NjIwCWZpbGU6QU9TXzNfMS41LjhfeDY0X2VuLVVTLm1zaS56aXAKbFNCaU4wTkw1cW52VytFbjh0cFVUQWtaL3l2Q01pM2NaT2lJenBIMFRWc3ZUUXdLbm95MGsyOWloMjgzZy83N3hzRHBLVnRmWnV6bGRsdEhEYnR3QXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.8_x64_en-US.msi.zip"
     }
   }
 }
