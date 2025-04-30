@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.8",
-  "notes": "Introducing QOL UI Overhauls.",
+  "version": "v1.5.9",
+  "notes": "Added eBOM->mBOM Forced Queue Processing To BOM Navigation Refresh Button. Ad Hoc Items Now Render Within Project Inventory.",
   "pub_date": "2025-04-29T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytPZkN3bUtoTUdvZ1Zabm8yeWNENHI4MHRKY2RKbDhraWtEYTdzUUtjQzRHS2ZlMVdLR295cEpBVXRPa1NoSktxS3djdWhFdExRaVoxUmVFeHNDN1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1OTU4NjIwCWZpbGU6QU9TXzNfMS41LjhfeDY0X2VuLVVTLm1zaS56aXAKbFNCaU4wTkw1cW52VytFbjh0cFVUQWtaL3l2Q01pM2NaT2lJenBIMFRWc3ZUUXdLbm95MGsyOWloMjgzZy83N3hzRHBLVnRmWnV6bGRsdEhEYnR3QXc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.8_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRhd1E0VW55ckhFZTB3bUIwcnRXdllhbjBxQXNEYlBrVjI1NkZMSjZaS1FTbmRWb3BPSWdkdlFNSkh6WlFGQmRvRXFDNit6M3p0eWFFMkt4N0ZvY2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MDUyMzY0CWZpbGU6QU9TXzNfMS41LjlfeDY0X2VuLVVTLm1zaS56aXAKWDFNS1puK0RVUXNFZVlLZmdQdUUzUGNCamxrS29mZzVVWUxTODdMQXZ6S1pkTVk1cEV3MWhFZk9FYjJ4ZnR6Q2hKL1ViUVlqZjNRYTFNZTQrQ3JwQkE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.9_x64_en-US.msi.zip"
     }
   }
 }
