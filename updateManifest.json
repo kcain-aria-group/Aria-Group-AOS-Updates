@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.10",
-  "notes": "Initial Router Traveler Logic is under closed alpha. General bug fixes and maintenance.",
-  "pub_date": "2025-05-12T12:00:00Z",
+  "version": "v1.6.0",
+  "notes": "Introducing Initial Production Release of Aria's New Router/Traveler System.",
+  "pub_date": "2025-05-19T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azg3QThvU0hwM3RxUzVMblJZVmpSVzljWEpEaUpOUTNPUGVvTDFvSjI4OEhoem1mc2xJTmVBZnRBYU5ZbTUxWGZDa1VkTEx2WHB1bVBiVjREY1Y1a0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MTAzNzE2CWZpbGU6QU9TXzNfMS41LjEwX3g2NF9lbi1VUy5tc2kuemlwCkROa0dYZlRtcDZJSFh3QjNmR1FXb0phWm13aGIxdWxhTG82dVliYUNrdG0wTWgwQk9EdnZpUkJFeUVrMWx2UVJsdFBKdGsyd1B2UGVDdmZGN2RNTkJ3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.5.10_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9HNS9HbnlkNDFkRDJZZWpMYWtEaEdWR2VjTUY0cXlIMHlGRmp2Y0ZvSU80aFFiT2VwWXlOQW4xSXVrUmFtbkRYRmhkUCtWVmhNUlEzZW5Xd0JwQXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NjgxNjkzCWZpbGU6QU9TXzNfMS42LjBfeDY0X2VuLVVTLm1zaS56aXAKd3cyTzhuTUd2RXJsWll0TzFJOGFoMUV6WHNBNFUvUEJNNnZCZzVNZmRpZ0k0cjNlT01kZ0dxSG5GQ1M4Y2R0VGF2R09BRFQwSkQ1bU5VUnRPNjZpREE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.0_x64_en-US.msi.zip"
     }
   }
 }
