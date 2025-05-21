@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.0",
-  "notes": "Introducing Initial Production Release of Aria's New Router/Traveler System.",
-  "pub_date": "2025-05-19T12:00:00Z",
+  "version": "v1.6.1",
+  "notes": "Implementing Continued Bug Fixes And App Wide Overhauls.",
+  "pub_date": "2025-05-21T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9HNS9HbnlkNDFkRDJZZWpMYWtEaEdWR2VjTUY0cXlIMHlGRmp2Y0ZvSU80aFFiT2VwWXlOQW4xSXVrUmFtbkRYRmhkUCtWVmhNUlEzZW5Xd0JwQXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NjgxNjkzCWZpbGU6QU9TXzNfMS42LjBfeDY0X2VuLVVTLm1zaS56aXAKd3cyTzhuTUd2RXJsWll0TzFJOGFoMUV6WHNBNFUvUEJNNnZCZzVNZmRpZ0k0cjNlT01kZ0dxSG5GQ1M4Y2R0VGF2R09BRFQwSkQ1bU5VUnRPNjZpREE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azh4KzBSWkdsaWJXdjdEc0tLOXF4Qi9KRDI0VDkyTkNqYzNtT202R3UzRlIzQUNEckpYd0hiNHNlaGxaRGtyVVNPS2NZMkxrK3JrdXEvQ2pLdDNSM2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3ODY5NjQzCWZpbGU6QU9TXzNfMS42LjFfeDY0X2VuLVVTLm1zaS56aXAKQXp3YmFMa3RGTUtwTUxOMVB2VW9kZHczOERQeFpNNDZZN3YzNVorR1NTczFWYmhwWlVzTG5OTWNKQ1BKV2h0emFxWVYvUTFDTnJqV011YjN0VmFOQ3c9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.1_x64_en-US.msi.zip"
     }
   }
 }
