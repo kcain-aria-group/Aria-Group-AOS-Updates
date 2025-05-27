@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.2",
-  "notes": "Pushing Continued Updates To Router/Traveler And CNC Queue.",
-  "pub_date": "2025-05-23T12:00:00Z",
+  "version": "v1.6.3",
+  "notes": "Pushing Continued Stability Updates.",
+  "pub_date": "2025-05-27T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3d0d0lsazNtdGhETmJ6N3hMMmxSN2FMVk5zN3NKZFg3TWltUHc1MjRjK3U4dmhIcC9xSlpmMVh5NTMwMEpzKzNzOTZkWHhKNlB5Y3VVeHRSNjcwWndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MDQxODEyCWZpbGU6QU9TXzNfMS42LjJfeDY0X2VuLVVTLm1zaS56aXAKTjZ3V21ITmQyd0sxcHpJVzJzNmJjd0pWbVZjT2pFaDNxYlRSeG11YXpKVVNyc1RBMFJiZWtOUmhzb0xlUkFQQm9nbUlKeFc5aTR6RjllR2JXYit0Q2c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dOL1hMQ0dtcmdaRlVVaUJ0cFNtd2FaM0VTaXhraXpvdGFSd2Z1b0RuVDBGWXlLN201RzVod2FoVzlyQWNlQkdtTmwxb1J2cEwrMVhXSko0MVM0SXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MzY3OTU1CWZpbGU6QU9TXzNfMS42LjNfeDY0X2VuLVVTLm1zaS56aXAKMENmeHN5UzdSYXpvbVRDdlBvSzdmdDloa0EwbzdjWGVyTGovQWtkd3JJZ293KzRxcnQycDZQVUFaSnlpUFlTYmtHc0loaGlMUS9rcTN0Q0d5Uy9yRHc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.3_x64_en-US.msi.zip"
     }
   }
 }
