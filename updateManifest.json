@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.3",
-  "notes": "Pushing Continued Stability Updates.",
-  "pub_date": "2025-05-27T12:00:00Z",
+  "version": "v1.6.4",
+  "notes": "Introducing Template New System to Routers/Travelers.",
+  "pub_date": "2025-06-03T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dOL1hMQ0dtcmdaRlVVaUJ0cFNtd2FaM0VTaXhraXpvdGFSd2Z1b0RuVDBGWXlLN201RzVod2FoVzlyQWNlQkdtTmwxb1J2cEwrMVhXSko0MVM0SXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MzY3OTU1CWZpbGU6QU9TXzNfMS42LjNfeDY0X2VuLVVTLm1zaS56aXAKMENmeHN5UzdSYXpvbVRDdlBvSzdmdDloa0EwbzdjWGVyTGovQWtkd3JJZ293KzRxcnQycDZQVUFaSnlpUFlTYmtHc0loaGlMUS9rcTN0Q0d5Uy9yRHc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhKUnNnMHlKMlp3L1hhWlBsaU5yWmdLZW9hM0pXWTZLSXRkRjBIbjczb0x5RThNcHhqU0hxQ0R0Q2paSWdZWktSMjFrcU9RcSt6RFRtT2FqZ2tOUWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4OTk2NjYxCWZpbGU6QU9TXzNfMS42LjRfeDY0X2VuLVVTLm1zaS56aXAKTm4zUUYrTmQ1YnZTYmx5UWJpZEh6MnhCNnR4anNPQm1zMjRLUmRydWtadGJ3TnNTNllURmQySUdMMDRob0JVZFFiYWFvdkUrTTNkRTlkYjl4WHFsRGc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.4_x64_en-US.msi.zip"
     }
   }
 }
