@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.5",
-  "notes": "Introducing Color COrrection to 3D File Viewer.",
-  "pub_date": "2025-06-04T12:00:00Z",
+  "version": "v1.6.6",
+  "notes": "MTF handling overhauled across CATIA/Routers/Travelers with sub-assembly part auto-population and non-matching item router support; 3D viewer enhanced with position tracking and auto-rendering.",
+  "pub_date": "2025-06-09T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3lsdlB6MXpuQ0RMaHhFYmRLZUFmN2t2elRuRDZ5MWduYU04c0dkZGF6b1V3aTNFMUFwZjdISlQ1KzZEQnBzN0svZEJFQS9UUXFUOVR2dkM5RnVPSWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5MDY3NzczCWZpbGU6QU9TXzNfMS42LjVfeDY0X2VuLVVTLm1zaS56aXAKQk5tU0ZteWxsQlVJLy92YTdBRU1kb2V1Uk5HL0hIc3JlVHVxWHh1WXRSYzJkcG4yMy81Z3REUHJJVDZqMlVMa0pVNGx3c3JSMVl6SlE4WmNKWncrRHc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.5_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRXTmxOTm1RY00yWno4R1IwVVlEdTh6eDEwK3l6ZHlyc1JIOW5DbWNmWkYyZjdISDJvR2ZWeFY2U2hnYk13ZXlnTHlHWmtwOFo0T1ZyTGNMQ1djS2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5NTEzMTc4CWZpbGU6QU9TXzNfMS42LjZfeDY0X2VuLVVTLm1zaS56aXAKNmRVd3QyN0lTQmVoMkEvTmNtbEJJWi9kUk1oSTVZL1VFa0lpTXRhSU5jVDBUYzhCVmkyajhMeFE2dlA3UWhtaGlGenJ4eFhkNlFuTUw5UnREdWFhQ0E9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.6_x64_en-US.msi.zip"
     }
   }
 }
