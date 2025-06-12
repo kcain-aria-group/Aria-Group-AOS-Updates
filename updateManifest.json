@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.7",
-  "notes": "Added Editable Req/PO Numbers To Inventory And New Outsourced Department Option For Routers.",
-  "pub_date": "2025-06-10T12:00:00Z",
+  "version": "v1.6.8",
+  "notes": "Releaseing General Maintanance Update.",
+  "pub_date": "2025-06-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJaUmMzNm1NWElYUmNRMWdhN2RvcW5pNzA2am14TE5aVW9HRDYzaWE2bE9EaWZzMjFpeXNOTkNhbVBnUlU1UmpZaFkrM0Z6dUs2UmRFbWRmT3RqWUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5NTk2NjA0CWZpbGU6QU9TXzNfMS42LjdfeDY0X2VuLVVTLm1zaS56aXAKanB2dUdzZjRPZy9sUk9YOXVkZFliZHVKZ3R2U3Fja0xLZzdRcTZOVC9ndURBOTdpcVBzTk1xQWphcFluaWF1cE9wc0R3RTRUYWNpUmF1cm4zUkZFRGc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.7_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZWbXJMaXNUSkhxbUxPdWlCOThTbnJvV1JvVjBadWJjb2RYbmpOZmhJQnNwektKUi8xeTl0ZExUcVRjMjBUZlpCMFF5WTNkMWdITXVaZnNidkUrcHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5NzQ2NjE2CWZpbGU6QU9TXzNfMS42LjhfeDY0X2VuLVVTLm1zaS56aXAKR29tQUlDdFZJdkhjSTZJTnQ5QW9lSUJKV1o1KytobG5GcnhEMWZ3YmhFMXhxTzVoTG8rWmlKbHRwbVJ4K0lMR3VtWkpObmxXWDN3eStGYUlTSTR1RFE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.8_x64_en-US.msi.zip"
     }
   }
 }
