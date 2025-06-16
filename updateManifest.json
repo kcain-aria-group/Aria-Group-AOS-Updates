@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.8",
-  "notes": "Releaseing General Maintanance Update.",
-  "pub_date": "2025-06-12T12:00:00Z",
+  "version": "v1.6.10",
+  "notes": "Overhauled Engineering UI / Process Feedback.",
+  "pub_date": "2025-06-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZWbXJMaXNUSkhxbUxPdWlCOThTbnJvV1JvVjBadWJjb2RYbmpOZmhJQnNwektKUi8xeTl0ZExUcVRjMjBUZlpCMFF5WTNkMWdITXVaZnNidkUrcHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5NzQ2NjE2CWZpbGU6QU9TXzNfMS42LjhfeDY0X2VuLVVTLm1zaS56aXAKR29tQUlDdFZJdkhjSTZJTnQ5QW9lSUJKV1o1KytobG5GcnhEMWZ3YmhFMXhxTzVoTG8rWmlKbHRwbVJ4K0lMR3VtWkpObmxXWDN3eStGYUlTSTR1RFE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.8_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dmRHJ3ZzFHWkwvMmdpRDZ0NjBqUFBiV2x4cmtWY3pWSkJHanJOT0xid1A5UlltTXhlR0pYd09uNzJVWUVQcFBNWDdRdHd2OGhZc0tOTWhNdXJOK0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMDkzNDE0CWZpbGU6QU9TXzNfMS42LjEwX3g2NF9lbi1VUy5tc2kuemlwCjFtNWhMS2FNcmNyTlFSbjg4ZmwrNnl4dGhZQy9ob1FmRktTbWZYQjRUUmRXRFdQU2NKU2JGVnA4Qkp2ZEpRMWNNdnFvc3EyRE5YQ2tBQVdNSXN1MUNBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.10_x64_en-US.msi.zip"
     }
   }
 }
