@@ -1,6 +1,6 @@
 {
   "version": "v1.6.11",
-  "notes": "Ovehauled MTF CATIA Hierarchical Handling.",
+  "notes": "Overhauled MTF CATIA Hierarchical Handling.",
   "pub_date": "2025-06-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
