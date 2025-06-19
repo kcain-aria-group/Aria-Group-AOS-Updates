@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.13",
-  "notes": "Implemented Overhauls/Error Corrections To CATIA ReOrganization Logic.",
-  "pub_date": "2025-06-17T12:00:00Z",
+  "version": "v1.6.14",
+  "notes": "Correscted BUG Associated with CATIA Generate MTF Logic.",
+  "pub_date": "2025-06-19T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhnczZ3YWFuSVlrMVNqN2VDLzNmZm9jSm9xcEdnU2JVelJKVVhFanIxcmNDc0hicEZyVnFiYkd0ODhCdy9KSS83S3gycSsxMUY0MnVPM0xXSWRmZnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMTk4Mzk5CWZpbGU6QU9TXzNfMS42LjEzX3g2NF9lbi1VUy5tc2kuemlwCk05azU1aVFyR3ljTXBGM1FZNWJ5WW9KczFSaFRBaWFuKzgvN1JLdzdtcERMc2ZlazhqY2VNcXc3WDl1dmlYNkVqcXBpMDZBQzBZNGUxY3NHUzBjekJRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.13_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3gwMUNBQnFxaWhzK3pOazBMUDlqelRoUTlTdEpsNDVkS1ZFWFRVM0lnamVwekFnY29PMDRxaWpJekVFVUlLSTVURWdyaERKZnl0dzkwZnpmQ1dScFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMzU4MjkxCWZpbGU6QU9TXzNfMS42LjE0X3g2NF9lbi1VUy5tc2kuemlwCks5VXVsSTM5SVM2aHgranJKeldIUjFoTTYvaS9kRE1TQzc0SGdxK212cW1WZ1h0eUphUEYwODdzbDR5UkNVMC9qVlA5T0ZvNk5tL1ZDK1BHMVlYWkFnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.14_x64_en-US.msi.zip"
     }
   }
 }
