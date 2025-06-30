@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.16",
-  "notes": "Completed Initial UI Overhaul. Fully Integrated Windows Dark Mode Theme Support.",
-  "pub_date": "2025-06-26T12:00:00Z",
+  "version": "v1.6.17",
+  "notes": "Deploying Preliminary NCR Infrastructure; Will Unlock In Coming Weeks.",
+  "pub_date": "2025-06-30T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azltclcrTTBjZDFYUG5Hc2s1UlZXT1EybGVLemdIRkQrU3JwT3VncW1LWXVXbTUzV3paOUtzci9pbVoxOStzVXBadEhkVE5EYTZ6eTVIRWs1MWlJMWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwOTgyMTk5CWZpbGU6QU9TXzNfMS42LjE2X3g2NF9lbi1VUy5tc2kuemlwCkNIK2l4TVkxM1BrMFRYYnJrbWxYejBHd2xEMWUzYUw2dU9nM25qd2hYWWd5WDlTRnkrVVMxU3RGeXY5UWU2UlNqbjJmSXZxczNkUUNDTVh6QWVnSUNnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.16_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hoT3ZUdG9XalpnWHowVWZhUHlyQkhNUEZjVENQQUUyWmVnaTJWcCtDcER1TW5QTEJCUll0UktkaFJCQTdaUk9YODJUaHF5d1RNWGtnVm5kcnpxWHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMzA2MDkzCWZpbGU6QU9TXzNfMS42LjE3X3g2NF9lbi1VUy5tc2kuemlwCjVyWVhrWGFPbW05MUZwUXl0amhtQUI4QVZYd3paTHhYcWxUZEVaV05iem45dUw3Wi9KN01leXk1eEJ3Ull6SWZHM3BnMG1wOUxxU3oxMFJSN3RxMEJBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.17_x64_en-US.msi.zip"
     }
   }
 }
