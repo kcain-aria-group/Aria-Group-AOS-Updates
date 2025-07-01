@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.17",
-  "notes": "Deploying Preliminary NCR Infrastructure; Will Unlock In Coming Weeks.",
+  "version": "v1.6.18",
+  "notes": "Introduced Part Release Date Column For Use with mBOM/eBOM, Update Available Notifications, And General Optimizations.",
   "pub_date": "2025-06-30T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hoT3ZUdG9XalpnWHowVWZhUHlyQkhNUEZjVENQQUUyWmVnaTJWcCtDcER1TW5QTEJCUll0UktkaFJCQTdaUk9YODJUaHF5d1RNWGtnVm5kcnpxWHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMzA2MDkzCWZpbGU6QU9TXzNfMS42LjE3X3g2NF9lbi1VUy5tc2kuemlwCjVyWVhrWGFPbW05MUZwUXl0amhtQUI4QVZYd3paTHhYcWxUZEVaV05iem45dUw3Wi9KN01leXk1eEJ3Ull6SWZHM3BnMG1wOUxxU3oxMFJSN3RxMEJBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.17_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVPVUlicW5LcGhYelBVS3dYSGE2Y1hnckFxbGs4a3JBekdjN2FPakp4dFFrdyszMytMUTdoOUsxcnJmR2JFNE9uem5hWkFWeGM5cVNtTDIwNnJUZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMzg4Nzg3CWZpbGU6QU9TXzNfMS42LjE4X3g2NF9lbi1VUy5tc2kuemlwCnJ1NmZBNSs0d1FRU1VETmY0UGNiSys2Mmhac2h3TDluU0JPM3NXWkpvSDNOUGF6bGx6Snh5ajBKNmJBMW5EYzZVRng0bGpaMFNtTStnZjdTSkhNeENRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.18_x64_en-US.msi.zip"
     }
   }
 }
