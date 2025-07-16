@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.18",
-  "notes": "Introduced Part Release Date Column For Use with mBOM/eBOM, Update Available Notifications, And General Optimizations.",
-  "pub_date": "2025-07-01T12:00:00Z",
+  "version": "v1.6.19",
+  "notes": "Introducing Complete NCR WorkFlow Along With General Maintance Updates.",
+  "pub_date": "2025-07-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVPVUlicW5LcGhYelBVS3dYSGE2Y1hnckFxbGs4a3JBekdjN2FPakp4dFFrdyszMytMUTdoOUsxcnJmR2JFNE9uem5hWkFWeGM5cVNtTDIwNnJUZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMzg4Nzg3CWZpbGU6QU9TXzNfMS42LjE4X3g2NF9lbi1VUy5tc2kuemlwCnJ1NmZBNSs0d1FRU1VETmY0UGNiSys2Mmhac2h3TDluU0JPM3NXWkpvSDNOUGF6bGx6Snh5ajBKNmJBMW5EYzZVRng0bGpaMFNtTStnZjdTSkhNeENRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.18_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRQV3BMRDd2RUdhVkUrRW8vN1BzdzlrQ3ZHeUVpSU1PRGdvSVg1NDY1ZjArdFRiNG1abzUvdWtBeVdwZitxK2NxaDY4VmN1STlTZVpMTzVjU3YyeUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNjk4MDIyCWZpbGU6QU9TXzNfMS42LjE5X3g2NF9lbi1VUy5tc2kuemlwCkJBY2poUi9wdlhSUGZkNmJweGxOYUhYNm1iRy90WmoyR1dKc1JNeVR4bGNRR2Q0MGhGWnhHb3Mwd1RnclpOOW5rNU5UeFdjdVlHVWgzQW5Jb3NMd0RBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.19_x64_en-US.msi.zip"
     }
   }
 }
