@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.19",
-  "notes": "Introducing Complete NCR WorkFlow Along With General Maintance Updates.",
-  "pub_date": "2025-07-16T12:00:00Z",
+  "version": "v1.7.0",
+  "notes": "Deploying General Maintenance and Bug Patches.",
+  "pub_date": "2025-07-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRQV3BMRDd2RUdhVkUrRW8vN1BzdzlrQ3ZHeUVpSU1PRGdvSVg1NDY1ZjArdFRiNG1abzUvdWtBeVdwZitxK2NxaDY4VmN1STlTZVpMTzVjU3YyeUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNjk4MDIyCWZpbGU6QU9TXzNfMS42LjE5X3g2NF9lbi1VUy5tc2kuemlwCkJBY2poUi9wdlhSUGZkNmJweGxOYUhYNm1iRy90WmoyR1dKc1JNeVR4bGNRR2Q0MGhGWnhHb3Mwd1RnclpOOW5rNU5UeFdjdVlHVWgzQW5Jb3NMd0RBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6.19_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azU2VjMrQTFnTXcyT2tnOXJhcHB0RVg3YURob1FPa3VGY3RYUmo0TlRtRWJidDVHclZhNldiU1d4dnM3blZrVnAyY2tYUzdFT2IvODN3ZlNPbFV0blFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyODY4MTk1CWZpbGU6QU9TXzNfMS43LjBfeDY0X2VuLVVTLm1zaS56aXAKeE5xeHZLR1RLT2RsT1hYT0dLYWNXNzZNekZHcE8xM1BnVzhSajQybnhsak5aMk1qRStaT01HSVQ3Nk1zdnJqSUpyS3hhZFlhNGVockJweVRWNDFiQUE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.0_x64_en-US.msi.zip"
     }
   }
 }
