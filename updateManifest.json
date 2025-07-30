@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.5",
-  "notes": "Releasing CNC Queue Bulk Sort Tool.",
+  "version": "v1.7.6",
+  "notes": "Overhauled Paylocity Milestones UI and Rebuilt Project Tracker Page.",
   "pub_date": "2025-07-28T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azBpUGJFL2drWHpQMlhiTU1EQS9ybFdJQWZJK1pqSS9laktCWXpaMEYvZHhlOEkwUU82UU1HbStZclpORVhlUU1HOGpYTm80d1A2YldXTlY3OTNjcWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzQxODc4CWZpbGU6QU9TXzNfMS43LjVfeDY0X2VuLVVTLm1zaS56aXAKSituMklWMXh1a3FIVGJNZXJIYmtoK013OXFPVjVtd0RqT082a2UyMEc3djdZbHdhUXNEOUQ1SWJacmdmbDhxZUJhcFpOSVRjbTRTUU8xTkNjVW1iQkE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.5_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azBYQXFkKzVJeGRxTlZVeE81THZ3TjNGMllXRkdqd0ZhV3I5ckc1UmpQVUpONDhZZkRwZDVpRWFUL2sveTNVUDFaZDVjeVdWQnZPaDEvR1dkNEJDL1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzOTEzMDU0CWZpbGU6QU9TXzNfMS43LjZfeDY0X2VuLVVTLm1zaS56aXAKSjZsb3Y4dmxBbExSNDJBbXpUQVZSenlxYjgvYXY4bUtzSWF1M21EeU5MdkVDQmZueW9RcnYyd1NSbUtrV3hCRkVXWGc4NHlRK21hcnhXaXdBejdtQXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.6_x64_en-US.msi.zip"
     }
   }
 }
