@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.7",
-  "notes": "Overhauled Paylocity Milestones UI and Rebuilt Project Tracker Page.",
-  "pub_date": "2025-07-30T12:00:00Z",
+  "version": "v1.7.8",
+  "notes": "Pushing Continued Maintenance Patches, And Deploying New Inventory and Purchasing Infrastructure.",
+  "pub_date": "2025-08-01T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azBGKzFzb2V0TmZBU0I1bUJWODdNRUhDN1VoMEJSaW8wTUwycmwyOGIvSmR2NDFrMmFKU05yTTFMYlJiMnY0SnZkNE9YYXdTT0F5SEgvZDRsYWpRdEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzOTE2NDgzCWZpbGU6QU9TXzNfMS43LjdfeDY0X2VuLVVTLm1zaS56aXAKcC9sOExINzd0N0JTRW9SSk9lVysrZm9URXhJUVR3OFQ3QVhsY2s0eXQvaUw0ZkRYdVlKeTFnUkhIMkJlb1NnaHRta0RJZkdKa004b1JMNE1vMmNVQXc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.7_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azFHVk1QTGs0QVNmZi9CRnhDQTVnL0JVZnN2R1Y3eU1wanRWVFZVNFFIdlpwZERPRWgvK3dRejlnUnhQcGx2Z1haL0w3dzNuN3lrVWlmNGxMMzNxMGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDk0NDg5CWZpbGU6QU9TXzNfMS43LjhfeDY0X2VuLVVTLm1zaS56aXAKZjd6RnZHK3k5T2V1Ni9SaDlZVDF4SFZTRUYxUDJwUkpxZDhrU3l5L2MyMUNwTEp5bU9RYjZwZTh2a0pQU2NBeFNYQnlPanZpN09TSXg0bUNmQnZORHc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.8_x64_en-US.msi.zip"
     }
   }
 }
