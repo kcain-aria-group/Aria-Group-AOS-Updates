@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.9",
-  "notes": "Overhauled Project Inventory UI And Implemented New Utility Infrastructure To Facilitate New Global Inventory System.",
-  "pub_date": "2025-08-04T12:00:00Z",
+  "version": "v1.7.10",
+  "notes": "Overhauled BOM Locking Mechanism To Better Support Modernized Worker Architecture.",
+  "pub_date": "2025-08-05T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3ptcUtJcWhMeXZ6ZFV5cFRhREwyaDVwSU5wSzJDSVE0ajdPaXVPWEh4WTJja1d4dDlseG54b3EyRFRqRnFCWUMwWHJxeEVlc0x4RDdlVHBZN0N2UFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MzM4NTM4CWZpbGU6QU9TXzNfMS43LjlfeDY0X2VuLVVTLm1zaS56aXAKa1F2V045Zkg2ZXRiQWVsREpLQVp1MEFWeUdxUG9rY0VNb1g2R3FDandLN2FURzI1Z2F1a2pxWTVpY1haUjNnNDhSR2YvQUNpekxUQ0swcTJnYVdJQ3c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.9_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytGSyttc2FSWjlkUTdNWDB4R0lhQ1luZUpuNEE1dE01RndhZGpvUHJXdXh6NHRlSVFsN25JVDRKTHdCZGNKMWNSQjJDaWM1TGkxaHpwNXpmNzRNbGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDM5MTU4CWZpbGU6QU9TXzNfMS43LjEwX3g2NF9lbi1VUy5tc2kuemlwCmc0K2JlVHZyS1lUWTdUb1ovcDBjTVlzdWltaFI5Sll6emIzeXAvMmxlK0RTdDZJUU1meDd2d3FaRXhISWZLa3hiVUoranZZbnhROWxZSkpWUzlmUENnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.10_x64_en-US.msi.zip"
     }
   }
 }
