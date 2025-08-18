@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.12",
-  "notes": "Overhauled Calendar, NCR, and Paylocity UI, introduced new Purchasing Management System, and rebuilt Project Tracker.",
-  "pub_date": "2025-08-16T12:00:00Z",
+  "version": "v1.7.13",
+  "notes": "Implementing PO Page Maintenance Updates.",
+  "pub_date": "2025-08-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdzcGtBa0k3TTFtQVc0SDRCeWRGVll2Y1pkbnFSZGFhTDNablNzUUdiKzBEOFJhKzczcWhEY1JkS0hiejE5eFB4L2MraHJYOWtlYm1oTWhGOGtRSlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MzkzMDU0CWZpbGU6QU9TXzNfMS43LjEyX3g2NF9lbi1VUy5tc2kuemlwCnFERU95ek0zd0VQS0tWMVhRa29DT3d0cmt1bmJ4UFU1a3oyQVJDRWJxTmRoUzBJbGJGZEJxblZ1WVVBZUxzTS9jOTg5NEk0UmlSOG9mTUw3TGxMMEFnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.12_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azQ4UXNpQzZrQ0hYamJ4WFQ2cmpGN3RVeVZaUi8rbDByWnhWZGdBMURnem1KUE4xcXZZTDJxeDIvYXVvYll6dm5ncGJwZmJxRlp2SmFyYU5EMHNrbmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1NTUzNDUyCWZpbGU6QU9TXzNfMS43LjEzX3g2NF9lbi1VUy5tc2kuemlwCjFWZnk4NUNIOHZIa1BvcVV2WHpjNEdRNmRWYUxaMzlUZ016ZXFIdWp4MDlzTHprenBySFpCNm1VZlpJUHlVY2xWS3Myd0FNVC9EN3FxazMydUYwRUF3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.13_x64_en-US.msi.zip"
     }
   }
 }
