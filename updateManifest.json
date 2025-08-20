@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.15",
-  "notes": "Implementing Maintenance Updates for PO, Calendar, and BOM Pages ALong With Server Overhauls.",
+  "version": "v1.7.16",
+  "notes": "Implementing Maintenance Updates for Router and Traveler Management Pages, Along With Additioanl PO changes.",
   "pub_date": "2025-08-19T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdQamlyVHpiTUNmOEdERm40SEJnRUJFYzgzSmgxUkxNeHlhWjc1QUhia0NydTE3Zjd2a2g0OE0xK0NQOWo0Rk96SXRQTFp5Vzk0Q1VhbDRNME9xTkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1NjQ0NTg0CWZpbGU6QU9TXzNfMS43LjE1X3g2NF9lbi1VUy5tc2kuemlwCkdNRnltQXRuTUIxalBlVGlESE81OStKNUl1SURZVmR2WmhOdVpmUE5EYjMycG12dVhqNUN5WlNSb0dWVnpFMkNyclNsRTQvejNEakJ5NWVKY2ZhWENRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.15_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azQ2OEZTWnFmN2pFM2JaV29MSzI0WThxODVvbDMwaWpLd1JZSFVwVXlkUzhzZlZSTGJ5dUZIbzZqN2dlTkE1Q2FUT3pEU2tsZWxQL1VCSUpta1FzV0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1NzIxNDc5CWZpbGU6QU9TXzNfMS43LjE2X3g2NF9lbi1VUy5tc2kuemlwClZPNWVBUnVOenYxb0d5aE5RYWhIbVlxMC8vTHlRcElkSkY1bmVBOFphdDFBMHZQQk5BOGNIK3hoQTF3alJ3UmlFZStTOEZWZlZrNjhwZy9icHJzTkFRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.16_x64_en-US.msi.zip"
     }
   }
 }
