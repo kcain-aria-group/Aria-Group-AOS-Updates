@@ -1,11 +1,11 @@
 {
-  "version": "v1.7.17",
-  "notes": "Introducing Initial Release Of Inventory Catalog.",
-  "pub_date": "2025-08-22T12:00:00Z",
+  "version": "v1.8.0",
+  "notes": "Introducing Physical Inventory Module.",
+  "pub_date": "2025-09-10T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hqaWZ2OW1YQUhlRm5WdTI1VElWbnBzRjdaYjBGbU5CcHVMRjJ6T2xrV2F4WnUxUW5lSzBsWmlvelJDZnZLTThZOUdwNmNENlBzMnc5dm9XK2NYZUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1OTEwNzg3CWZpbGU6QU9TXzNfMS43LjE3X3g2NF9lbi1VUy5tc2kuemlwCkJKY2V2a0JQYnMyWUdjUVcvS01nVXpwMzhCUk55bzVRUlJMWm1IWDZOUGRtdXJzVmxUNm1MTzVnUjJLWXVrZW5GaStNUlBWZWc2QjJ3NTFMNlQzckRRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.7.17_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVsc2g1V09jb3JTaWgxbWVPRE5rY3ZOUkplZnRUMVVsMkJoejVlS0dEdWpzMzRsMTF3bG5saENURThMOGlGN0lyajNLMmcrZU1MQ2ViY2Z1dnQxaXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NTE3NzkyCWZpbGU6QU9TXzNfMS44LjBfeDY0X2VuLVVTLm1zaS56aXAKK1k0TnNoUGpDMXdTVU45bklJVFllRmIwanFoa3JLN3pickJKVmNNRENtT1BmTnA3Q3RhSm1hVFhNSmlsTW1zbU9nY1lMdzhmS1E4MXNBMzlBNnpJRGc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.8.0_x64_en-US.msi.zip"
     }
   }
 }
