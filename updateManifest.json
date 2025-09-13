@@ -1,11 +1,11 @@
 {
-  "version": "v1.8.0",
-  "notes": "Introducing Physical Inventory Module.",
-  "pub_date": "2025-09-10T12:00:00Z",
+  "version": "v1.8.1",
+  "notes": "Deploying BOM Page Performance Overhauls. Introduced Customer Communications to PO Receipt. Deploying General Mainenance patches.",
+  "pub_date": "2025-09-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVsc2g1V09jb3JTaWgxbWVPRE5rY3ZOUkplZnRUMVVsMkJoejVlS0dEdWpzMzRsMTF3bG5saENURThMOGlGN0lyajNLMmcrZU1MQ2ViY2Z1dnQxaXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NTE3NzkyCWZpbGU6QU9TXzNfMS44LjBfeDY0X2VuLVVTLm1zaS56aXAKK1k0TnNoUGpDMXdTVU45bklJVFllRmIwanFoa3JLN3pickJKVmNNRENtT1BmTnA3Q3RhSm1hVFhNSmlsTW1zbU9nY1lMdzhmS1E4MXNBMzlBNnpJRGc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.8.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azc0MVdtQkw0dE5NYUhLZmRjT2dJTE5iTnlqcXNBV09yRGs0YjZTWUY5eGIrQmhjblV5bjFCWU1CUmR2QlpMU2hJQ0xReHlHSnliMzBOcVJacHZZbUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NzIwOTEyCWZpbGU6QU9TXzNfMS44LjFfeDY0X2VuLVVTLm1zaS56aXAKdTZGdS81YlIvek5jWldmOUdSNDl1b0IwZ2JtalRPSWh0TlZaWVVhdVlCaU9wcHJqSXZvNTdKSHdOdmVKOXZqRFU4NUdtaVlBMEZ5bEtGRU5EOUFkQVE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.8.1_x64_en-US.msi.zip"
     }
   }
 }
