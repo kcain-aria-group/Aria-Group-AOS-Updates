@@ -1,11 +1,11 @@
 {
-  "version": "v1.8.2",
-  "notes": "Deploying Engineering eBOM BOM Lock Hot Fix.",
-  "pub_date": "2025-09-15T12:00:00Z",
+  "version": "v1.8.3",
+  "notes": "Deploying AOS Maintenance Update Along With New Out-Tracking module Within The Physical Inventory And QR Scanner.",
+  "pub_date": "2025-09-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azkwSVJMZHVuMm1vZkN6THdXY1JUTlZtN3dlSmdVNUMvb2UyNXV5WTkrN3dGYXo0N2RYVFNIRHE5bFZqK1FzYzJ1ZnM2K2NVWmpiNkx3THpFT1ZPY2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3OTY5MzA5CWZpbGU6QU9TXzNfMS44LjJfeDY0X2VuLVVTLm1zaS56aXAKK3RhL2VtWFoxVXIxNTUvL3FiZDhmNTRhSFpiakl0R0VwSzVXUy9vU2ZncitNVmxUOTltRjVkLzF5K1VSanhHN00rOGdkSVh2czdIZEc3MTJGeno1Q3c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.8.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytZMy9xcVZrUkJoaVhSMWVFWFRra21xSisvaCtVOExOWGc4eU1HVVNlT3RuZFczeGx0V0w1dVdKR2p3cmJ2cVBXNHkxNnNPWW1PcWxjanBkTkdxMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MjE1MTY3CWZpbGU6QU9TXzNfMS44LjNfeDY0X2VuLVVTLm1zaS56aXAKd3AwWXdDZm14bzJ2UFlwZmIvbmk5ZFJFUm5WSlR4dlJEcmMwTVZsaUJDbnM0NFVYSlRlM3JGRUkvNVNMckdPTm0vcGpabklUZGt5UTZId0JrT1FyRGc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.8.3_x64_en-US.msi.zip"
     }
   }
 }
