@@ -1,11 +1,11 @@
 {
-  "version": "v1.8.3",
-  "notes": "Deploying AOS Maintenance Update Along With New Out-Tracking module Within The Physical Inventory And QR Scanner.",
-  "pub_date": "2025-09-18T12:00:00Z",
+  "version": "v1.8.4",
+  "notes": "Pushing Continued AOS Maintenance, Along With Ad Hoc And Project Inventory Rebuilds.",
+  "pub_date": "2025-09-19T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytZMy9xcVZrUkJoaVhSMWVFWFRra21xSisvaCtVOExOWGc4eU1HVVNlT3RuZFczeGx0V0w1dVdKR2p3cmJ2cVBXNHkxNnNPWW1PcWxjanBkTkdxMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MjE1MTY3CWZpbGU6QU9TXzNfMS44LjNfeDY0X2VuLVVTLm1zaS56aXAKd3AwWXdDZm14bzJ2UFlwZmIvbmk5ZFJFUm5WSlR4dlJEcmMwTVZsaUJDbnM0NFVYSlRlM3JGRUkvNVNMckdPTm0vcGpabklUZGt5UTZId0JrT1FyRGc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.8.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azV2R0lXRHRwZzl4azdsSjVLNVNsdnJSdXRuWGNWcGRYNXY0U3pmZ1ozOEpISHVOZmRqUWJ3WDQvd0ZyYUJPMGVHMUp3UVk4TWJCQkl5dFhTNGp0K3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4Mjk5OTcyCWZpbGU6QU9TXzNfMS44LjRfeDY0X2VuLVVTLm1zaS56aXAKUExiWnlRM1JKeEZQUFhmR2NHYTBBbUp6U1pDTEhNL05nRFRGU01mNWVMb21kcHk3R3ZiSnB4NUJlQUxERm1rS1VmYzVRaGdIUEVwdDZQQU5ha3NIQ1E9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.8.4_x64_en-US.msi.zip"
     }
   }
 }
