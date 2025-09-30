@@ -1,11 +1,11 @@
 {
-  "version": "v1.8.5",
-  "notes": "Pushing Inventory Qty And Jump To Hot Fix.",
-  "pub_date": "2025-09-19T12:00:00Z",
+  "version": "v1.9.0",
+  "notes": "Introducing Paycom Funtionality And Project Analytics.",
+  "pub_date": "2025-09-30T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNPNU1UT1NlQnB5M2R0MFlnSEJQWlBMK3BtTDFtbDhUbDVnbzRhQzFTQllOcEsvR3FKTGcweHd2U0NiNmJHYldpY1lrMUdGaGwwdVlhb0QyWkpzN1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MzE1MDIxCWZpbGU6QU9TXzNfMS44LjVfeDY0X2VuLVVTLm1zaS56aXAKU0hSdDdsMDYvMElJcEZ6djdLd3pYYkNBUUhZdkpnQmtYSWsxbm5XL1AvZCtXbGE1R05OWWxEQkdwVk5rWmQwZ0w1N3BteGZEMS90MGt1NENhckFVQ3c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.8.5_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRJc082MWhvOFhIRWphOTRvdEllOGhDbjNYbW1xeGc4enhJNjl2WmpOdG1hbGs0UitrMnAvdjQ0OVhCYUQxWFM3SFNWTnF5RjEydit0NGFkUUF1eUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MjY4OTE4CWZpbGU6QU9TXzNfMS45LjBfeDY0X2VuLVVTLm1zaS56aXAKWW1yVVkzRURBNDZsVndFUHliSEc5MTh5aE5DMHZYVENFUFJPMFI4MkdpTlE1aHl2bThXNitLaUw5dWx4d0gvNGZZL2pwdTR6Nnk0YURCVU5WWmxxQmc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.0_x64_en-US.msi.zip"
     }
   }
 }
