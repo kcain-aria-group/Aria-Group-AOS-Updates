@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.1",
-  "notes": "General System Overhauls and Maintenance.",
-  "pub_date": "2025-10-01T12:00:00Z",
+  "version": "v1.9.2",
+  "notes": "Deploying Requested Inventory And Purchasing Overhauls.",
+  "pub_date": "2025-10-08T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hCRDZxYmFGOFFxdVl4QlFZeHAxZHg2aXd1ZUVLM2pxbmtFRHJNbDVsckQvU1ZWK0pQZ1BhZituNHdWeHp6Qi9QODBWUEcxTWNKc3libTUzYTZXZ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzYxODUwCWZpbGU6QU9TXzNfMS45LjFfeDY0X2VuLVVTLm1zaS56aXAKL3JsK2tUTERzRnBGMUM5cCtkTzNyU2ZzUDkxQUxqTjFxOWxBbmtSRjlvSlhKYlY4cVVUUWp1dElSaW5nU2hDdEpSa2ZNN2luQlp4WEpmSmxKRkZ2RGc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azU5N1hDT3dlWENZYTNTc0pBWjdHYnNpRVplZWw4VWFUaVJpb2tNaE00cnB0cEk2ZGFFSlhLQzgraWVYby9ZQnRTNnRUQ1gzU2huL1g1cTA0dGtjekFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5OTY0MDg4CWZpbGU6QU9TXzNfMS45LjJfeDY0X2VuLVVTLm1zaS56aXAKN3FERFpHbHh6dXU0b2p6MFBzK1NMczhKM0dFVVoxeVE4dzg0ekxyREdENkRHdHRTOGZua0NHLzFHcWd5bFVycS9mLzZlMEVrbEhwUFlKQTdhY1lRRHc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.2_x64_en-US.msi.zip"
     }
   }
 }
