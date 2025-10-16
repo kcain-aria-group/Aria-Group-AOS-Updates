@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.6",
-  "notes": "Deploying AOS Maintenance Patch, and Bug Fixes.",
+  "version": "v1.9.7",
+  "notes": "Deploying AOS Maintenance Patch.",
   "pub_date": "2025-10-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azIrZ1NyRWoreVV6ZU5BWHhjV1l2eVdHSkFYRHg2bFVrSFh1a1FralNkNndDSWNlVWJMSm4yVmxjbkpwVVFNdndwK3lVRjlJNFo2aFNMRkxXSHprWmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNjQxMzMyCWZpbGU6QU9TXzNfMS45LjZfeDY0X2VuLVVTLm1zaS56aXAKQ1FYWFByUDRpYW05RFdmd1BFM3kzMjBUZmJSS1R3TEwzeEhBalRtdmI0ajRRYmFkYXRLOWJEekRIcE5GMkgvQ0RrK25xSE90UlF4b3h4ZlIzTFZRQ3c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hQbksyZlM0WVU1YUEvOG5SSjcvcTJhU3M5citiZXlJZ01CKzVOZmFLYmtaSUllZlAvWUZtNE0wOWI4bnhHTFhBUzFqeWdrSkdHZkpHMFBYNlQzYndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNjUwMzcxCWZpbGU6QU9TXzNfMS45LjdfeDY0X2VuLVVTLm1zaS56aXAKQXFqTy9ia201V0JpYkluS3JwUkFOV2szT2NobGN3dlVYZkxjV1JIT095NFRTV0xUU2NhSW11MzJ1alp4bEZyTUdPYkRtOHBsblc0M2xTbGhSSytVQlE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.7_x64_en-US.msi.zip"
     }
   }
 }
