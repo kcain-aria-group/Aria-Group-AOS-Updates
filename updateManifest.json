@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.4",
-  "notes": "Deploying Updates to Router/Traveler Systems, BOM, Puchasing, Inventory, and Supporting QR Scanner Systems.",
-  "pub_date": "2025-10-14T12:00:00Z",
+  "version": "v1.9.5",
+  "notes": "Deploying AOS Maintenance Patch, and Bug Fixes.",
+  "pub_date": "2025-10-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhVbTBJTmVwRGVJWTU1U205d2lOZkl6RWZUSWlsenJJNFNvK2hwWk9mcnBlT0Yyczg4b0cxRzREMHFic1ZPTHozSU9xMUh4L0hwSWJXYmpiWk40MkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDg4NTM4CWZpbGU6QU9TXzNfMS45LjRfeDY0X2VuLVVTLm1zaS56aXAKTGVRcDhyS21HRU5ZSXZVcEtJLzVzVjlnemM1Szg2bVlwTTVQNGF0YXl5NlhPNEFROHBZV3NBSUFsTDJhK2NIQVJEemZQdU5QZ20yUWUraFpLWVhFQUE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJBLzVJajkvQk1LR3pOcXphbzJ5TEZiM0g5dWV6N1dyY0Y2U1JmZXdXeFBxTFBXVnhvSlluTjFlVi9OQURkZURSR0pLSlZoQjBZaTBReEVFWGRNL2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNjM5ODMyCWZpbGU6QU9TXzNfMS45LjRfeDY0X2VuLVVTLm1zaS56aXAKMXYybTJOblhSOUthVlJDcG4vUWxlanNNVHJzQkFaVXJIWk9wWGNiRjZZTzF5OFRuczNwdTh5dmtJcTNwb3Vibk12bmxJaFlmbHFtb3h5ZDlwV0hYQ0E9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.5_x64_en-US.msi.zip"
     }
   }
 }
