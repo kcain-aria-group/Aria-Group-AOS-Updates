@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.7",
-  "notes": "Deploying AOS Maintenance Patch.",
-  "pub_date": "2025-10-16T12:00:00Z",
+  "version": "v1.9.8",
+  "notes": "Deploying Complete Rework of Scrapping System.",
+  "pub_date": "2025-10-20T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hQbksyZlM0WVU1YUEvOG5SSjcvcTJhU3M5citiZXlJZ01CKzVOZmFLYmtaSUllZlAvWUZtNE0wOWI4bnhHTFhBUzFqeWdrSkdHZkpHMFBYNlQzYndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNjUwMzcxCWZpbGU6QU9TXzNfMS45LjdfeDY0X2VuLVVTLm1zaS56aXAKQXFqTy9ia201V0JpYkluS3JwUkFOV2szT2NobGN3dlVYZkxjV1JIT095NFRTV0xUU2NhSW11MzJ1alp4bEZyTUdPYkRtOHBsblc0M2xTbGhSSytVQlE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.7_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdMcHRhZjdwa3FKUSsrM1QwKzdHV3hkWFRNdjBMbThuVElESlJ1Q3p1WGhrQ3pHR0FUckRlZWp3Ti84U01OUWtKV3RhZ0VqOTUvVHhpK0t0RVYyZXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTgwNjE5CWZpbGU6QU9TXzNfMS45LjhfeDY0X2VuLVVTLm1zaS56aXAKNWxrTkphQ1Y0Yy9xWC8xYWhXeGxVTUM4cUpRSTlJWkdOcjNZUnNSQ1BKSkpsbE1SM2o3OFJhbk16M1ZIUTZWMk1XcTlTU1RXbjlMaC9TZFZhY2xxQkE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.8_x64_en-US.msi.zip"
     }
   }
 }
