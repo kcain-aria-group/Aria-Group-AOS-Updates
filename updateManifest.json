@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.11",
-  "notes": "Deploying Additional AS9100 Changes, Along With The New Additional Of A Comprehensive AOS User Guide.",
+  "version": "v1.9.12",
+  "notes": "Introduced QTY Data To QR Labels.",
   "pub_date": "2025-10-22T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3pTcXdUZUxwV3FIWmZBRDdnVENEOVlKbXJqOEtTZGVRTXA0MVFVRXZhN2dmYTlUWDRRdHAyK1pObG9LOUlOZVhWeUVMZmRTSHR1VmZuRDlYWWZVdEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMTcyNDI3CWZpbGU6QU9TXzNfMS45LjExX3g2NF9lbi1VUy5tc2kuemlwCnJQUUNPMWVHMjUzNXRRTGx1Y2dUbjdaNzh2OUUvd3gxZDRwVnpKZFh2dHllME1nZlZLTWVldzZySmljenI3Rmdxd0sxWEkrWEJ0aDNLRU1jVzgvcERnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.11_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZDZTVwbkNXR2NuTnRXcUNCSVgvSFkxN1M0alJpWkVMaWpBMVAzeHBKcWEwNDR6U0ZZS0RnZDkvTXlldWxPVVpVNnBoakdBZ1FJZlF1WUNQZ3pLOWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMTc1OTgxCWZpbGU6QU9TXzNfMS45LjEyX3g2NF9lbi1VUy5tc2kuemlwClFzdUtBQkRSM2kyYW9WYVV3OGw3bWdSR2ljYnhtY3E4TWxMNGprQ3NpaHVIakw1MDVNUWlVMUJzK3M3UUhnaFFpejZsWW5PU0ZMSi9XZTFiZ3EyVUFnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.12_x64_en-US.msi.zip"
     }
   }
 }
