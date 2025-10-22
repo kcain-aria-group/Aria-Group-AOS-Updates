@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.9",
-  "notes": "Implemented Invenotry Patches, Temporary Router/Traveler Revision tweaks, along with eBOM/mBOM overhauls.",
+  "version": "v1.9.10",
+  "notes": "Implementing Maintenace Patch and Requested Changes and Bug Fixes.",
   "pub_date": "2025-10-21T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9BZVpQK2RUZ0Z0NVFzZWFkc1lyMmNsVFpzZnVRWDdpRDdHTzZ1Ukl2aHdvUld2SE9qU0pWRVZWa1dBNllRSnlHRjhTQU1paWFDWnZnK2Y2ZXFiVXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDY4ODU2CWZpbGU6QU9TXzNfMS45LjlfeDY0X2VuLVVTLm1zaS56aXAKMUd3VHd2TldKWUZrbVhKQVJjdnh1ZkpjS2pDUDNkdEdJcXIxdFNLdG56QkdiQ0VTbi9YYXFTU05HbjgwUDY3SUUvZ2o3RS9iemg0cWVwK1phZzdkQWc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.9_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdCZWNySjJ5bTNNZkR4dGNkUGVHeXU2dXNmUzVTZ1FRUGYzdlp2OFVBVW1vUkRKOFRCRmt2czlFUFVxR0pEOEh2VGxwT2VhNmdSMDNUUjNjMktwSUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDkxMTkzCWZpbGU6QU9TXzNfMS45LjEwX3g2NF9lbi1VUy5tc2kuemlwCnFBRUZrY1B2RWdFczkxRGYzdnJnK0g1amZFbGhsN1RiY2trSjBva2VZZlRlNFhSV0lrdVQvVTJONnpEbHEwMFVCdUFUaEY5Zkx3UEtzMnNvKzdRckJ3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.10_x64_en-US.msi.zip"
     }
   }
 }
