@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.13",
-  "notes": "Implementing Additional Router/Traveler Upgrades Along With Additional Scrapping Overhauls.",
-  "pub_date": "2025-10-23T12:00:00Z",
+  "version": "v1.9.14",
+  "notes": "Implemented Admin Locked Traveler Reset Tooling.",
+  "pub_date": "2025-11-10T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVYZEkvVHRjNFZVWjd3ZFRoYkdlckpZNjRSUW92VVpMb1FYOXV5dmtlUW4xUHMzNm1XV0M2bHRqclRNaEdiNEYwQStTQmQ5NCt4NjFkTU5FOUdBeXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMjYxODU4CWZpbGU6QU9TXzNfMS45LjEzX3g2NF9lbi1VUy5tc2kuemlwClE5TSsxdnM5eHBzZ215UTFBTk1LWHg3ZkFxOUo5bUVITG1kVXhTQTJGMHdSTmlnbUg1NW1idmpqcHZXTzBFbjBGUUlQb1huZ0l4Q0Rxc0g4dHRJNER3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.13_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azQrdTBMS3NSR0RTUGFCVm9EeWFtMnRlSFlYbzhJY2tYK2NROXdqd3h3a2NIeGxVOGNsdHVQQnh2ejZrRzN5OTRsbG5yTEw1bENOK3ZjKzh5eFdiNUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyODE4ODgxCWZpbGU6QU9TXzNfMS45LjE0X3g2NF9lbi1VUy5tc2kuemlwCmFHZmdKbmtTUFFqZURvZEx0d1Q2OXI1WXFrS1ZUQ0QyLzdXUnI1MlMxU1JUcU1iVERBZ0NrZEZUZWxUTUljZmUxV2l3ZUZwUi8rOFo3djBrK1hSQ0JRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.14_x64_en-US.msi.zip"
     }
   }
 }
