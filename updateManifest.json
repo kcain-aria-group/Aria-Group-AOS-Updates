@@ -1,6 +1,6 @@
 {
   "version": "v1.10.0",
-  "notes": "Deployeeing App Wide system overhauls: Calendar, BOM, CNC, Inventory, Purcahsingm, NRD, and Operations Inteligence. AOS Now Fully Supports Build Designations For All Data Sets. Major Maintenance Patch Includes BOM Multi-Select Support.",
+  "notes": "Deployeeing App Wide System Overhauls: Calendar, BOM, CNC, Inventory, Purchasing, NCR, and Operations Inteligence. AOS Now Fully Supports Build Designations For All Data Sets. Major Maintenance Patch Includes BOM Multi-Select Support.",
   "pub_date": "2025-11-26T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
