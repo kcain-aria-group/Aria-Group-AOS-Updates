@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.15",
-  "notes": "Implemented Bug fixes, NCR Overhaulers, and AS9100 Maintenance.",
-  "pub_date": "2025-11-14T12:00:00Z",
+  "version": "v1.10.0",
+  "notes": "Deployeeing App Wide system overhauls: Calendar, BOM, CNC, Inventory, Purcahsingm, NRD, and Operations Inteligence. AOS Now Fully Supports Build Designations For All Data Sets. Major Maintenance Patch Includes BOM Multi-Select Support.",
+  "pub_date": "2025-11-26T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ays4Z3prVTlaeGF3M2JNSTNwU2lwVUhXRytKTTZieG5MTmp5cVFrNG96VzlMZkFBSTlUM0w3SGw2VW5lbklxNmg3S09OT2cxVnRxRUdQUXBLMXYzeEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzMTY5NzMyCWZpbGU6QU9TXzNfMS45LjE1X3g2NF9lbi1VUy5tc2kuemlwCmxmZTNvVWo1Sy9MeVh0MStWV3dsWXMvSXZoTmUvV21Wb09TWEZjSGZiNEZqai9DTzlQa1h0cG41dmR2aWt2UXRBYnloWXdvZVpCYVFxeFhUUnFQaEFnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.9.15_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhjcDJNelNUWTJUYTZFckYzVWtDT091cGdYekZxOGRVanB2UUp0OW5vU0lwRDV6TWtCejNrekgwaXdvVmE4eWxNRy9nS2RXNHZna2J0amVucVBtUEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MTkzMjU2CWZpbGU6QU9TXzNfMS4xMC4wX3g2NF9lbi1VUy5tc2kuemlwCnBnVFkyL0VEWjBaT2hoeFowUXZWaUp4TWxGN1Uzb0NIL1NUMXEybXp5RjFLbFJPSXpaSHV4cFo0d0NwaFhJUm43RTBCcndzQmR2SEZzMWFXQXFqaUNRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.0_x64_en-US.msi.zip"
     }
   }
 }
