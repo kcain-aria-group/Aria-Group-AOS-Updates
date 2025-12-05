@@ -1,11 +1,11 @@
 {
-  "version": "v1.10.0",
-  "notes": "Deployeeing App Wide System Overhauls: Calendar, BOM, CNC, Inventory, Purchasing, NCR, and Operations Inteligence. AOS Now Fully Supports Build Designations For All Data Sets. Major Maintenance Patch Includes BOM Multi-Select Support.",
-  "pub_date": "2025-11-26T12:00:00Z",
+  "version": "v1.10.1",
+  "notes": "Deploying Low Resolution Support, unified UI Styling, Maintenance Updates, Patches, and Security Layer Overhauls.",
+  "pub_date": "2025-12-05T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhjcDJNelNUWTJUYTZFckYzVWtDT091cGdYekZxOGRVanB2UUp0OW5vU0lwRDV6TWtCejNrekgwaXdvVmE4eWxNRy9nS2RXNHZna2J0amVucVBtUEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MTkzMjU2CWZpbGU6QU9TXzNfMS4xMC4wX3g2NF9lbi1VUy5tc2kuemlwCnBnVFkyL0VEWjBaT2hoeFowUXZWaUp4TWxGN1Uzb0NIL1NUMXEybXp5RjFLbFJPSXpaSHV4cFo0d0NwaFhJUm43RTBCcndzQmR2SEZzMWFXQXFqaUNRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZTaWtRQ29XLzFWS3psd1hITHQ1eXpyRUV5V1hyQzJBanVpaDFhYjVBYTIrTEJROUt6eWhsUUxXYlpwSDgzdmNOdVZMNzhWbXJBYXVkbFhkZUpCQmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0OTc2MzY5CWZpbGU6QU9TXzNfMS4xMC4xX3g2NF9lbi1VUy5tc2kuemlwCk8rNEZ1VkVPR1ZwMUdRTVZHVEpsd0MzeWU3MjhEdlE2dDlraEVLZ1RlWHVTaENFNGdYUFluemZTRmNqbTk4UGhpRFRRWVk4eFY3N2VLcmJLNi9LdkR3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.1_x64_en-US.msi.zip"
     }
   }
 }
