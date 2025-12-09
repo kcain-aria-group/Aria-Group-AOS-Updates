@@ -1,11 +1,11 @@
 {
-  "version": "v1.10.4",
-  "notes": "Deploying New mBOM/Travler Gallery And Document Upload And Management tooling.",
-  "pub_date": "2025-12-08T12:00:00Z",
+  "version": "v1.10.5",
+  "notes": "Deployeeing Traverse City Employee Badge Hot Fix, Along With General Maintenance Updates.",
+  "pub_date": "2025-12-09T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRZa01tV0hrVVRhcmhoMkJkOGREQk5VSkdMZVZSdHkzSW5jVUdyeDNaZmtobTAyWXAyd1dMNHg5Mmx0RVlRVk4rNEVRT2Fvc2plV1BJQTVHWWM1OFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjM3MjA1CWZpbGU6QU9TXzNfMS4xMC40X3g2NF9lbi1VUy5tc2kuemlwCjQ2RGRCc0Zqb1RsOFVtVnlxUXJBWkdCd2xZWGxRRHZ3V05vZS9LTllRUUIwSzcvRHF5TEdMazJCZmNyWlRhNXlDSnh3Qy90UDBoN2JsTFpVQ2t3R0N3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3loRWtqOFozNmNEVFQxNVQ1Z2VjbnJlcXhGYjN4akljcTFGZXArYmx3OEx0RGFnb3NYUmtWTy9OeDJtZDQ1YWlzRTNyUXI5Q1I0UUpNNjh2aW1POGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzExNjIxCWZpbGU6QU9TXzNfMS4xMC41X3g2NF9lbi1VUy5tc2kuemlwCmNERXRTanRsRGc3N3Z3Q1NjSk4zSFM1VUoxc0p2dkk5V2ZuZlVWRWlucllxeVpsQ2ZwR09qODR0OW4wQzloanhkSWdDZitxaGNRc09RcnpEY3VKNkJBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.5_x64_en-US.msi.zip"
     }
   }
 }
