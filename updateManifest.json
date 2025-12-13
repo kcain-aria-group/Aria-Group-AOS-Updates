@@ -1,11 +1,11 @@
 {
-  "version": "v1.10.8",
-  "notes": "Deploying Initial 1.0 Release Of Nist Security Module.",
-  "pub_date": "2025-12-11T12:00:00Z",
+  "version": "v1.10.9",
+  "notes": "Deploying Extended Fucnitonalities to Security & Monitoring Tools.",
+  "pub_date": "2025-12-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azg0dVEzTjJyVS9lbGNrLzM3anA2S3pFeEg5SWtpUkwwQkJlZGdIckZGSllsWmU1QjR6U3pNNHBkSG1WbW1xUU9kYXBNTTNyUTZrcU1tekd2YitRcEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDk3MTg4CWZpbGU6QU9TXzNfMS4xMC44X3g2NF9lbi1VUy5tc2kuemlwCkVMaHVPb2dNbUpZc3pONXF5VjU5VUM4b0drSytmTXp1d0tnKzlXOTF1azNVT1dMOWYwN0ladHZlWEorOW1iZ0xDNWliZFhBREduY2lOZDgyc0xFY0NnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.8_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azR6SXdjNEtZT2Y3RUZ4QWxrYnNSZEI5bXNSZjBma1VMQXduTG5tY3ZxWmFiYVNKeFhpVnk4blhyNHNmSnJFYjB3L0hmTkdyeC93RllOemV5RlhCQkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTg4NjcyCWZpbGU6QU9TXzNfMS4xMC45X3g2NF9lbi1VUy5tc2kuemlwCmhoRmhhYXdXYURvMFB5ZHd6WTgyaGlnb2Z6bXpiRldIbXJ2TG9MdTk0cjl0NWJseDRmaEVUUTgzSnVBWE93YmZnRUJZZ1BzR2UxVGVHMmFSZTVrUUN3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.9_x64_en-US.msi.zip"
     }
   }
 }
