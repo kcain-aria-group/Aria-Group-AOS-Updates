@@ -1,11 +1,11 @@
 {
-  "version": "v1.10.10",
-  "notes": "Deploying Extended Fucnitonalities to Security & Monitoring Tools.",
-  "pub_date": "2025-12-15T12:00:00Z",
+  "version": "v1.10.11",
+  "notes": "Deploying Dynamic Embedded SSP Page With Security Tools.",
+  "pub_date": "2025-12-17T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azR6T1VFcDE4UjlEdWJyT1AvaGhLWjFmTmxSS0VIU21MUzRqbnRWTXhhb0dLTWk0bXRMbW5TNjErVi96ckxtZFJnL0N6Tk56K2l6RWRlRGVSK09aRGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODMwNTgzCWZpbGU6QU9TXzNfMS4xMC4xMF94NjRfZW4tVVMubXNpLnppcApYYnBIYVRIMFVMZldwMFAwTS9kM1VJQmZ3aXE1b2psV3hKZWxJZGtpZE4zTDRFZXY3djhLWTlJTlJxQ1Q0U2NtVFcwLy9tSGZKY0o4S1Bkdm9HcEFDUT09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.10_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azY2MGgzVVlpMXdtMTZQTFk3RVUwZDd4WWxyV2NGMk00WnZQQkZsS3ZFN0h4S2wzYThZVGJEQ2tvSis5ZDdsUHQzWUY3WXBTV0hXQWkyeHEzY09DK0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MDAyNDcxCWZpbGU6QU9TXzNfMS4xMC4xMV94NjRfZW4tVVMubXNpLnppcAp4OHQ0VWNjdllFVTUyZHNEREUrVUpxT2ZhZ0RQaXEvNDh3UHpkcTlJMlVxeTVwQTVJRXlzYmZNMUkrTUlHK0FLamhhRjkyY0ZyQVNMYU5YaWN2ZFlBdz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.11_x64_en-US.msi.zip"
     }
   }
 }
