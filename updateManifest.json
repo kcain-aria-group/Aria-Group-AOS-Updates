@@ -1,11 +1,11 @@
 {
-  "version": "v1.10.13",
-  "notes": "Deploying REQ Hot Fix.",
+  "version": "v1.10.14",
+  "notes": "Deploying PO Approval Hot Fix.",
   "pub_date": "2025-12-23T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVtRlE0dDhuNUplVGJvV2F6MUQrTEVDNDY0cEMwREIvaEtDbk84Umxqd0didmF2ZXpMV3FVOUpHUVQ4eUhaVDRnMGdhUGZCSDFtTUV3ZlJLS3NFK1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTE1MTkxCWZpbGU6QU9TXzNfMS4xMC4xM194NjRfZW4tVVMubXNpLnppcApPOG5VZzZabFVERCtPbWc5OXZ6ZjNsenVHTWUzOEI3NE8wOUxVMFU5aDVEMW1ha2ZUVWR3TDFpL2t4TkJuRlptdkVWZ0gzTmQxbHYxKzQ3M3FiYVFCQT09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.13_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hLRnJLcHpoZzVvVk93d3laeXVRUHdDY0VYak5VZVltTmVSUUJKR0lHa0xVdXZLVFpIWUNwV0RmaktmMTZMVmJ2R25ZVTRNcDVFY00wWGVSdG85WlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTE4MzcyCWZpbGU6QU9TXzNfMS4xMC4xNF94NjRfZW4tVVMubXNpLnppcApXQXpBQnZaZlBWd3lpNW1ra2pPWmJTcTU0dEp1YXk2WEZmangrR3pHaHhybzljY1d6UnJOcXVMQjFvL1M4WjRtbElRUXBTN0ZIemV1ZEJBeFg4OUxCZz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.14_x64_en-US.msi.zip"
     }
   }
 }
