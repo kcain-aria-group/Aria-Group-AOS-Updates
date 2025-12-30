@@ -1,11 +1,11 @@
 {
-  "version": "v1.10.16",
+  "version": "v1.10.17",
   "notes": "Deploying UI Unification Overhaul And Maintenance Patch.",
   "pub_date": "2025-12-29T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJSQVkrYmtGQ3RIY2NGa0VUakhiSzhldm95ZEZqaW0rTll5WHVhWGMxZU5CbHVrd3Q1UG4zalRuR2VxTzY5Qm11WlZ2cVZaVm1McU1NaDEwZ3VJSkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MDMwNTMzCWZpbGU6QU9TXzNfMS4xMC4xNl94NjRfZW4tVVMubXNpLnppcAplQzBGTTB3OXoyclV4ZVd2bWIvSnR6YUhmTGUyN1gydFNwY3phQU5tQlYxSzVyT0VqMG1rcFJnaVFqYVF0cytvbk9iSkdDZjVUQytpY29iVFM5ZHNEdz09Cg==",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.16_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9lV1VQaEMxVDlMWHpCOXBmMWtPWVd0M2Fham1UNkJMVG91SnNiajJZK1RUN2xaRUp3M2VLUENhN3FldzcwTk9aWkt5QWdFcjZlTHJnYmVjQWRmUmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MDYxNDM1CWZpbGU6QU9TXzNfMS4xMC4xN194NjRfZW4tVVMubXNpLnppcApVaVlWRjdkVC9YbDljRDJWeW0vT1Fva2VKUi82YUwzaTRXaXU2T3pvVlVDd1JQL0hWOG9oT3hHOE1UV1NzNXVNbFRsSnBJTHZSTnNCcklMVFMwL25Edz09Cg==",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_1.10.17_x64_en-US.msi.zip"
     }
   }
 }
