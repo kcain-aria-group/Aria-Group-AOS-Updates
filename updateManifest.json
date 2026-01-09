@@ -1,11 +1,11 @@
 {
-  "version": "v2.0.1",
-  "notes": "Window position/size persistence across sessions. Paycom 'No Builds Serialized' warning replaces misleading legacy indicator. Android MSAL popup auth fix. Production port configuration fix.",
-  "pub_date": "2026-01-06T17:00:00Z",
+  "version": "v2.0.2",
+  "notes": "SSP UI Overhaul: Help Modal, Permission Status panel, Document Controls toolbar, and Snapshot viewing with change tracking. SSP Approval Workflow with Separation of Duties (NIST AC-5) and lock enforcement. Security Monitoring soft delete support for all NIST tables. Physical Inventory modal fixes and scroll improvements. Inventory Dashboard project filter bug fixes. CNC Queue card view improvements.",
+  "pub_date": "2026-01-09T20:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJOWkN4aDBFeHBuQkw2STkzdnZMTVpiSUFJL2VSamNab0l0Z0lwc0FSd3p1OVU3MDdUcjFqQ2pBalh0WU5HRjBvbXZJakQrTUNrcHc2ZjA0MTJ4cWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzQ0NzQzCWZpbGU6QU9TXzNfMi4wLjFfeDY0X2VuLVVTLm1zaS56aXAKR0JMRS9JTUwwWnVFazBuZkV1djFFYkl5NUgrMmFhT25ZMkFLQWd2RUF6SFA2Y3ZYZ3h2NFlCNXFyU3JiMG0zaXo3USt4S2FxT1VSMnRiUDNnOUVWRHc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.0.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azA2b1h3eWo1eUM0akxQYmxKZ0RLZENjYkRWeXpRdW9OK0RGTmlYSmg0ZEFBTXAvMk8vOENSQjJPekxsL2dzalZka1JJVGlHajZ1TnZOek9ReGhTZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3OTkwNDgzCWZpbGU6QU9TXzNfMi4wLjJfeDY0X2VuLVVTLm1zaS56aXAKeHp6R0VJNjBGUVVKR280Vm1CUTVtb0NGZllJcGR4UWswQXNaUXdxNUp2eWJXVGpZaGdVVFU1R3kxTG0wMkxuSVVySVNYU1NxWTE5THlscktOYmhPQXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.0.2_x64_en-US.msi.zip"
     }
   }
 }
