@@ -1,11 +1,11 @@
 {
-  "version": "v2.0.2",
-  "notes": "SSP UI Overhaul: Help Modal, Permission Status panel, Document Controls toolbar, and Snapshot viewing with change tracking. SSP Approval Workflow with Separation of Duties (NIST AC-5) and lock enforcement. Security Monitoring soft delete support for all NIST tables. Physical Inventory modal fixes and scroll improvements. Inventory Dashboard project filter bug fixes. CNC Queue card view improvements.",
-  "pub_date": "2026-01-09T20:30:00Z",
+  "version": "v2.0.3",
+  "notes": "Excel/Word File Viewer with XLSX and mammoth libraries. SSP Document Controls v5 with header/body split. Live Connection Indicator (Live/Reconnecting/Offline). 423 Locked Error Handling with user-friendly banners. SSP Actions dropdown overflow fix. Lock/unlock operations removed from change log.",
+  "pub_date": "2026-01-13T23:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azA2b1h3eWo1eUM0akxQYmxKZ0RLZENjYkRWeXpRdW9OK0RGTmlYSmg0ZEFBTXAvMk8vOENSQjJPekxsL2dzalZka1JJVGlHajZ1TnZOek9ReGhTZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3OTkwNDgzCWZpbGU6QU9TXzNfMi4wLjJfeDY0X2VuLVVTLm1zaS56aXAKeHp6R0VJNjBGUVVKR280Vm1CUTVtb0NGZllJcGR4UWswQXNaUXdxNUp2eWJXVGpZaGdVVFU1R3kxTG0wMkxuSVVySVNYU1NxWTE5THlscktOYmhPQXc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.0.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNQTGZEeURML1JyekxrcEQ5YllpeFhIZTljeHhUNGt3Mm9FeVJkRzRIS0J0MHM4bGhoYUdqK0xNUzNJWnI4MmFha0JlK0tHWVV2a0l1NzF0SVpEdUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzQ4OTMwCWZpbGU6QU9TXzNfMi4wLjNfeDY0X2VuLVVTLm1zaS56aXAKZzZ0QUpPRm50MVlCVzhhMXBzRUpybFhQOUJOeFViN3lYdTlWNnlBRTdwTzIzWmFVeGZzNTJmYjNWeWx3UmNvbis4cHEvUUhqNFl0TVhHdVBvOEpMQnc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.0.3_x64_en-US.msi.zip"
     }
   }
 }
