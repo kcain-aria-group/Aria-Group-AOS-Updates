@@ -1,6 +1,6 @@
 {
   "version": "v2.0.5",
-  "notes": "Add Joyce Hauser as PO approver for orders $25k and under. Fix TravelerManagement/TravelerFocus null reference crashes. Fix router/traveler owner N/A display by using Paycom employee tables. Physical inventory and PO receiving UI improvements.",
+  "notes": "Fix TravelerManagement/TravelerFocus null reference crashes. Fix router/traveler owner N/A display by using Paycom employee tables. Physical inventory and PO receiving UI improvements.",
   "pub_date": "2026-01-16T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
