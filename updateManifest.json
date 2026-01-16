@@ -1,11 +1,11 @@
 {
-  "version": "v2.0.5",
-  "notes": "Fix TravelerManagement/TravelerFocus null reference crashes. Fix router/traveler owner N/A display by using Paycom employee tables. Physical inventory and PO receiving UI improvements.",
-  "pub_date": "2026-01-16T18:00:00Z",
+  "version": "v2.0.6",
+  "notes": "PO-Inventory Allocation Report performance fix (database index optimizations), export success notification. Includes v2.0.5 fixes: TravelerManagement null reference crashes, router/traveler owner display, Physical inventory and PO receiving UI improvements.",
+  "pub_date": "2026-01-16T21:05:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdmZUZvYXdjanVONW9Nd1lpTEdYUHozcGZaNy8wSWJLdEVWZjZRUW5GcGUwQ3NRWG9BOEZJYTdweG9lN0d3aTI3bnlrRXBZQ3Exb1N1U1d0UUgxdmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTkzMzI2CWZpbGU6QU9TXzNfMi4wLjVfeDY0X2VuLVVTLm1zaS56aXAKZVNXTXRNcUhFOWJvdVQvYUNZQVFPVDFhQkJlcjdiblVpUmxaTUZQWExLRVptcmp0VWRORmUveCtHWkMvR3FPb2JBSzk5TWFrMGZ4Wnc1T2dheEJPRGc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.0.5_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hlbmlKOWFUNVZkWi9nVTIrYjM0MU5JQXVoZ05DYUV2a2RHb0FQempxTk1jTkV1T3VzM01RTzRTZnQ5bmRvZjRlYnlxYWlhbHRMTE5YbmJoWlVTcXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjA0NDk4CWZpbGU6QU9TXzNfMi4wLjZfeDY0LXNldHVwLm5zaXMuemlwClZlY29RVDZMMVJXMTdFc3hzQnNTalBuSlYybUlEa0hBOUtiTElIV2xLYTlqTTZDOEh4a2R1VnE4OEk3TVdwWXZ6L0d1UkRaQlNPNW1nQjIyZEdCWENBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.0.6_x64-setup.nsis.zip"
     }
   }
 }
