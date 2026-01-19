@@ -1,11 +1,11 @@
 {
-  "version": "v2.0.6",
-  "notes": "PO-Inventory Allocation Report performance fix (database index optimizations), export success notification. Includes v2.0.5 fixes: TravelerManagement null reference crashes, router/traveler owner display, Physical inventory and PO receiving UI improvements.",
-  "pub_date": "2026-01-16T21:05:00Z",
+  "version": "v2.0.7",
+  "notes": "Fix MySQL collation mismatch in traveler/router queries. Fix PO cancel confirmation modal z-index (backdrop-filter stacking context). Portal-based confirmation modals for Cancel PO and Return Item.",
+  "pub_date": "2026-01-19T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hlbmlKOWFUNVZkWi9nVTIrYjM0MU5JQXVoZ05DYUV2a2RHb0FQempxTk1jTkV1T3VzM01RTzRTZnQ5bmRvZjRlYnlxYWlhbHRMTE5YbmJoWlVTcXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjA0NDk4CWZpbGU6QU9TXzNfMi4wLjZfeDY0LXNldHVwLm5zaXMuemlwClZlY29RVDZMMVJXMTdFc3hzQnNTalBuSlYybUlEa0hBOUtiTElIV2xLYTlqTTZDOEh4a2R1VnE4OEk3TVdwWXZ6L0d1UkRaQlNPNW1nQjIyZEdCWENBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.0.6_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azdmZ3g2WEk2VVFwL2JsS1NTd0pwK1J1WnNvemFwbE5jczg2di82UDAyRWhOZFdxRDIzbnRFcmdxbnpFRno1K1F1dEMxbWFJOEgwV3QrN1NNWitSNWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODQ5Mzg5CWZpbGU6QU9TXzNfMi4wLjdfeDY0X2VuLVVTLm1zaS56aXAKWW14SDNiZXZiQzFwZHZwWUx4R0NGNmJMZGg3azRCQVkrYkovZk1TMUdRbG9xRnphbUl5UmV3Yis4djhFdy9sZ2FGTVBRUDBKa2pLNmZzOVJjd29iRHc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.0.7_x64_en-US.msi.zip"
     }
   }
 }
