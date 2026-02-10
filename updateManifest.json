@@ -1,11 +1,11 @@
 {
-  "version": "v2.1.0",
-  "notes": "Supply Catalog System: Full material abstraction layer connecting Engineering to Purchasing. Router material assignments with step-level quantity tracking. Automatic shortage detection across active travelers. REQ generation from shortages with vendor selection, conversion factors, and double-order prevention. PO receiving auto-allocation to pre-allocated travelers. Scan-based material consumption with undo support. Reallocation audit trail. Publish/Update preview modal for router broadcasts. Inventory tab overhaul with target display and table normalization. Purchasing document attachments for REQ and PO line items. Chat System: Global chat panel in navigation bar with real-time messaging, channel management, unread notifications, and message reactions. Project Teams Tabs: Project-specific Teams integration with channel templates, project-to-team mapping, and Open in Teams buttons. Performance indexes for REQ, PO, and inventory queries. PO re-approval workflow when new items exceed approved total.",
-  "pub_date": "2026-02-09T18:00:00Z",
+  "version": "v2.1.1",
+  "notes": "Purchasing Performance: Split dual-fetch into independent REQ/PO data loading (halves API calls on filter changes). Fixed loading indicator race condition with separate loading states. Tab-aware refresh button. Restructured PO tracking percentage query to eliminate full table scan (OR to UNION with index support). Added 400ms search debounce to prevent API call per keystroke. Backend query fixes: ID bypass for active status filter on PO/REQ search, derived table optimization for physical inventory allocation lookup, fixed ORDER BY column in transaction history.",
+  "pub_date": "2026-02-09T23:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azhOaXRuOVJmMTlUcFBjMGd0Um5JKzAwR2V0WE4wdkQrSittZ3JVbkwxLzY3Q01wVlRYMkx5eTlHY0l5amtxL1JXY0VhZUdVaGdDNmpBbEQwdDd6bFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjY2ODkwCWZpbGU6QU9TXzNfMi4xLjBfeDY0X2VuLVVTLm1zaS56aXAKeFRxQWczWkVYYnh1MTZFTDV5MVFjNjNkS29VOWhuQ21MS2VocXpLTklzZ25VV2FpUVFSeXd1WWI4bUZVY2RKVUxuU2ZEaldzdjNUZ2pZeTdiQ0FNRFE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.1.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytVZUt1QmZ6VEFhUytaQlNGZDQ2Z0F6RVlLd0V4a1Z3c2dscWQyZ056UFJtN3pybFF6cGg4N25SSzh1TDJ4QkxNWDJVZGdNZHFxR3o0V25BQ1lwdmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjg3NTg1CWZpbGU6QU9TXzNfMi4xLjFfeDY0X2VuLVVTLm1zaS56aXAKeldVa0haWW9MV3VwU2VpL05yMEhpa1I3cGJMMExhK2twMHRqNFZDUzhsMXBTNVdQd0FqZjFGdENCZmlid0JVdGpRcEo4YnRnT0pGZlBIUkpIZTZ4Q2c9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.1.1_x64_en-US.msi.zip"
     }
   }
 }
