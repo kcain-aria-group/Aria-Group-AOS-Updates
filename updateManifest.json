@@ -1,11 +1,11 @@
 {
-  "version": "v2.1.1",
-  "notes": "Purchasing Performance: Split dual-fetch into independent REQ/PO data loading (halves API calls on filter changes). Fixed loading indicator race condition with separate loading states. Tab-aware refresh button. Restructured PO tracking percentage query to eliminate full table scan (OR to UNION with index support). Added 400ms search debounce to prevent API call per keystroke. Backend query fixes: ID bypass for active status filter on PO/REQ search, derived table optimization for physical inventory allocation lookup, fixed ORDER BY column in transaction history.",
-  "pub_date": "2026-02-09T23:00:00Z",
+  "version": "v2.2.0",
+  "notes": "Router Version Control: full versioning system with temporal snapshots, soft deletes, change tracking, approval workflow, and dependency links. Build-Level Consumption: scan-based consumption against BOM with allocation cross-referencing. Assembly Readiness: multi-vendor REQ modal, smart consume, physical inventory linking, NR filter, inline update fix. Traveler Publish: rev display on AllTravelers/TravelerManagement/TravelerFocus, eBOM router popover overhaul. Inventory documents soft delete. Interview submissions. Database: 7 new migrations (035-041), 5 new tables, 52 new columns across 17 tables.",
+  "pub_date": "2026-02-18T16:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytVZUt1QmZ6VEFhUytaQlNGZDQ2Z0F6RVlLd0V4a1Z3c2dscWQyZ056UFJtN3pybFF6cGg4N25SSzh1TDJ4QkxNWDJVZGdNZHFxR3o0V25BQ1lwdmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjg3NTg1CWZpbGU6QU9TXzNfMi4xLjFfeDY0X2VuLVVTLm1zaS56aXAKeldVa0haWW9MV3VwU2VpL05yMEhpa1I3cGJMMExhK2twMHRqNFZDUzhsMXBTNVdQd0FqZjFGdENCZmlid0JVdGpRcEo4YnRnT0pGZlBIUkpIZTZ4Q2c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.1.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3lVSDMxcnp1aW1rNFVLWDFjWlBhc1o0Z3hNWmFKR29kQlF1S3dQNW1lbXJ1ckIxVTRBdFJmMlFBdFBZYk5sSnhUTTNsV0pETFVkSlZqdFVPSzRUSndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDQwNTIzCWZpbGU6QU9TXzNfMi4yLjBfeDY0X2VuLVVTLm1zaS56aXAKQUNhQmhJbStWSWFzN25wVmFBRWtqa3BrSTd0akczamhOcC96R3JBYy9ESjd2cGxnNzVwa002NWJGREpBNUpKd3pyQVBLVThjNDNKeW5LOGIyNXFuQXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.2.0_x64_en-US.msi.zip"
     }
   }
 }
