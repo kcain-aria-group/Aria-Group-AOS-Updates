@@ -1,10 +1,10 @@
 {
   "version": "v2.3.1",
-  "notes": "Patch: Fix production crash from conditional hooks in OPDeptBudgetBar, add missing useLocation in GlobalNavBar, fix Tauri production overlay stripping window URL. Deploy script SCP fix. Updater relaunch support. Database migrations 059-063 (ticket system, vendor conditional status, vendor document multi-type, vendor scope of approval, notification overhaul).",
+  "notes": "Patch: Fix vendor dropdown and vendor module after approval status migration, fix AdHoc date off-by-one, fix production overlay stripping window URL, fix conditional hooks crash in OPDeptBudgetBar, add missing useLocation in GlobalNavBar. Deploy script SCP fix. Updater relaunch support. Database migrations 059-063.",
   "pub_date": "2026-02-27T16:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azN2V2RjaFZGNmdMZmtaUkhxRXB5Wm1oaHRaUEI5WnBqbmxUWnRjNSs0NG9oaFQ1L2NZWTNiUzRtaDdIckRwVUhWOEkvcm5rR2U0dDBwOHR3d1RsNXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjE4NjU0CWZpbGU6QU9TXzNfMi4zLjFfeDY0X2VuLVVTLm1zaS56aXAKS2xJNm5oT3luaE9ZM2JVT2VQSm4vcGVTNElzdFNPcjJhQzc3S09sclVmZFBPL1pOcFpnLytQRmZMaTZxOEUwcEcyeWpGL1BWTENqNFdJVVlzRi9UQlE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dqTnJhbVJ1ZDl3ODc1LzM1dGR4MGFNMG1TMjAxdzYyVW8rZmNtN2RCYzUxSGJRWnFSV3NJZ0VDMlhXS1lXK2lCblkxTFZyQ29nSTlNOWtaV2JwK0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjE5MzI5CWZpbGU6QU9TXzNfMi4zLjFfeDY0X2VuLVVTLm1zaS56aXAKaEt3OFc0SDJRKzdyTi94cGE2L2duOGtuc1dMTVNnVVpCT3loVnh2U05qNUE4NlZ6K01Od09jQXJkd2FiSnpibmdXYUN6OVRScjRkazNtRGV4S216QkE9PQo=",
       "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.3.1_x64_en-US.msi.zip"
     }
   }
