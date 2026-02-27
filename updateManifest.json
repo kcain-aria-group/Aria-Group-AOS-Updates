@@ -1,11 +1,11 @@
 {
-  "version": "v2.3.0",
-  "notes": "Operations Planner Phase 4: Multi-link entity system with clickable jump-to navigation for all linked entities. Resolved entity labels (part numbers, codenames) replace generic IDs. Deep link navigation to BOM, Router Focus, Traveler Focus, CNC Queue, and NCR Detail. Dependency badge vertical alignment. Calendar/Gantt views work independently without boards. Board member panel. Gantt/Calendar/Kanban view enhancements. Database: 2 new migrations (057-058).",
-  "pub_date": "2026-02-24T16:00:00Z",
+  "version": "v2.3.1",
+  "notes": "Patch: Fix production crash from conditional hooks in OPDeptBudgetBar, add missing useLocation in GlobalNavBar, fix Tauri production overlay stripping window URL. Deploy script SCP fix. Updater relaunch support. Database migrations 059-063 (ticket system, vendor conditional status, vendor document multi-type, vendor scope of approval, notification overhaul).",
+  "pub_date": "2026-02-27T16:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azB6eDlZVkRab1FtT2trVVArNVNlMlYvTjNYc3hqcDAwUTVrVE9JWnNlUEZIbU8vY2hCc1ZhRFJtWWs1eElYamlXNjlkVGlHRHpIUEpZOExWb21COWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxOTc3NTUzCWZpbGU6QU9TXzNfMi4zLjBfeDY0X2VuLVVTLm1zaS56aXAKTXd2NnMyK2tiMytRSG9ibzc3VjFNT1p1NHBkM1FiRk54eXBuem9LQS9uU0RaREI5dTVPTTVUNDN6QWlSVy95Zzl1cnFXb2lyek8vandMamZsNDcwRFE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.3.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azN2V2RjaFZGNmdMZmtaUkhxRXB5Wm1oaHRaUEI5WnBqbmxUWnRjNSs0NG9oaFQ1L2NZWTNiUzRtaDdIckRwVUhWOEkvcm5rR2U0dDBwOHR3d1RsNXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjE4NjU0CWZpbGU6QU9TXzNfMi4zLjFfeDY0X2VuLVVTLm1zaS56aXAKS2xJNm5oT3luaE9ZM2JVT2VQSm4vcGVTNElzdFNPcjJhQzc3S09sclVmZFBPL1pOcFpnLytQRmZMaTZxOEUwcEcyeWpGL1BWTENqNFdJVVlzRi9UQlE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.3.1_x64_en-US.msi.zip"
     }
   }
 }
