@@ -1,11 +1,11 @@
 {
-  "version": "v2.3.1",
-  "notes": "Patch: Fix vendor dropdown and vendor module after approval status migration, fix AdHoc date off-by-one, fix production overlay stripping window URL, fix conditional hooks crash in OPDeptBudgetBar, add missing useLocation in GlobalNavBar. Deploy script SCP fix. Updater relaunch support. Database migrations 059-063.",
-  "pub_date": "2026-02-27T16:00:00Z",
+  "version": "v2.3.2",
+  "notes": "Patch: Overhaul global toolbar to single-row layout with dropdown filters (Range, Dept multi-select, Sort). Add 6 sort modes for global table view. Add project ID badges in group headers.",
+  "pub_date": "2026-03-03T21:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dqTnJhbVJ1ZDl3ODc1LzM1dGR4MGFNMG1TMjAxdzYyVW8rZmNtN2RCYzUxSGJRWnFSV3NJZ0VDMlhXS1lXK2lCblkxTFZyQ29nSTlNOWtaV2JwK0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjE5MzI5CWZpbGU6QU9TXzNfMi4zLjFfeDY0X2VuLVVTLm1zaS56aXAKaEt3OFc0SDJRKzdyTi94cGE2L2duOGtuc1dMTVNnVVpCT3loVnh2U05qNUE4NlZ6K01Od09jQXJkd2FiSnpibmdXYUN6OVRScjRkazNtRGV4S216QkE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.3.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azBDSmwvWi9ibEVKeE1NVEYxY2l5RE5rRytRVHNlTGxMa1RSRUVidkpnWlhvT09ZSVJYbzZaZ3c4MTV0Qmd0Qk5Wb1JOdUlRV3owL0RtWGlVU3NnR1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjAwMzg2CWZpbGU6QU9TXzNfMi4zLjJfeDY0X2VuLVVTLm1zaS56aXAKQjNOZTVIRmlrSDJveGRkNC9xMlVwU01seG1kdkpkVjQ1cHdNVTJNQW4weDE0di9WcW1GOUxOU1lIb3QyQTkwK1d5WVc3bEhEekdFN3lEZnhrZnFHQXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.3.2_x64_en-US.msi.zip"
     }
   }
 }
