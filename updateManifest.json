@@ -1,11 +1,11 @@
 {
-  "version": "v2.3.2",
-  "notes": "Patch: Overhaul global toolbar to single-row layout with dropdown filters (Range, Dept multi-select, Sort). Add 6 sort modes for global table view. Add project ID badges in group headers.",
-  "pub_date": "2026-03-03T21:00:00Z",
+  "version": "v2.4.0",
+  "notes": "Board membership & permissions, archived boards UI with pagination, 2-click archive confirmation, read-only archived board viewing, assignee remove buttons, global toolbar search alignment.",
+  "pub_date": "2026-03-06T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azBDSmwvWi9ibEVKeE1NVEYxY2l5RE5rRytRVHNlTGxMa1RSRUVidkpnWlhvT09ZSVJYbzZaZ3c4MTV0Qmd0Qk5Wb1JOdUlRV3owL0RtWGlVU3NnR1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjAwMzg2CWZpbGU6QU9TXzNfMi4zLjJfeDY0X2VuLVVTLm1zaS56aXAKQjNOZTVIRmlrSDJveGRkNC9xMlVwU01seG1kdkpkVjQ1cHdNVTJNQW4weDE0di9WcW1GOUxOU1lIb3QyQTkwK1d5WVc3bEhEekdFN3lEZnhrZnFHQXc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.3.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3oydVpXUXlrNVQ1WWFGaS9jb0xiM2lyYU00NEF1cEIzZzV3NzNZSDJadjJaN3JNMEN4dDZYanlTdjNwNmJzRjFjRnZ6d1QvSlN2NWZENzg0L3poQncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODQwNTMyCWZpbGU6QU9TXzNfMi40LjBfeDY0X2VuLVVTLm1zaS56aXAKdUkvemNYWmNxNHNmcDhNdEJSQWxuNDQ2ZUE1bzJ2eFVsNzhVQXFyeWJVQUp0d1hEdGZrby9ianlIRFI1Y01xSC96SG9xNzQ0eVhMaHZXMDg3UVQxQmc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.0_x64_en-US.msi.zip"
     }
   }
 }
