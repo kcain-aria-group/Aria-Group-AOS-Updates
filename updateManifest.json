@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.0",
-  "notes": "Board membership & permissions, archived boards UI with pagination, 2-click archive confirmation, read-only archived board viewing, assignee remove buttons, global toolbar search alignment.",
-  "pub_date": "2026-03-06T20:00:00Z",
+  "version": "v2.4.1",
+  "notes": "Planner date picker restored, global view filter fix for project boards, tag picker z-index fix, Bulk Hidden Manager for mBOM trees with cascade toggle and 2-click commit.",
+  "pub_date": "2026-03-09T21:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3oydVpXUXlrNVQ1WWFGaS9jb0xiM2lyYU00NEF1cEIzZzV3NzNZSDJadjJaN3JNMEN4dDZYanlTdjNwNmJzRjFjRnZ6d1QvSlN2NWZENzg0L3poQncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODQwNTMyCWZpbGU6QU9TXzNfMi40LjBfeDY0X2VuLVVTLm1zaS56aXAKdUkvemNYWmNxNHNmcDhNdEJSQWxuNDQ2ZUE1bzJ2eFVsNzhVQXFyeWJVQUp0d1hEdGZrby9ianlIRFI1Y01xSC96SG9xNzQ0eVhMaHZXMDg3UVQxQmc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azFyajY2b250dDVBa1FBYzVyOTFzOWZvNXhhbitPUzd2S0RITkt2MU9aeWlkRGgwRlJvdlgyNkthRkp6YUtoSW4wdHk2ZkcrMHA2dTB2dWJOUGw2eFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDg3MjYxCWZpbGU6QU9TXzNfMi40LjFfeDY0X2VuLVVTLm1zaS56aXAKMUVhV2Vhc0J6Q1Y1TS9ZNnlYYlpaZUlSd0xmamRaeVU2dXBQRjNudFpoYU9odHp0Yng1cWNTNCs2Y0hpQzhsaDBOOUFrM2tIaWxHU2o3YWd3UlhaQ3c9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.1_x64_en-US.msi.zip"
     }
   }
 }
