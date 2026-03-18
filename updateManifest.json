@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.1",
-  "notes": "Planner date picker restored, global view filter fix for project boards, tag picker z-index fix, Bulk Hidden Manager for mBOM trees with cascade toggle and 2-click commit.",
-  "pub_date": "2026-03-09T21:15:00Z",
+  "version": "v2.4.2",
+  "notes": "Optimized QR label printing (correct DPI/dimensions), ZD421 thermal transfer printer support, printer auto-detection and toggle, kanban swimlane fixes, calendar date-range bars, planner user guide updates.",
+  "pub_date": "2026-03-18T22:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azFyajY2b250dDVBa1FBYzVyOTFzOWZvNXhhbitPUzd2S0RITkt2MU9aeWlkRGgwRlJvdlgyNkthRkp6YUtoSW4wdHk2ZkcrMHA2dTB2dWJOUGw2eFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDg3MjYxCWZpbGU6QU9TXzNfMi40LjFfeDY0X2VuLVVTLm1zaS56aXAKMUVhV2Vhc0J6Q1Y1TS9ZNnlYYlpaZUlSd0xmamRaeVU2dXBQRjNudFpoYU9odHp0Yng1cWNTNCs2Y0hpQzhsaDBOOUFrM2tIaWxHU2o3YWd3UlhaQ3c9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRQ0RDOHBmMUw5ay9qc090MGRrcDNBUWxrcWVsT3BFUkk2bGJmUURGbnRnN2RNZUppN2h4dXM5N3pjaHFvY1hCY0l3UlAwK0x3b25QVFA2MXNWdVRSbG5tT1E4VGdyRndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODc3NDMxCWZpbGU6QU9TXzNfMi40LjJfeDY0X2VuLVVTLm1zaS56aXAKZUtWeDRkOTl4cXdPd0lBS2N5bkloeDZYYWw0RmFiWGozempiRURSUEQyTUVrWVRqZFRDYUo4S0txcmVIWEdFSmxRR0Q3Z0IvV0IvcDRGdW1LOGdERGc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.2_x64_en-US.msi.zip"
     }
   }
 }
