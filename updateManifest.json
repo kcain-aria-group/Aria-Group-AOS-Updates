@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.2",
-  "notes": "Optimized QR label printing (correct DPI/dimensions), ZD421 thermal transfer printer support, printer auto-detection and toggle, kanban swimlane fixes, calendar date-range bars, planner user guide updates.",
-  "pub_date": "2026-03-18T22:00:00Z",
+  "version": "v2.4.3",
+  "notes": "Bug fixes: POA name saves on creation, SSP narrative save with error feedback, POA milestones save on update, ad-hoc scrap no longer creates duplicates, ad-hoc auto-scroll, ZD421 thermal transfer print mode (^MTT/^MD8/^PR2). Performance: project list loads in 1 request instead of 6 — eliminates 30s delay for remote users.",
+  "pub_date": "2026-03-19T13:10:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9qc090MGRrcDNBUWxrcWVsT3BFUkk2bGJmUURGbnRnN2RNZUppN2h4dXM5N3pjaHFvY1hCY0l3UlAwK0x3b25QVFA2MXNWdVRSbG5tT1E4VGdyRndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODc3NDMxCWZpbGU6QU9TXzNfMi40LjJfeDY0X2VuLVVTLm1zaS56aXAKZUtWeDRkOTl4cXdPd0lBS2N5bkloeDZYYWw0RmFiWGozempiRURSUEQyTUVrWVRqZFRDYUo4S0txcmVIWEdFSmxRR0Q3Z0IvV0IvcDRGdW1LOGdERGc9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3lxUXBlZWkvTHIwcUdtenB2L2lHdjdmRHVrQzRiYUxDQWY5OFBaSDRrK0JUbjZjWVVOZDltbGExTmpWSWsxRlNCTDJkRUprMFh3ZkI2R2h5aWJvMndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTUwOTYxCWZpbGU6QU9TXzNfMi40LjNfeDY0X2VuLVVTLm1zaS56aXAKUUMwN0lWVWt1eXRaczFIRy9FQmFxbnl0UkNRbnFtYjBOU3BxZ0x3cmN2NVBsQUxYOC8zRUJVc3dlSGpWUUsrQXVoejhPMW9vK0ZyZW1RVXArTkZPQnc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.3_x64_en-US.msi.zip"
     }
   }
 }
