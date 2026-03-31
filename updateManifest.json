@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.4",
-  "notes": "Fix: QR label serial number collision (NC-000170) — 413 duplicates fixed across 8 projects, UNIQUE constraint added. Fix: Gantt stale dependency dots on deleted items. Fix: workflow false triggers on same-status changes. New: GET /workflows/all endpoint, workflow activity detail logging. Fix: paycom punch code MTF decoupling. Migrations 071-081 applied.",
-  "pub_date": "2026-03-30T21:30:00Z",
+  "version": "v2.4.5",
+  "notes": "Operations Planner major overhaul: real-time reorder sync, dependency chain drag-and-drop, personal private tasks, trinary filter toggles (show/only/hide), status picker viewport-aware direction, group header buttons always visible. Fix: BOM inventory subquery error on multi-PO REQs. Fix: router version display (NR → 0 → A). Font improvements for project navigation. Print Test removed from nav.",
+  "pub_date": "2026-03-31T23:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVZbmJBZGhLL29HeklPSjhxZG1rc3huSEZQYkRQMG9aSzNmYWVvTXpsbTVZd3hLeW1ldnBCeUMvY1NqalRTZkxWQzRNOFk3UlQzS3grVHg4U1RqSmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTAzNzMxCWZpbGU6QU9TXzNfMi40LjRfeDY0X2VuLVVTLm1zaS56aXAKelducXZDQUJ3NUtkSlRSQ0tVZitVSllORDljNkxSQ05MSGtNSHZscUwra0E0cU5hT3BEYktYalA5QXRjTzlGekZubnRHQ2dsMlVYWHk5cGpxN2dCQ0E9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9qeDNyYjdhYTVFR2twSVhQcUtJRzZvNENEQnpxYmRiSEdDQnhuT2ZNVlpUa3RSa0JtL25pM1ZhUlFpNmRsWEkvN3dCazdZcWl2Zk5oY0VaOEhFYmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDAwMTUyCWZpbGU6QU9TXzNfMi40LjVfeDY0X2VuLVVTLm1zaS56aXAKWXdONTZDTXhVQ3BHNmtYVUcwQi81MlFKckxPVHM2NDFwYng0NTUzSTJKQndHcFk2YWUzblcwejZ2WnM0akVzOGVzZTgzdUJ1MWRrMHB3OUtOU21nQlE9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.5_x64_en-US.msi.zip"
     }
   }
 }
