@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.6",
-  "notes": "Personal boards, archive cascade, file attachments, thumbnails, UX overhaul, validateRequest hotfix.",
-  "pub_date": "2026-04-03T19:10:00Z",
+  "version": "v2.4.7",
+  "notes": "22 ticket fixes — SSP versioning, storage saves, BOM search, planner NCR links, CAPA export, ticket attachments, hardware supply type.",
+  "pub_date": "2026-04-10T17:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3pNcVp0SnlrS0ZVRWFPRTI1Q0UydTh1eFZ1azdYcEpwUW9MWHFDRGRpVU9vUzVtNVQ4all5djBCc09OS29RN0JBSEptNkpneFZQcG9CV1VnUkpKOUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjQ2OTgyCWZpbGU6QU9TXzNfMi40LjZfeDY0X2VuLVVTLm1zaS56aXAKOVRZVDZNUlFIQW9uNzhhR2IxZFNmOHlPQ1pjQUFaSDdGOFN6Umk1WktaS1F1NHNER1N2WU5ac2JuUTFVVmZBMzBuWkVGeHVaeTlzWmVzcWZHUmoxQUE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZaNzJCZ1JGNGJyaEJJVVVnQlhSMGU5VFlPb3RWRE43cGxPREtkZG8xTlovbFdzcHlvaGdZRHRFNGhvcFJqb3dkM2pOcTZkZEJNUWtXRXJaZWJjbVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODQ2NTMxCWZpbGU6QU9TXzNfMi40LjdfeDY0X2VuLVVTLm1zaS56aXAKeDJJbnFYTkFkVUZJSDlUWjVHeDREbnN1ZE40cDZkejQxQkZIT3BXbldDOWFIVS9ucE55Vm5OL3dIcTU0aXAvS2RxUXlxdXlxczhEWDJjdVNlSytRQXc9PQo=",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.7_x64_en-US.msi.zip"
     }
   }
 }
