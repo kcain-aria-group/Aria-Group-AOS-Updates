@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.9",
-  "notes": "PO overhaul (filename, layout, Save-as-Word, Receive modal repair), CAPA Verify Effectiveness state, NCR partial-implementation status, planner jump-to-entity across all 10 link types, planner linked-entity search NCR fix, conference-room + shop-floor MSAL accounts with PIN elevation, BOM Add-All cross-zone, Show Unique toggle, Generate REQ from BOM Shortages, SSP section renumbering, DB pool hardening + 95% error-log noise reduction, SharePoint sync retries, TLS error log captures client context, POA milestone create fix.",
-  "pub_date": "2026-04-27T18:05:00Z",
+  "version": "v2.4.10",
+  "notes": "Careers Management overhaul — new is_careers_manager permission gates the entire tab (root/general admin only); 5-min idle privacy overlay with backdrop blur; full file system (drag-drop upload, delete, clickable file selector); markdown rendering for posting descriptions; Apply Now form preview with field-config awareness; 5-chip status control replaces Publish/Feature toggle; California fair-hiring statement (Fair Chance Act + SB 1162 + ADA/FEHA); EEO voluntary fields removed. Backend: 8 new migrations (117-124), requireCareersAccess middleware, /draft + /fill posting status endpoints, careersFiles router mount fix.",
+  "pub_date": "2026-04-28T21:32:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dmM041V21xRHZlOGQxNVNVNTJXbFFxV1Z3end6YXZsbUlCUytDaGpQOGZNMjFlVnZvcDFYK1VQbU5ERGZQZnlQMHBhbU1CUHVJbERZYmFIMGFpZmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzEzMDA1CWZpbGU6QU9TXzNfMi40LjlfeDY0X2VuLVVTLm1zaS56aXAKZ1JNRzc1Z3dGYWhybmhMb3RSdERHaklFekVFL2Qxc0F1VHIzOHdML0F6QjdvQ3orYUx0SElja1VKTk13dldXakdRZXBxdWVaTmVLQm5lTXJHRmx3RFE9PQo=",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.9_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dwdU5vL0VlVzhWdEUyTFVudjdHRUpsZUtuUDA0WWhSZktkRmVtbVFoWGJZR2Y0ZmVXaFRLOVlvTFo0dlUxK01JUjBnN1RWbVBGck1RQ1JldE8vN2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDExOTY2CWZpbGU6QU9TXzNfMi40LjEwX3g2NF9lbi1VUy5tc2kuemlwCmZFVHZZNGZrczN5OU85dUNuREZUbkZjWThOVXd6cXFibnhVckl4czhoRGkwZnBoZ1h5Y3hUWnBrSS9jV0xqdnB1WEVIMHMyMGx0dVF2S29kZkJDdkJ3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.10_x64_en-US.msi.zip"
     }
   }
 }
