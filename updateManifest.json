@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.10",
-  "notes": "Careers Management overhaul — new is_careers_manager permission gates the entire tab (root/general admin only); 5-min idle privacy overlay with backdrop blur; full file system (drag-drop upload, delete, clickable file selector); markdown rendering for posting descriptions; Apply Now form preview with field-config awareness; 5-chip status control replaces Publish/Feature toggle; California fair-hiring statement (Fair Chance Act + SB 1162 + ADA/FEHA); EEO voluntary fields removed. Backend: 8 new migrations (117-124), requireCareersAccess middleware, /draft + /fill posting status endpoints, careersFiles router mount fix.",
-  "pub_date": "2026-04-28T21:32:00Z",
+  "version": "v2.4.11",
+  "notes": "v2.4.11 — RP Queue rebuild (3D printing): kanban + scheduler + per-instance lifecycle, drag-merge regrouping, material/cost reconciliation. Operations Planner: scoped view for shop floor, board-access templates, mark-complete milestones cascading through Gantt / calendar / dashboard / OI. Quality: NCR Risk lifecycle (Identify -> Assess -> Monitor -> Mitigated/Escalated, AS9100 compliant), CAPA decoupled from NCR closure. Security: multi-control policy mappings + POA inline milestone dropdowns. New: Projects KPI dashboard at index, Workspace nav tab, AS9100 IMS SharePoint integration, Careers multi-site posting. File uploads now reliable across drive volumes. Department hour rollups self-healing with 6-hour SMS-alert canary. Plus 42 schema migrations.",
+  "pub_date": "2026-05-07T23:20:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dwdU5vL0VlVzhWdEUyTFVudjdHRUpsZUtuUDA0WWhSZktkRmVtbVFoWGJZR2Y0ZmVXaFRLOVlvTFo0dlUxK01JUjBnN1RWbVBGck1RQ1JldE8vN2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDExOTY2CWZpbGU6QU9TXzNfMi40LjEwX3g2NF9lbi1VUy5tc2kuemlwCmZFVHZZNGZrczN5OU85dUNuREZUbkZjWThOVXd6cXFibnhVckl4czhoRGkwZnBoZ1h5Y3hUWnBrSS9jV0xqdnB1WEVIMHMyMGx0dVF2S29kZkJDdkJ3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.10_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azI3NWxaYnBldEEzbE9ZVHhwWExFZ0QvQUlsK1FVWEF1a3VMTi8zSVNqREd1UmpEdE1MNkwxL3J3aS8zOTg3dm1ZY0Z0RTJrSDBxTUJoMlZ2bkhtZFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTk1MTcxCWZpbGU6QU9TXzNfMi40LjExX3g2NF9lbi1VUy5tc2kuemlwCmJSOWFpQmtFcjk1ODZpdkhsWGdRaDRPc2VOaU1tVFdTaTJNSXZaOEFCa2Q5d3pXTy8zSWFPR3pBWU9sSE1VM1htcmk0MEt5alF4L2xKbnl5TW9JOENBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.11_x64_en-US.msi.zip"
     }
   }
 }
