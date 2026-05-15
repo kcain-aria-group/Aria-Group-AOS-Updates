@@ -1,10 +1,10 @@
 {
   "version": "v2.4.12",
   "notes": "v2.4.12 — Shop terminals: badge sign-in for any active employee with Acting-as attribution, 3-min idle timeout, opt-in 1-hr extension. QR Scanner: unified identity, server-side search/filters. Tickets: two-way Teams integration with attachments and comments, admin-only edit/delete, internal-note privacy. Planner: jump-to-source-board links, via-Group/Board chips, in-app attachment previews, completion percentage on create. Security & Monitoring: full inline-edit overhaul — every field saves without page reload. POAs: milestone Save now persists, Title and Assigned-To added. AS9100: IMS list lookups show actual values. RP Queue: rebuilt scheduler (drag/resize/drop directly on timeline, one-bar-per-group, 24h completion grace, duplicate-card prevention at DB layer), inline project/build edit, N-of-M tracking, auto-add resumes Monday May 18. CNC: duplicates impossible at DB layer. Eight schema migrations (172-179).",
-  "pub_date": "2026-05-15T17:35:00Z",
+  "pub_date": "2026-05-15T17:47:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVCWUhUK0NyL250c2l0M3hmOXNRODRoSWpBNWhHQ2F1dy9KbkRlUmhPR1kzQ1JubEdQN1RwREorN2hhS3dIbFhYcFlFaTNyS2VsTy9ad3ZSUlNEcncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODY2NDcxCWZpbGU6QU9TXzNfMi40LjEyX3g2NF9lbi1VUy5tc2kuemlwClFZNXRGYTh1RytCSThIenFLdjA5QkpvR0JFM2NxWWJ1MitGUDVpeVdPSk1kRFpQMzZUakhuaWJUaFh2Y0hnaGp5VUVDamh3TXhxR3hNWlVic25td0FRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azljYisyc2NOK1RPRVI5YmFjZ3dURGVuVkRMbjBneVJtcjlQcTFsZGwyNEVtbUQrYkNXdTFQZG9qV3ZFQTlFV0d0NkpjUDA3RDFjYjg0Mm91Q3k4REE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODY3MjUyCWZpbGU6QU9TXzNfMi40LjEyX3g2NF9lbi1VUy5tc2kuemlwClF5bWd1WncwcDB1cTMyK0VJdysyTEN5VGlleWJpaGpWV2MyTUg1SVMvTDJqQ2RsdUJ0NUMzV1hDaS9XbGxMRWd2TDdyUGtoZENUN2RwQmIyOEJPVUNBPT0K",
       "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.12_x64_en-US.msi.zip"
     }
   }
