@@ -1,10 +1,10 @@
 {
   "version": "v2.4.16",
   "notes": "v2.4.16 — Purchasing live-sync indicators and faster requisition-to-PO conversion. A green 'Live' dot now appears on the Requisitions and Purchase Orders tables and inside the requisition and purchase-order detail windows whenever real-time sync is connected, so you can tell at a glance you're seeing up-to-the-second data. The 'Convert to PO' action has moved into the requisition window's header so it's reachable from any tab, and it now hides automatically once a requisition has already been converted. Includes the underlying real-time rendering and inline-save refinements from this cycle.",
-  "pub_date": "2026-05-29T23:42:27Z",
+  "pub_date": "2026-05-29T23:58:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azg5cXZwL254RGZWK1A0bUVETDZEd1drSDZXRW5QQXhJbnA1L1R1Z3dncmRDQ0xWK3lkNDFySTk3ZXUwN05VQXNFNlB5UHlSRHI1VmVZSXNpelBNMlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDk3NDY1CWZpbGU6QU9TXzNfMi40LjE2X3g2NF9lbi1VUy5tc2kuemlwCkVqdXJ3TmdhL21WMU1PM1RIdmZnSmxLclBLaU9rbnNkOXRvK2VIU0xkSE5tOWVWTkVVSUswWWgwWDRoQjVGRUU3YndUYnhhYm9IMmFiMDFyU2dFcEJBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3lkaStETHFPUGNEM2hSWHhzejdXN2ludzJLNWZUcEtpak8xcWtLYmNYbUQ0ZTF3R1dVS2RabXczUFE3ZDFsUk8zb2YvSDBZR0Vxd3A1bjJTaFV1NUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDk5MDY5CWZpbGU6QU9TXzNfMi40LjE2X3g2NF9lbi1VUy5tc2kuemlwCnZEa3ZETS9GTU1pS282M2hQTG42N0tWQlRzeEVyelZKZFM5eFNldWNpcVhyZzl1YU0wUExrOEIyc0JyZFhYaFdER29yZlcvYjNKZGNuTHNYcm15Q0FnPT0K",
       "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.16_x64_en-US.msi.zip"
     }
   }
