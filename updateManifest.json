@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.15",
-  "notes": "v2.4.15 — Purchasing fixes and refinements: inline editing saves everywhere again (PO line price, quantity, description, and due date; requisition details and line items); Cancel and PO status changes apply correctly; approvals go through for the whole approval list; vendor search no longer blanks the screen; purchase orders show the correct requester and creator; PO and REQ search match creator and requester names; filter POs by multiple vendors; the per-line Due column is back; softer status-chip colors and a Purchase Orders table that fits without sideways scrolling; and copying from a prior REQ works. Operations Planner — Sections: a new level above groups (board, section, group, item) with its own name, color, and collapse state, an Add Section toolbar button, and no more hover page-jump. Subitems and watching: one-click Change parent for subitems, a CC-self toggle in the item detail panel, and CC badges on every board, the Gantt sidebar, and Kanban. Gantt: subitems sit in a soft parent-colored container, Left and Right arrow keys plus a horizontal scroll wheel navigate months, the rightmost day columns are no longer clipped, and collapsing the planner sidebar gives the Gantt more room. Collapsed sidebar: every board is reachable (the icon column scrolls) and boards are grouped by type. Global navbar: constant height on ultrawide and 4K monitors, fixing the toolbar overlap.",
-  "pub_date": "2026-05-28T23:44:24Z",
+  "version": "v2.4.16",
+  "notes": "v2.4.16 — Purchasing live-sync indicators and faster requisition-to-PO conversion. A green 'Live' dot now appears on the Requisitions and Purchase Orders tables and inside the requisition and purchase-order detail windows whenever real-time sync is connected, so you can tell at a glance you're seeing up-to-the-second data. The 'Convert to PO' action has moved into the requisition window's header so it's reachable from any tab, and it now hides automatically once a requisition has already been converted. Includes the underlying real-time rendering and inline-save refinements from this cycle.",
+  "pub_date": "2026-05-29T23:42:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azE2MHhWSE1HaXRNSzJoUXg5RUs1M0xudXdTS2ZVNGlNNmYxQW5NZnhiTTliT1UwZlBGY2dKTmFiZU4yaXVyZE9rUkxlSWpsS2dkNG9haGppTEMxMVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDExNjUzCWZpbGU6QU9TXzNfMi40LjE1X3g2NF9lbi1VUy5tc2kuemlwCm4vNU8xN0wxc0xadUlMeW0ySFdiRzM0cEMwTktyVGRIQkhKRTk5SVRQZXE3WFl1Sy8xVGEvZ0NNODEzYWpjc1EzTUk3MnJNU0l4Zm5POWhQblM4VURnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.15_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azg5cXZwL254RGZWK1A0bUVETDZEd1drSDZXRW5QQXhJbnA1L1R1Z3dncmRDQ0xWK3lkNDFySTk3ZXUwN05VQXNFNlB5UHlSRHI1VmVZSXNpelBNMlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDk3NDY1CWZpbGU6QU9TXzNfMi40LjE2X3g2NF9lbi1VUy5tc2kuemlwCkVqdXJ3TmdhL21WMU1PM1RIdmZnSmxLclBLaU9rbnNkOXRvK2VIU0xkSE5tOWVWTkVVSUswWWgwWDRoQjVGRUU3YndUYnhhYm9IMmFiMDFyU2dFcEJBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.16_x64_en-US.msi.zip"
     }
   }
 }
