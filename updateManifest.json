@@ -1,11 +1,11 @@
 {
-    "version":  "v2.4.20",
-    "notes":  "v2.4.20 - Non-Conformance: CAPA edit and implement windows now open as normal centered, solid windows; the NC edit windows (root cause, disposition, status change, customer notification, and the rest) stay on screen and scroll so Save and Submit are always reachable; cancellation reasons are captured and shown on the report detail view; and the NC analytics dashboard has been re-skinned to match the app's dark theme. Operations Intelligence: open projects whose next build is scheduled for a later date no longer disappear from the project list. Planner: linked copies let you spin off a synced copy of a task into another group on the same board (title, dates, status, assignees, and tags stay in sync, with one-click jump back and the ability to pause or unlink), and the global view can now be grouped by project manager. Time & Attendance: punch history now loads for employees whose payroll code was stored with extra spaces (TKT-00223).",
-    "pub_date":  "2026-06-12T16:43:36Z",
+    "version":  "v2.4.21",
+    "notes":  "v2.4.21 - Travelers: a new Publish All action on the Routers page publishes every traveler for a build at once (all builds or a specific one). Purchasing: the Vendor and Quantity on ad-hoc part lines are now editable. Inventory: physical-inventory lot, date, and certification edits now persist. Non-Conformance: editing a CAPA no longer freezes the app, and the Implement step layout is fixed. Engineering: a one-click Client - Donor vendor button when adding parts to a CATIA assembly. Manufacturing: when an eBOM line is released, already-serialized parts at the old not-released revision are advanced automatically so their CNC queue tiles stop showing as dark (TKT-00238). Planner: the Review status now shows a distinct color from Waiting on Client, and every board now draws its statuses from one shared list.",
+    "pub_date":  "2026-06-17T17:15:59Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azM1amVNTzcvdGZEeURjSllzYis2blUwUDRiTkpIbUZNQkVFTjExMnd6NjhGQTh6TFNqbndtYU83T1FGYkpxaFNSVnlUM21Uenp2ZTBOZE9ZVFIwckFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjgyMjQ4CWZpbGU6QU9TXzNfMi40LjIwX3g2NF9lbi1VUy5tc2kuemlwCkFqR2ZOUWljTVhPazZnYjlEQ0g0U3M3bWxqN2ZSaTRxWENqMnRBWFhaQWdZZ2F6U1Y2UC9jZ05oQkRJQ3Q3U2UrTHFIZVhITmtlRGlicGQ4ZFE0a0N3PT0K",
-                                             "url":  "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.20_x64_en-US.msi.zip"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVhRXZjNVUxVDJORm9FZGxhZXM5WU9pRjl0ZlhJYU9zUmVMN3VpSXVJYkYvaTBBKzF5SWdpa2Z1TEwyZVZCNnRrM0VBWWFZdHN1NHJnMVBuS1I2NkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzE2NTIxCWZpbGU6QU9TXzNfMi40LjIxX3g2NF9lbi1VUy5tc2kuemlwClRCMlAvVWt3MnkyS283UVVzUTJXUWM3TExiaUxLNFFKTjFMZVpUWEM3TzRhcnBKdFVXVndWU2EvVWp6OFhvZzZYT1I3UHc5T1hsa2NyUkxEVTY1NER3PT0K",
+                                             "url":  "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.21_x64_en-US.msi.zip"
                                          }
                   }
 }
