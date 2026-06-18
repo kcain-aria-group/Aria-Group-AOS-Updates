@@ -1,11 +1,11 @@
 {
-    "version":  "v2.4.21",
-    "notes":  "v2.4.21 - Travelers: a new Publish All action on the Routers page publishes every traveler for a build at once (all builds or a specific one). Purchasing: the Vendor and Quantity on ad-hoc part lines are now editable. Inventory: physical-inventory lot, date, and certification edits now persist. Non-Conformance: editing a CAPA no longer freezes the app, and the Implement step layout is fixed. Engineering: a one-click Client - Donor vendor button when adding parts to a CATIA assembly. Manufacturing: when an eBOM line is released, already-serialized parts at the old not-released revision are advanced automatically so their CNC queue tiles stop showing as dark (TKT-00238). Planner: the Review status now shows a distinct color from Waiting on Client, and every board now draws its statuses from one shared list.",
-    "pub_date":  "2026-06-17T17:15:59Z",
+    "version":  "v2.4.22",
+    "notes":  "v2.4.22 - Ad Hoc Parts: ad-hoc parts are now grouped by part with a total quantity and expandable serialized units (each with its QR code); a single edit window covers Part Number, Rev, Description, Quantity, Vendor, CMF, Location, and Notes, and changing the quantity keeps the serialized units in sync automatically; ad-hoc parts (or individual units) can now be deleted, with linked records cleaned up after you confirm; serial numbers stay private. Non-Conformance: when creating an NCR, the description is now split into guided 'Should Be (S/B)' and 'Is' fields so you capture what the condition should be versus what was actually found.",
+    "pub_date":  "2026-06-18T18:35:52Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVhRXZjNVUxVDJORm9FZGxhZXM5WU9pRjl0ZlhJYU9zUmVMN3VpSXVJYkYvaTBBKzF5SWdpa2Z1TEwyZVZCNnRrM0VBWWFZdHN1NHJnMVBuS1I2NkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzE2NTIxCWZpbGU6QU9TXzNfMi40LjIxX3g2NF9lbi1VUy5tc2kuemlwClRCMlAvVWt3MnkyS283UVVzUTJXUWM3TExiaUxLNFFKTjFMZVpUWEM3TzRhcnBKdFVXVndWU2EvVWp6OFhvZzZYT1I3UHc5T1hsa2NyUkxEVTY1NER3PT0K",
-                                             "url":  "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.21_x64_en-US.msi.zip"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azk2K3RoR3pGQXJqQnJTWVlaeGtJZGJ0SlJjbUpBYVVBR2N0em9RSVVGa3Q0K2Nzdlp3TlZOa3MveEFoOFBnQlY4UWE3K085YStmM3BTOE9HM2FKRUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODA3NjU4CWZpbGU6QU9TXzNfMi40LjIyX3g2NF9lbi1VUy5tc2kuemlwCmdvZHpia29hRThrdUdORWc3enNVb3JxZ0JFL2xpblM4K0xuWWtoNWFzalhSRGRKbXovYmU1V0toTWl0RlJwTnJCcDhhckRLamdDQTgzdEsxVGZZMUR3PT0K",
+                                             "url":  "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.4.22_x64_en-US.msi.zip"
                                          }
                   }
 }
