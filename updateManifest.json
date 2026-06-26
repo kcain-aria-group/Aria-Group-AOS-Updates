@@ -1,11 +1,11 @@
 {
-    "version":  "v2.5.1",
-    "notes":  "v2.5.1 - Workforce Planner: a complete overhaul. Set team capacity, compare upcoming project demand against available hours, and level workload across people instead of guessing. Switch between calendar, demand, and color-coded heatmap views; smooth out overloaded stretches with automatic leveling and have downstream dates cascade when you reschedule. Company holidays and individual availability are factored into capacity, attach cost to capacity to see the labor picture, and plans pull from build-schedule dates with a clear banner flagging projects that still need dates. CATIA: a hardened pipeline that is far less likely to wedge or fail silently, automatic reconciliation that catches and corrects drift, and a background supervisor that clears stuck states with fewer manual restarts. Bill of Materials: adding a part number that already exists is now blocked up front, and reordering BOM lines renumbers the sequence cleanly. Identity: improved name lookups so people resolve to the right record across the app.",
-    "pub_date":  "2026-06-24T21:24:12Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azlINUVncTBweG5RR09FWGpqVmFqU0w2UUtGYjRHVmhPait5WVlZTG4xUjR4dzF0NWJIT0lmK1B6Q1JTeE1saHpaV1BCN3d3Y1ZlUjVkM3hpc0daV3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzM0NTg3CWZpbGU6QU9TXzNfMi41LjFfeDY0X2VuLVVTLm1zaS56aXAKTkdhOWV0ZzdNTm9kSnAzMjAySVFJdERVblZkQTV5M1ZOc0VSQysxbkkxWXlxbytIajhLUlNFQkI5L01oQWI5RkxFb29OOEQ2b2s3OElFNXJ1RStyQUE9PQo=",
-                                             "url":  "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.1_x64_en-US.msi.zip"
-                                         }
-                  }
+    "version": "v2.5.2",
+    "notes": "v2.5.2 - Fixes the BOM on-screen save issue from the last update: editing a part's location, kitting status, revision, hidden state, or details now sticks instead of flickering back (your data was always saved on the server; this makes the screen match). mBOM detail edits save reliably and the eBOM opens expanded. Travelers: long traveler pages scroll all the way down again so the completion, scrap, supply, equipment, and employee-log sections are reachable, and a scrapped part's Scrap Log ID is now readable and clickable to the Scrap page. Builds: a new 'Show finished' toggle in the build selector. Workforce Planner: per-department weekend and daily overtime controls, plus week/2-week/month/quarter/6-month/year timeframes at day/week/month/quarter scale and clickable demand bars.",
+    "pub_date": "2026-06-26T23:03:40Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9IYTFQUXkxS01UUTFORExIODFaS01vYW9RRVkydnB0VjFuUjRUL1hjdkFFdjBNVDh2cFB0aUhkZFAxaWRYcDF0bnN0Rlo5aEdsVW9TVXdTQklRK3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTE0OTY3CWZpbGU6QU9TXzNfMi41LjJfeDY0X2VuLVVTLm1zaS56aXAKUDFobFVuOHo0QTlMM0dSSStqa0twNGF1VnFaQWVuclMxekRyRURoZk5KaVJpUW5iNXhOWk1lWkp6aE9SYlUwR1M1Nmk4TjJVem9jRmdhbVNTOHo3RHc9PQo=",
+            "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.2_x64_en-US.msi.zip"
+        }
+    }
 }
