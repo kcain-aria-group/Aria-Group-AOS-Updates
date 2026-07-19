@@ -1,11 +1,11 @@
 {
-    "version": "v2.5.8",
-    "notes": "v2.5.8 - Streaming stability: a focused update to the CATIA remote-viewing pilot. Everything outside remote viewing is unchanged from v2.5.7. The video now takes a relay path to the shared CATIA workstation, clearing up the mid-session freezes and dropped connections that could leave you stuck on a frozen frame. If the connection does drop, the session re-establishes automatically and brings the view back rather than leaving you to reconnect by hand. Mouse and keyboard sent to the remote CATIA window now travel on a reliable channel, so clicks and keystrokes are far less likely to be dropped or land late. This remains a limited pilot for a small group of authorised engineers, running one session at a time on a single shared workstation.",
-    "pub_date": "2026-07-15T06:51:10Z",
+    "version": "v2.5.9",
+    "notes": "v2.5.9 — CATIA remote viewing overhaul: much lower latency and true 60 fps, a cleaner single-window view with Disconnect/Esc as a reliable exit, no more frozen or hijacked screens, reliable multi-key input, and smarter local-vs-remote routing. New built-in Wiki: file/image attachments with version history and restore, backlinks and a visual explorer, shareable page links, and safe (soft) deletes restricted to admins or the author. RP Queue deletes now stay deleted. Plus reliability and purchasing/vendor data cleanups.",
+    "pub_date": "2026-07-19T03:15:06Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytxSThueWVQeG9CdUc5R21wWlBYVDJIZDlsZlh2TEdnSkFzN3hXck9PS3lGVmM2OUF3U1FaeFdkVHpSdHVtUCtkUWUvTzNPTER0N0ZENlR2dUMvK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDk4MjE2CWZpbGU6QU9TXzNfMi41LjhfeDY0X2VuLVVTLm1zaS56aXAKM29yZkFLNHZwZ3JHMWwyeC9WaUxWQmJLUGtrRm82OUFka0xLZ1BKNGNJK2R6QVJ3Y1JobWV2cDRDak1JZzZORVhRSkVwYmJIMStyQlV2T0ZlSjZGQ0E9PQo=",
-            "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.8_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hFNFExT2hOakJ1TWY4cXBoMXE5U2NvNDZ4WTZvT3F5OFQydysxQjlPUGw1QitHczFZWEQyZS9KbEV2RVZ1KytlZ0xEVmlTVy9lSVRjN3JCTjhMbHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDMwNTQ3CWZpbGU6QU9TXzNfMi41LjlfeDY0X2VuLVVTLm1zaS56aXAKK0Vvb3h6RDJBQ0krQm41eStxMVhlb2tmN0IrVXdMbDFncGxMTkQ0OVIxeC9NMEhBZnlqRUpkR0Jtam9mVm50UHROdWZicWdpeFVoTnhsMGowc0NXQlE9PQo=",
+            "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.9_x64_en-US.msi.zip"
         }
     }
 }
