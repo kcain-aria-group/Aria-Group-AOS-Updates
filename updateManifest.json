@@ -1,11 +1,11 @@
 {
-    "version": "v2.5.9",
-    "notes": "v2.5.9 — CATIA remote viewing overhaul: much lower latency and true 60 fps, a cleaner single-window view with Disconnect/Esc as a reliable exit, no more frozen or hijacked screens, reliable multi-key input, and smarter local-vs-remote routing. New built-in Wiki: file/image attachments with version history and restore, backlinks and a visual explorer, shareable page links, and safe (soft) deletes restricted to admins or the author. RP Queue deletes now stay deleted. Plus reliability and purchasing/vendor data cleanups.",
-    "pub_date": "2026-07-19T03:15:06Z",
+    "version": "v2.5.10",
+    "notes": "v2.5.10 — required update. Everyone needs to update to keep using AOS. Fixes unexpected \"not allowed\" blocks for recently-added accounts: editing inventory, uploading documents, opening and closing SCARs, and recording quality dispositions now work for everyone with the right role. Quotes: if the app can't confirm who you are when starting a new quote, it now asks you to sign back in instead of quietly filing it under the wrong name. Behind the scenes we retired an old duplicate employee table so the whole app reads from one source of truth for who's who — historical records keep the real person's name, and pre-system departures show clearly as legacy entries.",
+    "pub_date": "2026-07-20T07:39:51Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3hFNFExT2hOakJ1TWY4cXBoMXE5U2NvNDZ4WTZvT3F5OFQydysxQjlPUGw1QitHczFZWEQyZS9KbEV2RVZ1KytlZ0xEVmlTVy9lSVRjN3JCTjhMbHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDMwNTQ3CWZpbGU6QU9TXzNfMi41LjlfeDY0X2VuLVVTLm1zaS56aXAKK0Vvb3h6RDJBQ0krQm41eStxMVhlb2tmN0IrVXdMbDFncGxMTkQ0OVIxeC9NMEhBZnlqRUpkR0Jtam9mVm50UHROdWZicWdpeFVoTnhsMGowc0NXQlE9PQo=",
-            "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.9_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytkeXBweWw5dVhjcXB0aUtNcldmVWFnU1VESU13MHg5a0lZSVZ6NEZZM3FRK0t4QTVQa3NPR05DQTQvNDZYNTFudmhVcWtxaEp6YkgwbHJjVE9FR1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTMzMTUwCWZpbGU6QU9TXzNfMi41LjEwX3g2NF9lbi1VUy5tc2kuemlwCnJLMXhyUjc2L1R5TnhxV3QrTGxIT2NHblNFZmIyK05IZlk5K040dEc1NHp5eExQQWMvK1R0VUkvQXgwNlE4VHlWcktaR0Q0cWZ4NzVVMitJTlo1VERBPT0K",
+            "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.10_x64_en-US.msi.zip"
         }
     }
 }
