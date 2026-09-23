@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.22",
-  "notes": "v2.5.22 - recommended update. Two fixes from the final walkthrough: if the connection drops while a delete, add or revision change is running, AOS now says so and points to the CATIA chip that finishes the job; and a configuration you put back is named by when it was recorded.",
-  "pub_date": "2026-09-23T13:05:53Z",
+  "version": "v2.5.23",
+  "notes": "v2.5.23 - recommended update. One CATIA button now appears on the mBOM, CNC cards, CNC Completed, RP cards, the RP instance window, the Traveler and the Router. It opens the right file for each instance and offers both ways to open it. Opening on this computer is no longer refused in the office, the CNC card CATIA button is fully visible again, and projects without the new rev system open their current file. The BOM grid Part Number column no longer grows as you type in a search box, and a scrap replacement instance gets its own SharePoint entry.",
+  "pub_date": "2026-09-23T19:52:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dpeWN3WjE4TlVLZmIwSzg5WkNxQ0ozSWh3N0QzeGdObCtmUlRPTHA2NWNzaEJYWjNOcUFvVlRNVlJ6ZE5Jc2FKbE1MeW5paHhJSEdaSk9yMXNhaHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTY4NjkyCWZpbGU6QU9TXzNfMi41LjIyX3g2NF9lbi1VUy5tc2kuemlwClRCQzhmT2VScTJuN09DTmtGdnkyY3BnNDYxM1l4Z2FrUlF3a1VIc3lKTk9nZW5ZRzJHdFg5REFoVEZRemtkNWQwT0lxc01kOXdWd0Fxck1QOHBvT0NRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.22_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azBUendOZXovb1o1bjUrZWx3NjdjZUlWVjZwY25OWEpLWVRRYnc3aFBzdGdWRUVpLzVVUmcycHoyTjhvcWo2R2JiUHkxYktuclRXSk4xQXZyZDBNNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTkzMTM1CWZpbGU6QU9TXzNfMi41LjIzX3g2NF9lbi1VUy5tc2kuemlwCmVlVkkzV3ZYMld2T3FsZGZ1TlROZE9SaEc2OHoybUNvQVVuaE91ZWxKdlZtQTlNWjlXWjlWS2YvQTVsYm9VaFVTeElkNjVBQU91VzB1bTdYUElYQUJRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.23_x64_en-US.msi.zip"
     }
   }
 }
