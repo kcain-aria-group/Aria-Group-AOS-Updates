@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.21",
-  "notes": "v2.5.21 - recommended update. A new revision system for engineering, switched on per project from the eBOM header (every project starts with it off; the orange ? next to the Revision Map explains it). Revision state now updates live between engineers, CATIA tree problems are listed with what to do, and the final walkthrough fixes are in. Also: an Outsourcing board, a Hardware list in Inventory, RP Queue, Quotes, Purchasing, Receiving and Workforce Planner improvements. This release updates the database behind AOS, so please update when prompted.",
-  "pub_date": "2026-09-23T11:59:06Z",
+  "version": "v2.5.22",
+  "notes": "v2.5.22 - recommended update. Two fixes from the final walkthrough: if the connection drops while a delete, add or revision change is running, AOS now says so and points to the CATIA chip that finishes the job; and a configuration you put back is named by when it was recorded.",
+  "pub_date": "2026-09-23T13:05:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJqcUtYa0U2eWJnYnFZVHluNmg4Z0NhZXU1Q2x4ZjBCVzVlYjgwa1ZtM2grRzdKKzZKU2hWUklJdThlK002VEZIaUlLTXBjUUVrRitYV1oralo1VGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTY0NzAxCWZpbGU6QU9TXzNfMi41LjIxX3g2NF9lbi1VUy5tc2kuemlwCmdQU1htVzhONEI0STRQZUVWdmI4cDFhdmprcDVUYUVhQ2RuOHdiWFhEdElzT1ByQ1MvaU53d0ZRZTJxcTRpZnZhbGxiNDJrbHhGTE1zNlB3TGhidENRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.21_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dpeWN3WjE4TlVLZmIwSzg5WkNxQ0ozSWh3N0QzeGdObCtmUlRPTHA2NWNzaEJYWjNOcUFvVlRNVlJ6ZE5Jc2FKbE1MeW5paHhJSEdaSk9yMXNhaHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTY4NjkyCWZpbGU6QU9TXzNfMi41LjIyX3g2NF9lbi1VUy5tc2kuemlwClRCQzhmT2VScTJuN09DTmtGdnkyY3BnNDYxM1l4Z2FrUlF3a1VIc3lKTk9nZW5ZRzJHdFg5REFoVEZRemtkNWQwT0lxc01kOXdWd0Fxck1QOHBvT0NRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.22_x64_en-US.msi.zip"
     }
   }
 }
