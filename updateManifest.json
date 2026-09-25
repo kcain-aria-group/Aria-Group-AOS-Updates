@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.23",
-  "notes": "v2.5.23 - recommended update. One CATIA button now appears on the mBOM, CNC cards, CNC Completed, RP cards, the RP instance window, the Traveler and the Router. It opens the right file for each instance and offers both ways to open it. Opening on this computer is no longer refused in the office, the CNC card CATIA button is fully visible again, and projects without the new rev system open their current file. The BOM grid Part Number column no longer grows as you type in a search box, and a scrap replacement instance gets its own SharePoint entry.",
-  "pub_date": "2026-09-23T19:52:40Z",
+  "version": "v2.5.24",
+  "notes": "v2.5.24 - recommended update. Quotes: one planned-hours figure on both tabs, build a planner from the parts plan, planned vs worked and what finished jobs used, a simple view for old quotes, and budgets split across a quote's builds. Requisitions need a real vendor and pick parts from a new catalog explorer; inventory POs start with certs and AS9100 clauses on. Receiving can take a receipt back and says why a receipt is refused. Outsourcing tracks each order out to the vendor and back. Shop computers can raise NCRs under the person badged in. Signed ECN uploads offer Mark as sent. Kitted parts stay with their assembly, bulk Location edits work on ticked rows, and quote and project files open on PCs without Z:. This release also updates the database.",
+  "pub_date": "2026-09-25T01:03:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azBUendOZXovb1o1bjUrZWx3NjdjZUlWVjZwY25OWEpLWVRRYnc3aFBzdGdWRUVpLzVVUmcycHoyTjhvcWo2R2JiUHkxYktuclRXSk4xQXZyZDBNNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTkzMTM1CWZpbGU6QU9TXzNfMi41LjIzX3g2NF9lbi1VUy5tc2kuemlwCmVlVkkzV3ZYMld2T3FsZGZ1TlROZE9SaEc2OHoybUNvQVVuaE91ZWxKdlZtQTlNWjlXWjlWS2YvQTVsYm9VaFVTeElkNjVBQU91VzB1bTdYUElYQUJRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.23_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNZelhqV1ZYd3A0VDh4T1hweTB6d0Rzd1RQSy8yZkJwcGtyUmxHUmxNaWRzNi9wM0VoOVVYZXM1ZURLT0JySVZMMUhEQ1JzM1RRckNqL2Q3YnBuU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk4MTUxCWZpbGU6QU9TXzNfMi41LjI0X3g2NF9lbi1VUy5tc2kuemlwCjVLVjJYZHVxUE95K2lhL3IrT25VNmhCcFNBTUVHTG9HcHliUk1tOTVkaEllaUNWQlpKVXozc2tSY3ZtVVVxelpzUFZ1Q0xXbytvU3JhMHJzbEJmNUFBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.24_x64_en-US.msi.zip"
     }
   }
 }
