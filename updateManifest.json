@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.24",
-  "notes": "v2.5.24 - recommended update. Quotes: one planned-hours figure on both tabs, build a planner from the parts plan, planned vs worked and what finished jobs used, a simple view for old quotes, and budgets split across a quote's builds. Requisitions need a real vendor and pick parts from a new catalog explorer; inventory POs start with certs and AS9100 clauses on. Receiving can take a receipt back and says why a receipt is refused. Outsourcing tracks each order out to the vendor and back. Shop computers can raise NCRs under the person badged in. Signed ECN uploads offer Mark as sent. Kitted parts stay with their assembly, bulk Location edits work on ticked rows, and quote and project files open on PCs without Z:. This release also updates the database.",
-  "pub_date": "2026-09-25T01:03:03Z",
+  "version": "v2.5.25",
+  "notes": "v2.5.25 - required update. 3D models open in AOS from the mBOM, CNC and RP cards, routers, travelers and the File Manager, prepared the first time someone opens them. Routers: operations can run alongside each other, custom order is the only order, and a router can be rolled back to an earlier rev. Engineering gets a build plan and a queue of real decisions only. Travelers ask for a reason when a step finishes without a sign-off, QC signature or photo. New uploads are stored on the shared drive. Plus fixes across quotes, purchasing, receiving, inventory, consumables, NCR, scrap and the floor. Full notes open in AOS after the update.",
+  "pub_date": "2026-10-05T10:58:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNZelhqV1ZYd3A0VDh4T1hweTB6d0Rzd1RQSy8yZkJwcGtyUmxHUmxNaWRzNi9wM0VoOVVYZXM1ZURLT0JySVZMMUhEQ1JzM1RRckNqL2Q3YnBuU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk4MTUxCWZpbGU6QU9TXzNfMi41LjI0X3g2NF9lbi1VUy5tc2kuemlwCjVLVjJYZHVxUE95K2lhL3IrT25VNmhCcFNBTUVHTG9HcHliUk1tOTVkaEllaUNWQlpKVXozc2tSY3ZtVVVxelpzUFZ1Q0xXbytvU3JhMHJzbEJmNUFBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.24_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azR2SWxlVElUem9HcXJlVXBFam04cEhQZjVsTFJzRkRIaWlkVzcxZCt3VUFMaGh2SlJzSklZSkoxVWo2WTQxMkdPWVFua3ZIMDdSc3FPMjIyam9vZEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTk3ODU1CWZpbGU6QU9TXzNfMi41LjI1X3g2NF9lbi1VUy5tc2kuemlwCjRDNmtVSis4d29mRmllMCs1QkVKV3FpU3ROdHFhMU5CTlFtdmQyNmpmZ3ZxRkl5aFZJeXdPOTBoMmtHVHdOdkR1VnhIWVNKYkZKOElqWm1jSVVTekFBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.25_x64_en-US.msi.zip"
     }
   }
 }
