@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.25",
-  "notes": "v2.5.25 - required update. 3D models open in AOS from the mBOM, CNC and RP cards, routers, travelers and the File Manager, prepared the first time someone opens them. Routers: operations can run alongside each other, custom order is the only order, and a router can be rolled back to an earlier rev. Engineering gets a build plan and a queue of real decisions only. Travelers ask for a reason when a step finishes without a sign-off, QC signature or photo. New uploads are stored on the shared drive. Plus fixes across quotes, purchasing, receiving, inventory, consumables, NCR, scrap and the floor. Full notes open in AOS after the update.",
-  "pub_date": "2026-10-05T10:58:09Z",
+  "version": "v2.5.26",
+  "notes": "v2.5.26. Big 3D assemblies are prepared part by part, show live progress, keep going while they make progress and say why when a model is empty. The 3D viewer adds note conversations with pings, See inside, find-and-colour filters, eBOM rev compare, and smooth selection, section cuts and search on big models. BOM rows have worded Details, Geometry and More buttons, and CNC cards can open CATIA. Routers can make a step wait on another part and the floor honours it, with a heads-up when the part is ready. The Build plan has Template and Live schedule views. Restored traveler, build, rev up and router review controls, a new Engineering dashboard, and NCR and label fixes. Full notes open in AOS after the update.",
+  "pub_date": "2026-10-06T03:24:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azR2SWxlVElUem9HcXJlVXBFam04cEhQZjVsTFJzRkRIaWlkVzcxZCt3VUFMaGh2SlJzSklZSkoxVWo2WTQxMkdPWVFua3ZIMDdSc3FPMjIyam9vZEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTk3ODU1CWZpbGU6QU9TXzNfMi41LjI1X3g2NF9lbi1VUy5tc2kuemlwCjRDNmtVSis4d29mRmllMCs1QkVKV3FpU3ROdHFhMU5CTlFtdmQyNmpmZ3ZxRkl5aFZJeXdPOTBoMmtHVHdOdkR1VnhIWVNKYkZKOElqWm1jSVVTekFBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.25_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azg5V2xSckpRN1lIQnlGVklzQitvUW1VYitTU2lGSE5vcmpTSElWMktxOFpkRmxWUDZUbm84M0ZIUm9TNTU2T2RCc3UvdkpjN0puK3VXYzJJTVJBMkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjU3MDM3CWZpbGU6QU9TXzNfMi41LjI2X3g2NF9lbi1VUy5tc2kuemlwCkFneDdEWktJMmFEMVE2QlZJUStHcXF2NTlTV05LY2Z2N2ZGZ1dpazl5eGtOSTVpTXAvUkR0Q0NmVFFRVDVWeFljbU1qZXd0Rm5FZ0JJUWQ5cXhML0NnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.26_x64_en-US.msi.zip"
     }
   }
 }
