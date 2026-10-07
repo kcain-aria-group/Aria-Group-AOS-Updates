@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.26",
-  "notes": "v2.5.26. Big 3D assemblies are prepared part by part, show live progress, keep going while they make progress and say why when a model is empty. The 3D viewer adds note conversations with pings, See inside, find-and-colour filters, eBOM rev compare, and smooth selection, section cuts and search on big models. BOM rows have worded Details, Geometry and More buttons, and CNC cards can open CATIA. Routers can make a step wait on another part and the floor honours it, with a heads-up when the part is ready. The Build plan has Template and Live schedule views. Restored traveler, build, rev up and router review controls, a new Engineering dashboard, and NCR and label fixes. Full notes open in AOS after the update.",
-  "pub_date": "2026-10-06T03:24:25Z",
+  "version": "v2.5.27",
+  "notes": "v2.5.27. The 3D viewer has one set of tools with a toolbar row for the tool you pick, a 3D lens, Section planes in one place, a smooth Peel, custom filters saved to your account, an all-fact search, a fuller selection card, a model in its own window, GLB export for customers and a resource monitor; laptops with two graphics cards draw on the stronger one. Small 3D models no longer wait behind a giant one, models are prepared on CATIA server 2, the queue recovers by itself, and models can be prepared on release with a cache cleanup in Controls. Engineers can add a part to an assembly from the 3D viewer, with a warning and a banner if a CATIA save undoes it. Every model door has 3D model and CATIA rows. The eBOM Status cell is one chip and + Planner lands on the project board. Lots made by mistake can be removed, retired lots can't be drawn on, consumables can be taken off the list, PO and Planner dates read as calendar days, and the NCR History tab no longer covers the tabs.",
+  "pub_date": "2026-10-07T04:42:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azg5V2xSckpRN1lIQnlGVklzQitvUW1VYitTU2lGSE5vcmpTSElWMktxOFpkRmxWUDZUbm84M0ZIUm9TNTU2T2RCc3UvdkpjN0puK3VXYzJJTVJBMkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjU3MDM3CWZpbGU6QU9TXzNfMi41LjI2X3g2NF9lbi1VUy5tc2kuemlwCkFneDdEWktJMmFEMVE2QlZJUStHcXF2NTlTV05LY2Z2N2ZGZ1dpazl5eGtOSTVpTXAvUkR0Q0NmVFFRVDVWeFljbU1qZXd0Rm5FZ0JJUWQ5cXhML0NnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.26_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azFRYTVLcEMvZzRORUYveEkva3BGTmRscC9WUERTN0Zsd1htSEJIUHI2U2dCcjRkUnJIY1ZKWW1xNFFNYUZ2RVMyZkJzd2tqVzR1WXUwcUJCSUxaN3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQ4MTE3CWZpbGU6QU9TXzNfMi41LjI3X3g2NF9lbi1VUy5tc2kuemlwClB0SEVoUTcybENjd0pvTzNaYjRwN3E0UDZoUyt6c3U4VmZFOTFFTXVLU3RRL1Fwa3pHeWFHMHAvUlJOVmY3d0JsWVZLOGZOK0R4MDZYSzA0NWV4WEF3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.27_x64_en-US.msi.zip"
     }
   }
 }
