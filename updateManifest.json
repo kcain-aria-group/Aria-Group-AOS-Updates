@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.30",
-  "notes": "v2.5.30. Live updates now sign in, and the server turns away any live connection that isn't signed in, so update to keep live updates. Live rooms follow what you may read, and a refused CATIA stream session says why. PO line edits reach other windows in full, and price history, repricing and lot quantities keep four decimals. An adjust that comes to zero changes nothing. SSP reference files open from wherever they are stored, and SSP pages no longer send server file paths.",
-  "pub_date": "2026-10-08T19:41:31Z",
+  "version": "v2.5.29",
+  "notes": "v2.5.29. Big 3D assemblies draw every part, with lighter copies of heavy parts and full detail where you look, and Section works on large assemblies. The mBOM Installed filter follows what the floor signed off, and says Install not recorded instead of guessing. Every NCR file change asks for a reason, every upload is in the NCR History, and closed NCRs stay locked everywhere. Workforce Department Hours gains a Builds & pools view. Lot quantities no longer pick up rounding errors (this fix was listed early in v2.5.28), PO net cost is right, and the PO list and inventory fit smaller screens.",
+  "pub_date": "2026-10-08T07:52:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3pvVjFobTNUR004MnByTHRkQUw1Y2JXMG9CaWorZTJ0czNuZ2tRTDR6UkhIRllsMS9VeVRLbVdNQWRsVS9aeGhKUmdwaWZNSVNVZ2hETlJVdzBGY2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDg4NDY3CWZpbGU6QU9TXzNfMi41LjMwX3g2NF9lbi1VUy5tc2kuemlwClY5ZEg4MTV4VnVlWGlZV3ZyZGp5SEhZNHBiRSs1eWJaVGxzQ0EzYXdQNXVXNDR1WTRuN2lmclJTVkNDSHd0YjNDZE5rRHVQQld0M1ZWTFVxWDJibkR3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.30_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dZeE8zTVk1WlFWaVBNT1l2aFpGeDcrQ3FleUI1U283Z0s5QVZrYi84enZiaHdOWkRRVkZIVWlxcmJPMWNYMklLajY3cUFleUxObkdHMlFSRldIZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ1MDMyCWZpbGU6QU9TXzNfMi41LjI5X3g2NF9lbi1VUy5tc2kuemlwCjFJMXk5VHRyYnVucDJucXBsVlo5Skw2YmN3aTBqNDcvajBiVWx3cGhWTFc3T2tva21JSjEwelFIeU8yV1VJdXpwcTA0K0xDb1ZiQUt5OVB0enlRV0JBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.29_x64_en-US.msi.zip"
     }
   }
 }
