@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.28",
-  "notes": "v2.5.28. The 3D viewer reads a model against the eBOM or one build's mBOM, with a build picker and build filters (installed, ready, on order, short). Tool options open in the right side panel, the toolbar no longer shrinks when a tool is used, and big models show more on a strong PC, fairly across every sub-assembly, with a chip that says why any parts are missing. Export lets you tick exactly what goes in and saves straight to a folder with progress and Cancel. Engineers get a CATIA panel on the eBOM, and opening a model shows its progress. One failed part no longer fails a 3D model's batch. The eBOM row has a CATIA | 3D Model pair, a Configurations panel, a Router button and rev tools in the Rev column, with no hover cards on row tools; assemblies read No rev and MTF masters show again. + Planner opens a sheet to set the title, group, assignee and due date. Notifications reach only their recipient, description @mentions notify, and workflows run only on real changes. NCR documents, photos and evidence can be edited, removed with a reason and restored. Lots that have left inventory can't be edited, lot changes are safer and explain refusals, PO returns ask which lot and accept fractions, and live PO updates go to signed-in users only. Plus fixes to Front Desk, the router dock, Debriefing badges and dates. This update is required.",
-  "pub_date": "2026-10-08T03:57:18Z",
+  "version": "v2.5.29",
+  "notes": "v2.5.29. Big 3D assemblies draw every part, with lighter copies of heavy parts and full detail where you look, and Section works on large assemblies. The mBOM Installed filter follows what the floor signed off, and says Install not recorded instead of guessing. Every NCR file change asks for a reason, every upload is in the NCR History, and closed NCRs stay locked everywhere. Workforce Department Hours gains a Builds & pools view. Lot quantities no longer pick up rounding errors (this fix was listed early in v2.5.28), PO net cost is right, and the PO list and inventory fit smaller screens.",
+  "pub_date": "2026-10-08T07:52:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytPSjdQcU9ERGJyanAva29RWUt4VEpIS3p6cWdlQWZ3SjFxeGJiRHpuV3Z3ellZWXdBRU5FNFBPWFluNUNTTTYyRTkzYXpib0xTeDVFTXJxczZBVGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDMxNzk5CWZpbGU6QU9TXzNfMi41LjI4X3g2NF9lbi1VUy5tc2kuemlwClM3Q1E3OVNWUE1WL1RBdllldHBXRmpqTjVzUGs0NzBBeStnUjQ2MUdYQlNrbEhEd3VOTUQ4L25vcVl3VzRrL21IK1BxY3FOSG5TSC9WR1V0UnVCTEN3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.28_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3dZeE8zTVk1WlFWaVBNT1l2aFpGeDcrQ3FleUI1U283Z0s5QVZrYi84enZiaHdOWkRRVkZIVWlxcmJPMWNYMklLajY3cUFleUxObkdHMlFSRldIZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ1MDMyCWZpbGU6QU9TXzNfMi41LjI5X3g2NF9lbi1VUy5tc2kuemlwCjFJMXk5VHRyYnVucDJucXBsVlo5Skw2YmN3aTBqNDcvajBiVWx3cGhWTFc3T2tva21JSjEwelFIeU8yV1VJdXpwcTA0K0xDb1ZiQUt5OVB0enlRV0JBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.29_x64_en-US.msi.zip"
     }
   }
 }
