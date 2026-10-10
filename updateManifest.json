@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.31",
-  "notes": "v2.5.31. Build plan has a Departments view, on from this release, with Pipeline, Balance, Budget and Forecast, and it links both ways with the planner. eBOM edits are much faster on big builds: CATIA opens only the assembly you edit, a busy CATIA is a place in line instead of a refusal, and every CATIA wait says why. The rev time machine shows the whole build at any point, and the 3D viewer compares today's model with an earlier one. Rolling back is switched off in this update. Live updates sign in. Purchasing, requisitions, inventory, NCR and NIST fixes.",
-  "pub_date": "2026-10-09T21:40:00Z",
+  "version": "v2.5.32",
+  "notes": "v2.5.32. Each build plan view has its own tab under Production or Engineering. Roll back to here is back, and rolling back undoes only what changed after that point. Engineers’ CATIA jobs go first on CATIA server 1, an edit never waits behind a long conversion, and your 3D open goes ahead of background conversions. Big vehicles no longer stall CATIA. Vendor approval goes through Quality with a history. Quality can reopen a closed NCR. Purchasing, NCR, ECN, quote and NIST fixes.",
+  "pub_date": "2026-10-10T00:45:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3c1bDNYQ0p1eEJlMzVDUUJqMFE4K0dsdGE4YXZYZlJZNk5td2NiL3BYYW91Y2ZicVdiRFgrT3QyR2hSenZoVFRyNDZaM1NkV1VJdEVPcmgxVGlEM2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTc4NDcwCWZpbGU6QU9TXzNfMi41LjMxX3g2NF9lbi1VUy5tc2kuemlwClFCMmh2SWluTnZyVitYNGxwdW1aNmszZ0RxS0dRWDdRZThDcFYyQnZsOU9TWFR1T0xIWUJqTzVFRXByRXFYTUU3ZWxxU2xXdGkzT1oyZGZrMndBeUJBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.31_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azJhend0cTBMNjIwS0xiYTA0RjZ6V1QrWFZ0OTF1di9qbkN1SW0zdTdILzB0MmxwRFpVR3NqU01ycXh6QTEvTlJBanE3UFk1aEtha1BWbTBWOUN4Ynd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTkyMzMxCWZpbGU6QU9TXzNfMi41LjMyX3g2NF9lbi1VUy5tc2kuemlwCi9TczlJd3hyQmRubkU0TlE3eStXSXgzZXkrUHAvN2w2SE5tc3N3OVh4TjB5eWxib05KMXRuZ1QwbkpFdkhVc0JmSnpscnROSUQ3cmtTNUFxSmFBNERRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.32_x64_en-US.msi.zip"
     }
   }
 }
