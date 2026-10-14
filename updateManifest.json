@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.34",
-  "notes": "v2.5.34. CNC run time is measured from the machines, and CNC Analytics has a Machine health tab. Labour hours, material spend and inventory each come from one source. A heavy model can be viewed streamed from the streaming PC. Routers say whether a build is ready to schedule, and the Production dashboard shows department load. Models respect CATIA hide/show and more parts convert. Profit reporting is still being validated and is not open yet. Purchasing, scanning, permissions and other fixes.",
-  "pub_date": "2026-10-14T12:56:24Z",
+  "version": "v2.5.35",
+  "notes": "v2.5.35. Profit is live: each project has one Profit page that follows the team workbook, with NOT SET where AOS does not have a figure yet. Project managers enter rates, revenue and budgets on the page, and every number explains itself. Operations Intelligence › Profit lists every open project. Machine hours count CNC cards from the 2024-11-18 switch-over on. Export to Excel gives the workbook cell for cell.",
+  "pub_date": "2026-10-14T15:10:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azltYTF1QlpLdk1mWkRaOEhBVlJ6b1pnTzlUOFlZMC91c0RMRFB6Zk16aXExdk5NWnVmNHBRU1BIdzNtaDBzMXNtRnBCTjlPNnZ4Umc3dDVHK0VGYlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTgyNTQwCWZpbGU6QU9TXzNfMi41LjM0X3g2NF9lbi1VUy5tc2kuemlwCnlZbUhZZ210L1kxaGVsb25oM0ZTMksrNG55QnFXVzhYczcrZ1RBLzBnckRIQno0TDExOXFVbktyL0FBeVRWZkVkMXdFMG5BNkNzaTF5eWtBcFIzdkFnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.34_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3ppMDhiR1Z1cERpeVI2Qkx3QjYzQmEzZTVnUzdUekV3eUc2ZUF6cHpRd0ZrSnRkT0ZqWHkwTzF5SXlUbWxycE9iSkY1cGVKZm5pTzRhY0UwbVk5akFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTkwNjA2CWZpbGU6QU9TXzNfMi41LjM1X3g2NF9lbi1VUy5tc2kuemlwCktMK0VKTFlFM0xuVExLaU5aQlJvQzh1bkJDK2Ywemd2bHdFR3paR0NjMVRvU3dQNW9LbkxMZEhhNTBuOExMRlV1WDJETjlhSlAvdTJoemdROG5xbUR3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.35_x64_en-US.msi.zip"
     }
   }
 }
