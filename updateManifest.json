@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.33",
-  "notes": "v2.5.33. The 3D viewer opens big assemblies in seconds, keeps part shapes on your computer, draws lighter copies so models turn smoothly, and lets you choose how smooth it moves. CATIA actions in the viewer open the same forms as the eBOM, and Put back can bring back a deleted part file. Groundwork for role-based permissions runs quietly in the background. Purchasing, catalog, files, NCR, ECN and security fixes.",
-  "pub_date": "2026-10-13T07:01:06Z",
+  "version": "v2.5.34",
+  "notes": "v2.5.34. CNC run time is measured from the machines, and CNC Analytics has a Machine health tab. Labour hours, material spend and inventory each come from one source. A heavy model can be viewed streamed from the streaming PC. Routers say whether a build is ready to schedule, and the Production dashboard shows department load. Models respect CATIA hide/show and more parts convert. Profit reporting is still being validated and is not open yet. Purchasing, scanning, permissions and other fixes.",
+  "pub_date": "2026-10-14T12:56:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3l2TkRzTzdKbDdXQkpKMkF0SWZlUU5LbFRZUUcyN2ptblA4Ykxvd0ZYcWY5c1pHNnZ5Q0gwMFd1OGtpdTh0dGRJdmE5QzNONUk1dFl1UlBRb1NVWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc0MzYyCWZpbGU6QU9TXzNfMi41LjMzX3g2NF9lbi1VUy5tc2kuemlwCiswMmRqVlN0MUVoOHZMWnZ5OU05TFg0czNOWTg2WnVMbEYxSlk4cEprVkpNamNwUjNUNFhjUFVtN01UNnMzSEFDUmh1NW1lWkg1VVF6aTNreUR6Z0NBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.33_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azltYTF1QlpLdk1mWkRaOEhBVlJ6b1pnTzlUOFlZMC91c0RMRFB6Zk16aXExdk5NWnVmNHBRU1BIdzNtaDBzMXNtRnBCTjlPNnZ4Umc3dDVHK0VGYlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTgyNTQwCWZpbGU6QU9TXzNfMi41LjM0X3g2NF9lbi1VUy5tc2kuemlwCnlZbUhZZ210L1kxaGVsb25oM0ZTMksrNG55QnFXVzhYczcrZ1RBLzBnckRIQno0TDExOXFVbktyL0FBeVRWZkVkMXdFMG5BNkNzaTF5eWtBcFIzdkFnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.34_x64_en-US.msi.zip"
     }
   }
 }
