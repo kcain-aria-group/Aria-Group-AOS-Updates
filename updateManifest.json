@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.36",
-  "notes": "v2.5.36. Quotes is now Sales, Files is now Data, and Quotinator is now Calculators. Quotes get one Estimate grid with the qBOM parts tree, crews per step, payment terms and hand-off notifications on award. One-page calculators for CNC, Composites, Paint, Trim and RP, calibrated on finished projects. Profit adds forecast at completion, Money in and supplier payments. Engineering gets the eBOM Design grid, model pictures, the Data tab, customer STEP/IGES/STL files in 3D and the AOS 2D drawing editor with Blocks. Routers get Start here, the step library, part facts, pictures and drawings on steps and a live traveler. This release also updates the database behind AOS, so please update when prompted.",
-  "pub_date": "2026-10-26T04:21:07Z",
+  "version": "v2.5.37",
+  "notes": "v2.5.37. eBOM: right-click Add to assembly is back, the insert row takes the number you type, a part goes to the part level, numbers are checked before anything is created, and an Add no longer leaves the project locked. Plan view shows each part's description; the Timeline column is gone.",
+  "pub_date": "2026-10-26T18:56:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZGVnJlNnNGQVVheGUrVHhNc0dCSEdGakRQSG9WbDErYnJwY21QdnhyWmNlbEdkNU1HY2dIbUdMcStoNHVSNEpRZ05ZNGNwYXlKU2tXalkvenYxRkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTc5ODA0CWZpbGU6QU9TXzNfMi41LjM2X3g2NF9lbi1VUy5tc2kuemlwCk9aVWFXTDdUVUtxRnRPQit0UU5Uc0svVFlBSWJ5MDdPVGRscVFMcTBpekVieVdYRW1ac0xPOHlNTDRqWTVFMDVudnl2bHloTFUyRGRMLzdvYXMreUNRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.36_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRvaXZabnVxZiszUUwvYjJJNjUxaHlxMEk0QnJFSUpFODZnVWRsNFl6RHZzdWN0aVhlOGc1SlFyRmk0M0gxbkplQWdnVG5hc0h0dnlXM3NYaC9IaXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQwOTg2CWZpbGU6QU9TXzNfMi41LjM3X3g2NF9lbi1VUy5tc2kuemlwCk1MbGpEejFvdXkvMTVkRTJjVHB5aXhFQ0F1R0kzdHZ4RmxvVTlmL01PbEJMbndvOThQR2pjQktScmFGbk9tU05Hc2JYbGphdnN3WHBXK085a0FOMUNRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.37_x64_en-US.msi.zip"
     }
   }
 }
