@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.35",
-  "notes": "v2.5.35. Profit is live: each project has one Profit page that follows the team workbook, with NOT SET where AOS does not have a figure yet. Project managers enter rates, revenue and budgets on the page, and every number explains itself. Operations Intelligence › Profit lists every open project. Machine hours count CNC cards from the 2024-11-18 switch-over on. Export to Excel gives the workbook cell for cell.",
-  "pub_date": "2026-10-14T15:10:38Z",
+  "version": "v2.5.36",
+  "notes": "v2.5.36. Quotes is now Sales, Files is now Data, and Quotinator is now Calculators. Quotes get one Estimate grid with the qBOM parts tree, crews per step, payment terms and hand-off notifications on award. One-page calculators for CNC, Composites, Paint, Trim and RP, calibrated on finished projects. Profit adds forecast at completion, Money in and supplier payments. Engineering gets the eBOM Design grid, model pictures, the Data tab, customer STEP/IGES/STL files in 3D and the AOS 2D drawing editor with Blocks. Routers get Start here, the step library, part facts, pictures and drawings on steps and a live traveler. This release also updates the database behind AOS, so please update when prompted.",
+  "pub_date": "2026-10-26T04:21:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3ppMDhiR1Z1cERpeVI2Qkx3QjYzQmEzZTVnUzdUekV3eUc2ZUF6cHpRd0ZrSnRkT0ZqWHkwTzF5SXlUbWxycE9iSkY1cGVKZm5pTzRhY0UwbVk5akFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTkwNjA2CWZpbGU6QU9TXzNfMi41LjM1X3g2NF9lbi1VUy5tc2kuemlwCktMK0VKTFlFM0xuVExLaU5aQlJvQzh1bkJDK2Ywemd2bHdFR3paR0NjMVRvU3dQNW9LbkxMZEhhNTBuOExMRlV1WDJETjlhSlAvdTJoemdROG5xbUR3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.35_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZGVnJlNnNGQVVheGUrVHhNc0dCSEdGakRQSG9WbDErYnJwY21QdnhyWmNlbEdkNU1HY2dIbUdMcStoNHVSNEpRZ05ZNGNwYXlKU2tXalkvenYxRkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTc5ODA0CWZpbGU6QU9TXzNfMi41LjM2X3g2NF9lbi1VUy5tc2kuemlwCk9aVWFXTDdUVUtxRnRPQit0UU5Uc0svVFlBSWJ5MDdPVGRscVFMcTBpekVieVdYRW1ac0xPOHlNTDRqWTVFMDVudnl2bHloTFUyRGRMLzdvYXMreUNRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.36_x64_en-US.msi.zip"
     }
   }
 }
