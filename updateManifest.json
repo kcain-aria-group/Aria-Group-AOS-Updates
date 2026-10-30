@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.37",
-  "notes": "v2.5.37. eBOM: right-click Add to assembly is back, the insert row takes the number you type, a part goes to the part level, numbers are checked before anything is created, and an Add no longer leaves the project locked. Plan view shows each part's description; the Timeline column is gone.",
-  "pub_date": "2026-10-26T18:56:55Z",
+  "version": "v2.5.38",
+  "notes": "v2.5.38. eBOM status is a workflow with Review, Blocked, Revision Needed and a release builder that sends one email per release; the mBOM status is calculated from real work; CATIA lines and see-through bodies show in the 3D viewer, and lines can be picked one by one; client PO suggestions read the PO number and amount off the PDF for a one-press Confirm; new Tools tab; one loading mark everywhere. This release also updates the database behind AOS, so please update as soon as you are prompted.",
+  "pub_date": "2026-10-30T01:25:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRvaXZabnVxZiszUUwvYjJJNjUxaHlxMEk0QnJFSUpFODZnVWRsNFl6RHZzdWN0aVhlOGc1SlFyRmk0M0gxbkplQWdnVG5hc0h0dnlXM3NYaC9IaXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQwOTg2CWZpbGU6QU9TXzNfMi41LjM3X3g2NF9lbi1VUy5tc2kuemlwCk1MbGpEejFvdXkvMTVkRTJjVHB5aXhFQ0F1R0kzdHZ4RmxvVTlmL01PbEJMbndvOThQR2pjQktScmFGbk9tU05Hc2JYbGphdnN3WHBXK085a0FOMUNRPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.37_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVHeE5xYmIwRnJPbWNzWHpFcjNLdm1IRW9FZW4rbDBicWRnUTNSVURaTkhWT2wwRE1hK2s3ZXNyTFZBRFM1WTAxRE9lWTFWVVpUNDVWcDlXbW5CUkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzIzNDk5CWZpbGU6QU9TXzNfMi41LjM4X3g2NF9lbi1VUy5tc2kuemlwClphVU1kZ05TYU1IUkZUaWx6TDVFbDhOL0ZkYTVjU2gzOE9KUDlBeG5tZFJaMzd1NURZWG5EWDgwQlFIZTZPWDlnVnd5UWRBWkZUeFN3VGtWQ3hPQ0JBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.38_x64_en-US.msi.zip"
     }
   }
 }
