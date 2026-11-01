@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.38",
-  "notes": "v2.5.38. eBOM status is a workflow with Review, Blocked, Revision Needed and a release builder that sends one email per release; the mBOM status is calculated from real work; CATIA lines and see-through bodies show in the 3D viewer, and lines can be picked one by one; client PO suggestions read the PO number and amount off the PDF for a one-press Confirm; new Tools tab; one loading mark everywhere. This release also updates the database behind AOS, so please update as soon as you are prompted.",
-  "pub_date": "2026-10-30T01:25:37Z",
+  "version": "v2.5.39",
+  "notes": "v2.5.39. The 3D viewer manages parts from the model: a right-click console for status, release, rev, engineer, due, star, CMF and records, multi-select with box select, colour by Released, Owner or Priority, a hidden space, faster first opens and one build progress bar. The eBOM grid gets header column filters, a Settings dialog with column order, one-confirm releases of a whole tree with revs saved in the background, a restyled release email, numbered issues with an Issues tab, live updates for everyone and a default model open. CMF follows the eBOM into builds and the CMF page takes bulk edits. Conversion problems say who fixes them, routers and travelers can be deleted and restored, incident response tickets are in, and retired vendor parts are never offered for linking.",
+  "pub_date": "2026-11-01T00:46:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVHeE5xYmIwRnJPbWNzWHpFcjNLdm1IRW9FZW4rbDBicWRnUTNSVURaTkhWT2wwRE1hK2s3ZXNyTFZBRFM1WTAxRE9lWTFWVVpUNDVWcDlXbW5CUkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzIzNDk5CWZpbGU6QU9TXzNfMi41LjM4X3g2NF9lbi1VUy5tc2kuemlwClphVU1kZ05TYU1IUkZUaWx6TDVFbDhOL0ZkYTVjU2gzOE9KUDlBeG5tZFJaMzd1NURZWG5EWDgwQlFIZTZPWDlnVnd5UWRBWkZUeFN3VGtWQ3hPQ0JBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.38_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRHT3NoZEcrME5FNDVLdnJaVFhvRHFKVktOMkhncGJGeDZ4QURZdi9hVmU5MnB4Y0thOE9WaHlsUVpmU0RwR200aXlFbXdlVlRVVlJnejVEZDZmWlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDkzOTM3CWZpbGU6QU9TXzNfMi41LjM5X3g2NF9lbi1VUy5tc2kuemlwClNPSHhyR3U0cSszSzVZU0FEZHhlOGw4elpiQmRFelRBMFpiNlUyT0RMcWlVS1ZzSEN3ZDlxODNoRHNoaE1KK29LWStmQ2pOZ3NKSDFWcVdHb09XakFnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.39_x64_en-US.msi.zip"
     }
   }
 }
