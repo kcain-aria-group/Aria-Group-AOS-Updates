@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.39",
-  "notes": "v2.5.39. The 3D viewer manages parts from the model: a right-click console for status, release, rev, engineer, due, star, CMF and records, multi-select with box select, colour by Released, Owner or Priority, a hidden space, faster first opens and one build progress bar. The eBOM grid gets header column filters, a Settings dialog with column order, one-confirm releases of a whole tree with revs saved in the background, a restyled release email, numbered issues with an Issues tab, live updates for everyone and a default model open. CMF follows the eBOM into builds and the CMF page takes bulk edits. Conversion problems say who fixes them, routers and travelers can be deleted and restored, incident response tickets are in, and retired vendor parts are never offered for linking.",
-  "pub_date": "2026-11-01T00:46:12Z",
+  "version": "v2.5.40",
+  "notes": "v2.5.40. The 3D viewer gets a familiar CAD mouse, edits in place, a tool pill, shaded opens and a tidier Details pane. New geometry tools measure parts exactly, export STEP, IGES, STL and 3MF, cut exact sections and compare revs. The eBOM gets a new release form, a full-screen release document, a document for every Released, plain status history, one-sheet Proc-Mat-Spec changes, and metadata edits that never wait for CATIA. A printer-first RP board, release hand-off to RP and CNC, CNC cards that act in place and only released parts on the CNC board. Profit follows recorded hours and the MS Project plan, with an On track view; Paycom hours follow each punch code. Badge and PIN sign-ins end cleanly, and a runaway conversion is stopped and held.",
+  "pub_date": "2026-11-03T14:09:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azRHT3NoZEcrME5FNDVLdnJaVFhvRHFKVktOMkhncGJGeDZ4QURZdi9hVmU5MnB4Y0thOE9WaHlsUVpmU0RwR200aXlFbXdlVlRVVlJnejVEZDZmWlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDkzOTM3CWZpbGU6QU9TXzNfMi41LjM5X3g2NF9lbi1VUy5tc2kuemlwClNPSHhyR3U0cSszSzVZU0FEZHhlOGw4elpiQmRFelRBMFpiNlUyT0RMcWlVS1ZzSEN3ZDlxODNoRHNoaE1KK29LWStmQ2pOZ3NKSDFWcVdHb09XakFnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.39_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azlIdURWeFVGV3NtNFUyN29VV2NYR21QU1pCcmcweHlINVBUcVhQeTd3SVN5WWN6eGtDUjEzZXJZbUl2OEhEcTBVUklkaWZJZ0lLYnZpOVVPc3RQWXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzE0OTYzCWZpbGU6QU9TXzNfMi41LjQwX3g2NF9lbi1VUy5tc2kuemlwCjR6KzhhZHlMbGtqZzBoODBvdW02eVZ0YkdsQzB4SUZWZUtWQUE3bjJ0N1F6KzBmRUVtMEtJYVRIVzJjOGEzeks2eU5XSFI1VlIxWGdjSXhYb1libkNRPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.40_x64_en-US.msi.zip"
     }
   }
 }
