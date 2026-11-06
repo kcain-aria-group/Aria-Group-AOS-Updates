@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.42",
-  "notes": "v2.5.42. On hold shows in the Status column with a red outline and tint, parts can be put on hold from the row menu, and a hold on a released part holds its CNC cards, RP cards and travelers and tells the PM and lead. The mBOM and the 3D viewer show holds, 3D search narrows the model again and reads descriptions, and the mBOM follows eBOM changes within a minute. Tree or Flat with assembly context, assemblies show the dates under them, Gantt filters, tools in the zone row, and descriptions edit in the Plan view. Quotes show their linked company and the Quote # filter is one search box. Recipient groups ask before dropping edits, RP activity finds every event, report windows start at the right time, and milestone, CMF document, conference room, linked copy, shared sign-in and 2D drawing access follow their rules.",
-  "pub_date": "2026-11-05T04:05:53Z",
+  "version": "v2.5.43",
+  "notes": "v2.5.43. The Floor becomes the Production dashboard: a shop map with department and crew boards, builds and their drift, one part traveler against floor, one meaning of late, fixes for missing dates and untracked parts, the progress overview, Timelines with Location and Last touched, stale-work lists, forecasts with On time, need dates and baselines, usual times, one-line progress on CNC cards and travelers, the machine map, Run next suggestions and a shop TV wallboard (each turned on from Engineering > Controls > Floor progress). The eBOM adds placeholder parts, Relocate, and Step with an mBOM ETA; release emails list tools under Tooling and BOM notices fire from every door. The 3D viewer colours an mBOM by its own build and by Step and ETA. CNC Mill queue cards get a Short layout. Also: milestone groups name the right build, lot storage and out-time temperatures, pack units on requisitions, vendor confirms on top, clearer crew and sign-off refusals, ticket mailboxes stay connected, client PO Undo time, and live Websites updates.",
+  "pub_date": "2026-11-06T23:58:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNEbmwrWDNvbUdDOHM4ZkRMOTliSXg4UFlDem1UMVhMUXg1Q28vRmhHcGRJeXJDY1R5bFR0WktkcmNnV1Yvck1mOEFROXFXTmVHSVlrVUNtNGtDandJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUxNTIyCWZpbGU6QU9TXzNfMi41LjQyX3g2NF9lbi1VUy5tc2kuemlwCllhVW8yYVZWcDhOYmhkZmRHZmpyU3VUVmdHaHJKa0NQRXJHZFRybnBkYUlaNFZYbVYvV1BEUStCMmdKVHlWS25SWFlQLytWUDgxbVlHaXljcFozbURnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.42_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azVacUplTXhMenVMSW9yKzVKejVzaStCTDk5N2JKbjZJVEtmQmFJWG9wNDFrMWZpSGM4T3VGaHQwNi9oaGk0WmxjeFVxV3l5aysrWU8ycFlnaVRkMGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDA5NDU1CWZpbGU6QU9TXzNfMi41LjQzX3g2NF9lbi1VUy5tc2kuemlwCjRheUJVdDdpNjl0enlHNHgrK3RORG5zZVNybExxelFUakhEWUVHRk9tdTVXRGxJNGZMZVpZdFZkcEZ3dnRjRzNYTWpQdmZZejNQNDdZa3ZpMDVsdEFnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.43_x64_en-US.msi.zip"
     }
   }
 }
