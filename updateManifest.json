@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.44",
-  "notes": "v2.5.44. Access and roles: a clearer Access tab (every role as a pill, one search box, roles grouped by area with a plain sentence each), the Permissions tab's last fields (IT Support, Project Manager picker, Project Lead picker, CNC Programmer, Client PO notices) are roles given on the Access tab, and every admin and manager check follows the roles. Shop floor: QR Scanner stations (an administrator sets a shop PC as a station; a scan moves what was scanned with its kitted parts, shows what moved, and can be undone for 15 seconds; the last 20 scans each have Undo; Send to moves work to In Transit, Outside Vendor or Ship To Client), a scan moves only its own copy, badges stay private, second-person sign-offs check the badge, and My Work columns line up again. Floor counts match the department boards. A deleted router stays deleted. Set Step in the 3D viewer, and a Step viewer. Short CNC cards show the project and build. One search box for recipients.",
-  "pub_date": "2026-11-10T08:26:02Z",
+  "version": "v2.5.45",
+  "notes": "v2.5.45. Customer portal: customers sign in with an authenticator, see previews of everything they send (CATIA included), raise and answer flags, and approve restructured packages item by item; a portal intake view inside AOS. eBOM: a Release timeline (Timeline, Time machine, Rev map) with event layers and Recover, deleted rows come back, custom step groups, steps cascade down assemblies, History on every row, release emails always arrive, pictures always current. Routers and travelers: templates update routers, a router change keeps the floor travelers, Replace traveler, clearer publish drawer. 3D: saved models rebuild on their own, saved views, view a model together, part bodies, a fully worded toolbar. CNC card v2 with phase lights and a faster board. Badge PINs, one scanner for the whole app, notification settings, and access by role everywhere.",
+  "pub_date": "2026-11-12T07:55:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3pVdGt3MDY4MlowVE4yZjdjcjltUEVoOVpqTWVxbkdkTWY2cXpJZitrcU45ako3Q2VpNXNkbVQvcEZpZ25sNTllQ1lCbDU0eU1xdmdxRG9MK0xhVkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjk5MTM1CWZpbGU6QU9TXzNfMi41LjQ0X3g2NF9lbi1VUy5tc2kuemlwCndlZG4rc0pMZXBqcnp3R0JjQ3hhSk8zaFlHZ2hHT1Q4a0FacWYyM0Z4M3ZmNndtZTVHc2RSZGtVV2lyMXdhN1l2alB6SEtHa2s5Uk41UkZWMkJtekFBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.44_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytVeTN2K1RNbXVZdjZua0xnb1ZPb0s3ejdoY0dtT2t3K2x2REQ5blZWdVRCNmhXVks0enFmSUZxbWFDMjB4SXBNVExWT3V4TG9oUFFtNFk0ZGg5S2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY3NTI0CWZpbGU6QU9TXzNfMi41LjQ1X3g2NF9lbi1VUy5tc2kuemlwCm9KMUtjWENxeGZ5Q1ZQZ1RuLzErencwWHpUSXNtdWt0YmNOZi9PWlhqZ3MrQWRyUHFEYUFmUzhFZHBSRkEzWXBWbHZLcVk1NHhna1RkY2JZKzVmU0NBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.45_x64_en-US.msi.zip"
     }
   }
 }
