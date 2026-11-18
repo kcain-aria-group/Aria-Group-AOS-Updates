@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.45",
-  "notes": "v2.5.45. Customer portal: customers sign in with an authenticator, see previews of everything they send (CATIA included), raise and answer flags, and approve restructured packages item by item; a portal intake view inside AOS. eBOM: a Release timeline (Timeline, Time machine, Rev map) with event layers and Recover, deleted rows come back, custom step groups, steps cascade down assemblies, History on every row, release emails always arrive, pictures always current. Routers and travelers: templates update routers, a router change keeps the floor travelers, Replace traveler, clearer publish drawer. 3D: saved models rebuild on their own, saved views, view a model together, part bodies, a fully worded toolbar. CNC card v2 with phase lights and a faster board. Badge PINs, one scanner for the whole app, notification settings, and access by role everywhere.",
-  "pub_date": "2026-11-12T07:55:09Z",
+  "version": "v2.5.47",
+  "notes": "v2.5.47. Client portal: one Client portal page with status at a glance; deliveries sort themselves (copies, renames, new versions, rollbacks, junk); ARIA accepts and pins the version that counts; an explorer, the Record and evidence pages on both sides; messages on anything with tags, mentions and email updates; per-person access; review deadlines with auto lock-in and an internal ECN for late changes; new client spaces from real projects and quotes. Production: one Production page with Needs a manager, Lanes and People. 3D: Inside lists any part's CATIA bodies, a pre-convert start date, SpaceMouse in every viewer. Also the KIT chip, RP prints recorded by the scan, tool calibration, scan history and access answers from the role model.",
+  "pub_date": "2026-11-18T12:28:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5aytVeTN2K1RNbXVZdjZua0xnb1ZPb0s3ejdoY0dtT2t3K2x2REQ5blZWdVRCNmhXVks0enFmSUZxbWFDMjB4SXBNVExWT3V4TG9oUFFtNFk0ZGg5S2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY3NTI0CWZpbGU6QU9TXzNfMi41LjQ1X3g2NF9lbi1VUy5tc2kuemlwCm9KMUtjWENxeGZ5Q1ZQZ1RuLzErencwWHpUSXNtdWt0YmNOZi9PWlhqZ3MrQWRyUHFEYUFmUzhFZHBSRkEzWXBWbHZLcVk1NHhna1RkY2JZKzVmU0NBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.45_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9RVDc3NFNQSVhEcHZaU2NtckVXVXVtVGRaQ2ZPZmFTS2w5L3FrK2JodkR4RjhRMjg1d2YxcUVqcXBjazEwSXdrWnl5L25qMThXT0VBUG9TdFNZeVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA0NTU5CWZpbGU6QU9TXzNfMi41LjQ3X3g2NF9lbi1VUy5tc2kuemlwCmNuZmxvc3RrRU9mZndkakQ1NUVSKzZnR0dzcndwS0JEOWtJQndic0hwSnV3QncyakdPNkp1Tmx1c2tPdlUxZW5JS2RaQkNIcDhibU13eUFmOUhhcENBPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.47_x64_en-US.msi.zip"
     }
   }
 }
