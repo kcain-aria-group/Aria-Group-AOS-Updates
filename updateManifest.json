@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.47",
-  "notes": "v2.5.47. Client portal: one Client portal page with status at a glance; deliveries sort themselves (copies, renames, new versions, rollbacks, junk); ARIA accepts and pins the version that counts; an explorer, the Record and evidence pages on both sides; messages on anything with tags, mentions and email updates; per-person access; review deadlines with auto lock-in and an internal ECN for late changes; new client spaces from real projects and quotes. Production: one Production page with Needs a manager, Lanes and People. 3D: Inside lists any part's CATIA bodies, a pre-convert start date, SpaceMouse in every viewer. Also the KIT chip, RP prints recorded by the scan, tool calibration, scan history and access answers from the role model.",
-  "pub_date": "2026-11-18T12:28:29Z",
+  "version": "v2.5.48",
+  "notes": "v2.5.48. eBOM and mBOM step groups: the Step cell shows and edits the picked group, every row stays visible, Group filter, empty steps kept; the BOM grid wraps before it scrolls. 3D viewer: edits step groups (insert, delete, Only <group>), clicking a part keeps the viewer open. Client portal: the Explorer opens on a Timeline with a key and filters. Travelers: a closed file tab stays closed. Security: the newest Secure Score is stored, an unreadable vendor password says so, and errors answer in plain words.",
+  "pub_date": "2026-11-19T08:21:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5ay9RVDc3NFNQSVhEcHZaU2NtckVXVXVtVGRaQ2ZPZmFTS2w5L3FrK2JodkR4RjhRMjg1d2YxcUVqcXBjazEwSXdrWnl5L25qMThXT0VBUG9TdFNZeVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA0NTU5CWZpbGU6QU9TXzNfMi41LjQ3X3g2NF9lbi1VUy5tc2kuemlwCmNuZmxvc3RrRU9mZndkakQ1NUVSKzZnR0dzcndwS0JEOWtJQndic0hwSnV3QncyakdPNkp1Tmx1c2tPdlUxZW5JS2RaQkNIcDhibU13eUFmOUhhcENBPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.47_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3pwQU1Tb0RzZlNiVFFiR0M4TEFhTmN5NTZsYlo1bzNwNEtOUjRaT2thWTVPRnFBczV3VVJVVkZkREZXRmg0Ly9zWCt1YWJMai9oMDV2b2hJdUg5TndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDc2NDc1CWZpbGU6QU9TXzNfMi41LjQ4X3g2NF9lbi1VUy5tc2kuemlwClR1MDJwczhNYm0rVXJxQTFOcU1SNXlkQVBHRWRtbXpnVEFxU29PVEJ1QzMydDNVRzRrN1RzNnVERVlYM2hvTFRtdWJzQU5oTVdHZTJhQXMydkdXR0FnPT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.48_x64_en-US.msi.zip"
     }
   }
 }
