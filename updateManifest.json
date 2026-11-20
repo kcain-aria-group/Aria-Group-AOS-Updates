@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.48",
-  "notes": "v2.5.48. eBOM and mBOM step groups: the Step cell shows and edits the picked group, every row stays visible, Group filter, empty steps kept; the BOM grid wraps before it scrolls. 3D viewer: edits step groups (insert, delete, Only <group>), clicking a part keeps the viewer open. Client portal: the Explorer opens on a Timeline with a key and filters. Travelers: a closed file tab stays closed. Security: the newest Secure Score is stored, an unreadable vendor password says so, and errors answer in plain words.",
-  "pub_date": "2026-11-19T08:21:31Z",
+  "version": "v2.5.49",
+  "notes": "v2.5.49. eBOM, mBOM and 3D viewer: step colour tags per part per step list (swatch on the eBOM, read-only on the mBOM, Show alt colours in the viewer); the Step column head holds the step-group tools; Colour tags… manager (rename, recolour, delete with Undo) and Duplicate step group; your step-group choices follow your account. Travelers: the floor shows a copied step drawing at the revision it was built with; a traveler opened read only matches the floor; Open in 3D at this view stays on the floor; the router builder preview sends nothing; the Live traveler pane no longer loops. Inventory: conversions AOS already makes are refused and Correct units warns; the scanner asks the same-kit question for an unclassified lot. Teams: a project can be linked to a team again. Security: the Microsoft 365 tab says what the last sync found; fleet screens say when a read failed; more errors answer in plain words.",
+  "pub_date": "2026-11-20T01:51:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5a3pwQU1Tb0RzZlNiVFFiR0M4TEFhTmN5NTZsYlo1bzNwNEtOUjRaT2thWTVPRnFBczV3VVJVVkZkREZXRmg0Ly9zWCt1YWJMai9oMDV2b2hJdUg5TndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDc2NDc1CWZpbGU6QU9TXzNfMi41LjQ4X3g2NF9lbi1VUy5tc2kuemlwClR1MDJwczhNYm0rVXJxQTFOcU1SNXlkQVBHRWRtbXpnVEFxU29PVEJ1QzMydDNVRzRrN1RzNnVERVlYM2hvTFRtdWJzQU5oTVdHZTJhQXMydkdXR0FnPT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.48_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNmbFdwb0ZVUHBYdlh2V2h0RzU4UnRZdXlPb2w5SitFUmJkWi9UQmRoTkpRbVAwNjBMNWVLSHROWEVyMUE4KzlRYW45cWY2NkFtZmZKK2x0V3llY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM5MzA1CWZpbGU6QU9TXzNfMi41LjQ5X3g2NF9lbi1VUy5tc2kuemlwCisyQW5uZ0RjNVg3dDFjSk1YSXgzOE1WL3dKN0lxcEtuNVo1MkJSM1puMGpZOU96a1FnUUc0ajBvZmdnSkQ0SStnYitOUWhmelBlU2FnMWF5THlhV0R3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.49_x64_en-US.msi.zip"
     }
   }
 }
