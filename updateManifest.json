@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.49",
-  "notes": "v2.5.49. eBOM, mBOM and 3D viewer: step colour tags per part per step list (swatch on the eBOM, read-only on the mBOM, Show alt colours in the viewer); the Step column head holds the step-group tools; Colour tags… manager (rename, recolour, delete with Undo) and Duplicate step group; your step-group choices follow your account. Travelers: the floor shows a copied step drawing at the revision it was built with; a traveler opened read only matches the floor; Open in 3D at this view stays on the floor; the router builder preview sends nothing; the Live traveler pane no longer loops. Inventory: conversions AOS already makes are refused and Correct units warns; the scanner asks the same-kit question for an unclassified lot. Teams: a project can be linked to a team again. Security: the Microsoft 365 tab says what the last sync found; fleet screens say when a read failed; more errors answer in plain words.",
-  "pub_date": "2026-11-20T01:51:21Z",
+  "version": "v2.5.50",
+  "notes": "v2.5.50. Client portal: new design, Data workspace, guided flows, in-house e-signature, client POs, item-by-item approval, build progress, parts, milestones, gallery, reports, live 3D view with a client, ARIA GROUP only names. Portal management in AOS: visual Overview, project doors, per-space exposure, prospects, countersign setting. 3D viewer: new layout, activity heat, step viewer controls, full guide. Model notes: types, builds, tags, filters, pins, explorer. eBOM: rev 0 releases at 0; a rev change never marks a part released. Production: mBOM landing, Build Tracker, Find part page; Old pages toggle removed. Operations Intelligence: Tool usage, ECN client POs. Quality, purchasing, roles, badges and document-folder fixes.",
+  "pub_date": "2026-11-25T07:59:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azNmbFdwb0ZVUHBYdlh2V2h0RzU4UnRZdXlPb2w5SitFUmJkWi9UQmRoTkpRbVAwNjBMNWVLSHROWEVyMUE4KzlRYW45cWY2NkFtZmZKK2x0V3llY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM5MzA1CWZpbGU6QU9TXzNfMi41LjQ5X3g2NF9lbi1VUy5tc2kuemlwCisyQW5uZ0RjNVg3dDFjSk1YSXgzOE1WL3dKN0lxcEtuNVo1MkJSM1puMGpZOU96a1FnUUc0ajBvZmdnSkQ0SStnYitOUWhmelBlU2FnMWF5THlhV0R3PT0K",
-      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.49_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0RDOHBmMUw5azZTdE5QZU1hRFJyaytBYUhBcWpnYk9yUGVpUzd6TGt3b1c2eGI2M3Z6dk5MUzEzLzZvL29BeTBiN2kxZXBMSnFGK1BsdUJiRUxMUjNFRVFWSGFLNXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTkzNDAzCWZpbGU6QU9TXzNfMi41LjUwX3g2NF9lbi1VUy5tc2kuemlwCjhFQ09YdmFqRjBOSDNpR0xFQzFnUUh3dUQ1dWFHYmVLeXAvWm8zV1lzQ0hCRmFhZ2xxWG9PVGllS1VCOEZqL2VBN1cyQWFPRWZuTzZ5RGV3eGZhQkN3PT0K",
+      "url": "https://github.com/kcain-aria-group/Aria-Group-AOS-Updates/raw/main/AOS_3_2.5.50_x64_en-US.msi.zip"
     }
   }
 }
